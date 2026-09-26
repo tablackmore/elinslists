@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://www.fredriksborghotel.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Fredriksborg%20Hotell%20%26%20Restaurang%2C%20Fredriksborgsv%C3%A4gen%2019%2C%20V%C3%A4rmd%C3%B6",
+ "maps": "https://www.google.com/maps/place/Fredriksborg+Hotell+%26+Restaurang/@59.4005296,18.4411057,17z/data=!4m9!3m8!1s0x465f8722562648af:0xd6ec14a2e108e3c4!5m2!4m1!1i2!8m2!3d59.4005296!4d18.4411057!16s%2Fg%2F12vs21gv7",
  "address": "Fredriksborgsvägen 17, 139 90 Värmdö",
  "scores": [
   {

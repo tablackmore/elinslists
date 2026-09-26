@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://www.bullandokrog.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Bulland%C3%B6%20Krog%2C%20Bulland%C3%B6%20Marina%2C%20V%C3%A4rmd%C3%B6",
+ "maps": "https://www.google.com/maps/place/Bulland%C3%B6+krog/@59.2977986,18.6502406,548m/data=!3m2!1e3!4b1!4m6!3m5!1s0x465f80f4171873e3:0x72589f06cf44eb36!8m2!3d59.2977986!4d18.6502406!16s%2Fg%2F1hc5qqtyx",
  "address": "Bullandövägen 30, Bullandö Marina, 139 56 Värmdö",
  "scores": [
   {

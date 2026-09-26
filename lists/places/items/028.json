@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://www.loopen.se",
- "maps": "https://www.google.com/maps/search/?api=1&query=Loopen%2C%20Hornstulls%20strand%206%2C%20Stockholm",
+ "maps": "https://www.google.com/maps/place/Loopen+-+Restaurang+%26+Bar/@59.3134052,18.0330504,17z/data=!3m1!4b1!4m6!3m5!1s0x465f77c69c45a085:0x2f8165ad4d243b92!8m2!3d59.3134052!4d18.0330504!16s%2Fg%2F1tgx56s4",
  "address": "Hornstulls strand 6, 117 39 Stockholm",
  "scores": [
   {

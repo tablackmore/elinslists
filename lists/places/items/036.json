@@ -8,7 +8,7 @@
  "status": "open",
  "price": 3,
  "website": "https://gondolen.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Gondolen%2C%20Stadsg%C3%A5rden%206%2C%20Stockholm",
+ "maps": "https://www.google.com/maps/place/Gondolen/@59.3196046,18.0732051,17z/data=!3m1!4b1!4m6!3m5!1s0x465f77eb53b34105:0xf2d977cd4e1f2af4!8m2!3d59.3196046!4d18.0732051!16s%2Fg%2F11l1rgq_hz",
  "address": "Stadsgården 6, 116 45 Stockholm",
  "scores": [
   {

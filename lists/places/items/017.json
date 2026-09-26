@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://stavsnaskrog.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%20Krog%2C%20Stavsn%C3%A4s%20vinterhamn",
+ "maps": "https://www.google.com/maps/place/Stavsn%C3%A4s+Krog/@59.2869377,18.7047072,548m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46f5799754f0331f:0xa2134e279067b610!8m2!3d59.2869377!4d18.7047072!16s%2Fg%2F11j6_rqssv",
  "address": "Stavsnäsvägen 222, 139 71 Stavsnäs",
  "scores": [
   {

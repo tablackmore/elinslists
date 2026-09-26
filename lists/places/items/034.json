@@ -8,7 +8,7 @@
  "status": "open",
  "price": 2,
  "website": "https://hermans.se",
- "maps": "https://www.google.com/maps/search/?api=1&query=Hermans%2C%20Fj%C3%A4llgatan%2023B%2C%20Stockholm",
+ "maps": "https://www.google.com/maps/place/Hermans/@59.3175886,18.0839872,17z/data=!3m1!4b1!4m6!3m5!1s0x465f77f939f7c185:0xce185c6a7d5a92b2!8m2!3d59.3175886!4d18.0839872!16s%2Fg%2F1tgmtwwv",
  "address": "Fjällgatan 23B, 116 28 Stockholm",
  "scores": [
   {

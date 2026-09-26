@@ -8,7 +8,7 @@
  "status": "open",
  "price": 3,
  "website": "https://restaurangj.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Restaurang%20J%2C%20Augustendalsv%C3%A4gen%2052%2C%20Nacka%20Strand",
+ "maps": "https://www.google.com/maps/place/Restaurang+J/@59.3181152,18.1603046,17z/data=!3m1!4b1!4m6!3m5!1s0x465f828396b63e85:0x5c3d24adb6fb5a41!8m2!3d59.3181152!4d18.1603046!16s%2Fg%2F1hc3sgb2t",
  "address": "Augustendalsvägen 52, 131 52 Nacka Strand",
  "scores": [
   {

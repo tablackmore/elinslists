@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://ny.malarpaviljongen.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=M%C3%A4larpaviljongen%2C%20Norr%20M%C3%A4larstrand%2064%2C%20Stockholm",
+ "maps": "https://www.google.com/maps/place/M%C3%A4larpaviljongen/@59.3274705,18.0343205,17z/data=!3m1!4b1!4m6!3m5!1s0x465f77d77475d163:0x7e38bf480a25abbc!8m2!3d59.3274705!4d18.0343205!16s%2Fg%2F1tf30004",
  "address": "Norr Mälarstrand 64, 112 35 Stockholm",
  "scores": [
   {

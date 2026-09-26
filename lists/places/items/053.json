@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 3,
  "website": "https://www.edensthlm.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Eden%2C%20Smedsuddsv%C3%A4gen%2023%2C%20Stockholm",
+ "maps": "https://www.google.com/maps/place/Eden/@59.325525,18.0236206,17z/data=!3m1!4b1!4m6!3m5!1s0x465f770bf2bf0565:0xa3db8a7c59488e29!8m2!3d59.325525!4d18.0236206!16s%2Fg%2F11sz1d5x5x",
  "address": "Smedsuddsvägen 23, 112 35 Stockholm",
  "scores": [
   {

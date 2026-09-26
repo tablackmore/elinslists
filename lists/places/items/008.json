@@ -8,7 +8,7 @@
  "status": "seasonal",
  "price": 2,
  "website": "https://bistrobjorkvik.se/",
- "maps": "https://www.google.com/maps/search/?api=1&query=Bistro%20Bj%C3%B6rkvik%2C%20Bj%C3%B6rkviksv%C3%A4gen%2024%2C%20Ingar%C3%B6",
+ "maps": "https://www.google.com/maps/place/Bistro+Bj%C3%B6rkvik/@59.2211111,18.5375,17z/data=!3m1!4b1!4m6!3m5!1s0x46f582306a6c1461:0xc239737fedd3778!8m2!3d59.2211111!4d18.5375!16s%2Fg%2F12hq9fswv",
  "address": "Björkviksvägen 24, 134 66 Ingarö",
  "scores": [
   {
