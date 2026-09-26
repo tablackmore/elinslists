@@ -36,6 +36,12 @@ browser's language decides (`pickLanguage()` in `src/assets/site.js`). UI text l
 table in the same file; item text lives in each item's `sv` and `en` blocks. A missing English text
 falls back to Swedish.
 
+## Place categories
+
+The type filter on the places page (Restaurant, Bar, Cafe, Places to stay, Sauna, Events) is worked out in
+`build.py` (`CATEGORIES`) from each place's Swedish "kind", so "Restaurang & bar" counts as both. If a place
+comes out wrong, give its item an explicit list, e.g. `"categories": ["cafe", "bar"]`.
+
 ## Ratings
 
 "Have we been?" (places) and the stars on recipes work in two modes:

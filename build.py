@@ -6,6 +6,7 @@
 No dependencies beyond Python 3. docs/ is what GitHub Pages serves (Settings > Pages > main /docs).
 """
 import json
+import re
 import shutil
 from pathlib import Path
 
@@ -36,11 +37,29 @@ def items(slug):
     return sorted((read(f) for f in (LISTS / slug / "items").glob("*.json")), key=lambda x: x["n"])
 
 
+# Place categories for the filter chips, worked out from the Swedish "kind" ("Restaurang & bar" -> restaurant, bar).
+# An item can override them with its own "categories": [...] list.
+CATEGORIES = [
+    ("restaurant", r"restaurang|bistro|brasserie|krog|buff[eé]|pizzeria"),
+    ("bar",        r"\bbar\b|boulebar|strandbar"),
+    ("cafe",       r"caf[eé]|kaf[eé]|bageri"),
+    ("stay",       r"hotell|stugor|vandrarhem|gästhem"),
+    ("sauna",      r"bastu"),
+    ("events",     r"konferens|event"),
+]
+
+
+def categories(item):
+    kind = item["sv"].get("kind", "").lower()
+    return item.get("categories") or [c for c, rx in CATEGORIES if re.search(rx, kind)]
+
+
 def places():
     meta, out = read(LISTS / "places/list.json"), []
     for src in items("places"):
         p = dict(src)  # "id" is permanent (ratings are saved under it); "n" is the number shown, which can shift
         p["en"] = {k: v for k, v in src.get("en", {}).items() if not k.startswith("_")}
+        p["categories"] = categories(src)
         # free photo, if one was found: lists/places/photos/<book id>.json + .jpg
         meta_file = LISTS / "places/photos" / f"{src['id']:03d}.json"
         if meta_file.exists():
@@ -50,7 +69,11 @@ def places():
             shutil.copy(LISTS / "places" / ph["file"], DOCS / dst)
             p["photo"] = dict(ph, file=dst)
         out.append(p)
-    return dict(sv=meta["sv"], en=meta["en"], chapters=meta["chapters"], places=out)
+    used = [c for c, _ in CATEGORIES if any(c in p["categories"] for p in out)]
+    uncategorised = [p["n"] for p in out if not p["categories"]]
+    if uncategorised:
+        print("places without a category (add \"categories\" to the item):", uncategorised)
+    return dict(sv=meta["sv"], en=meta["en"], chapters=meta["chapters"], categories=used, places=out)
 
 
 def recipes():

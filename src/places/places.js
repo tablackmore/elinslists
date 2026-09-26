@@ -2,7 +2,7 @@
 (async () => {
   const DATA = await loadJSON("../data/places.json");
   const byN = new Map(DATA.places.map((p) => [p.n, p]));
-  const state = { chapter: null, q: "", year: false, fresh: false, selected: null };
+  const state = { chapter: null, types: new Set(), q: "", year: false, fresh: false, selected: null };
   const $ = (s) => document.querySelector(s);
   const rated = (p) => (Ratings.get(`places:${p.id}`) || {}).stars || 0; // saved under the permanent id, not the shown number
 
@@ -30,6 +30,13 @@
     const b = e.target.closest(".chip"); if (!b) return;
     state.chapter = b.dataset.c === "" ? null : +b.dataset.c; renderChips(); renderList(true);
   });
+  // categories: pick any number; a place shows if it has at least one of them
+  $("#types").addEventListener("click", (e) => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    if (!b.dataset.t) state.types.clear();
+    else state.types.has(b.dataset.t) ? state.types.delete(b.dataset.t) : state.types.add(b.dataset.t);
+    renderChips(); renderList(true);
+  });
   $("#q").addEventListener("input", (e) => { state.q = e.target.value.trim().toLowerCase(); renderList(); });
   $("#f-year").addEventListener("change", (e) => { state.year = e.target.checked; renderList(); });
   $("#f-new").addEventListener("change", (e) => { state.fresh = e.target.checked; renderList(); });
@@ -37,14 +44,19 @@
   function visible(p) {
     const x = L10N(p);
     if (state.chapter !== null && p.chapter !== state.chapter) return false;
+    if (state.types.size && !p.categories.some((c) => state.types.has(c))) return false;
     if (state.year && p.status === "seasonal") return false;
     if (state.fresh && rated(p)) return false;
     if (state.q && ![x.name, x.kind, x.area, x.tagline, x.description].join(" ").toLowerCase().includes(state.q)) return false;
     return true;
   }
   function renderChips() {
-    $("#chips").innerHTML = [`<button class="chip" data-c="" aria-pressed="${state.chapter === null}">${esc(t("all"))}</button>`]
+    $("#chips").innerHTML = [`<span class="chips__label">${esc(t("area"))}</span><button class="chip" data-c="" aria-pressed="${state.chapter === null}">${esc(t("all"))}</button>`]
       .concat(DATA.chapters.map((c, i) => `<button class="chip" data-c="${i}" aria-pressed="${state.chapter === i}">${esc(L10N(c).short)}</button>`)).join("");
+    const count = (c) => DATA.places.filter((p) => p.categories.includes(c)).length;
+    $("#types").innerHTML = [`<span class="chips__label">${esc(t("type"))}</span><button class="chip" data-t="" aria-pressed="${!state.types.size}">${esc(t("all"))}</button>`]
+      .concat(DATA.categories.map((c) => `<button class="chip" data-t="${c}" aria-pressed="${state.types.has(c)}">${esc(t("cat")[c])} <span class="chip__n">${count(c)}</span></button>`)).join("");
+    $("#chips").setAttribute("aria-label", t("area")); $("#types").setAttribute("aria-label", t("type"));
   }
   function renderList(fit) {
     const shown = DATA.places.filter(visible);
