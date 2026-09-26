@@ -1,12 +1,12 @@
 /* Green favourites: our own short description of each recipe + credit and link to its creator.
-   Stars on each card are kept on this device (localStorage "elinslists:recipes:<n>"). */
+   Stars are saved under the recipe's permanent id ("recipes:<id>"), on this device or in Supabase. */
 (async () => {
   const DATA = await loadJSON("../data/recipes.json");
   const state = { chapter: null, q: "", fresh: false };
   const $ = (s) => document.querySelector(s);
   // one quiet colour per chapter for the card's top edge (same hue family as the site accent)
   const HUES = ["#5b8a5a", "#b07a2e", "#a2553f", "#6d6a9a", "#3f7f8f", "#8a6d4f", "#9a7d3a", "#a4587a"];
-  const rating = (r) => Ratings.get(`recipes:${r.n}`) || {};
+  const rating = (r) => Ratings.get(`recipes:${r.id}`) || {}; // saved under the permanent id, not the shown number
 
   $("#chips").addEventListener("click", (e) => {
     const b = e.target.closest(".chip"); if (!b) return;
@@ -36,7 +36,7 @@
       <div class="card__foot">
         ${r.link ? `<a class="btn" href="${esc(r.link)}" target="_blank" rel="noopener">${esc(t("open_recipe"))} ↗</a>` : "<span></span>"}
         <span class="card__stars" role="radiogroup" aria-label="${esc(t("cooked_it"))}">${[1, 2, 3, 4, 5].map((i) =>
-          `<button class="${i <= (v.stars || 0) ? "on" : ""}" data-n="${r.n}" data-s="${i}" role="radio" aria-checked="${i === v.stars}" aria-label="${esc(t("rate", { n: i }))}">★</button>`).join("")}</span>
+          `<button class="${i <= (v.stars || 0) ? "on" : ""}" data-id="${r.id}" data-s="${i}" role="radio" aria-checked="${i === v.stars}" aria-label="${esc(t("rate", { n: i }))}">★</button>`).join("")}</span>
       </div></article>`;
   }
 
@@ -50,7 +50,7 @@
   // tap a star to rate "have we made it?"; tap the same star again to clear
   $("#out").addEventListener("click", async (e) => {
     const b = e.target.closest(".card__stars button"); if (!b) return;
-    const key = `recipes:${b.dataset.n}`, old = Ratings.get(key) || {};
+    const key = `recipes:${b.dataset.id}`, old = Ratings.get(key) || {};
     const stars = +b.dataset.s === old.stars ? 0 : +b.dataset.s;
     try { await Ratings.set(key, { ...old, stars, date: old.date || new Date().toISOString().slice(0, 10) }); } catch (err) { /* stays as it was */ }
   });

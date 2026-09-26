@@ -39,13 +39,13 @@ def items(slug):
 def places():
     meta, out = read(LISTS / "places/list.json"), []
     for src in items("places"):
-        p = {k: v for k, v in src.items() if k != "id"}
+        p = dict(src)  # "id" is permanent (ratings are saved under it); "n" is the number shown, which can shift
         p["en"] = {k: v for k, v in src.get("en", {}).items() if not k.startswith("_")}
         # free photo, if one was found: lists/places/photos/<book id>.json + .jpg
         meta_file = LISTS / "places/photos" / f"{src['id']:03d}.json"
         if meta_file.exists():
             ph = read(meta_file)
-            dst = f"photos/places/{p['n']:02d}.jpg"
+            dst = f"photos/places/{src['id']:03d}.jpg"  # by permanent id, so renumbering never renames files
             (DOCS / dst).parent.mkdir(parents=True, exist_ok=True)
             shutil.copy(LISTS / "places" / ph["file"], DOCS / dst)
             p["photo"] = dict(ph, file=dst)
@@ -55,7 +55,7 @@ def places():
 
 def recipes():
     meta = read(LISTS / "recipes/list.json")
-    out = [{k: v for k, v in r.items() if k != "id"} for r in items("recipes")]
+    out = items("recipes")
     return dict(sv=meta["sv"], en=meta["en"], chapters=meta["chapters"], recipes=out)
 
 

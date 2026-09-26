@@ -1,0 +1,74 @@
+{
+ "id": 13,
+ "n": 3,
+ "chapter": 0,
+ "lat": 59.32754,
+ "lon": 18.08339,
+ "km": 1.2,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.torpedverkstan.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Torpedverkstan%2C%20Slupskjulsv%C3%A4gen%2028B%2C%20Skeppsholmen%2C%20Stockholm",
+ "address": "Slupskjulsvägen 28B, 111 49 Stockholm",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 960
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.3,
+   "scale": 5,
+   "count": 135
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.2,
+   "scale": 5,
+   "count": 10
+  },
+  {
+   "site": "SvD",
+   "rating": 3,
+   "scale": 6,
+   "count": null
+  }
+ ],
+ "sv": {
+  "name": "Torpedverkstan",
+  "kind": "Restaurang & bar",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Gammal torpedverkstad med uteservering på kajen",
+  "description": "Restaurangen ligger i en kulturmärkt torpedverkstad från 1890 längs kajen på Skeppsholmen, där de gamla fartygen ligger förtöjda. Från uteserveringen ser man båtarna, Nybroviken, Strandvägen och Djurgården, och på sommarkvällar ligger kvällssolen på kajen. Lokalen är industriell med ett öppet kök och en stor bar. Menyn är bistroinriktad: svensk mat med influenser från Medelhavet, Mexiko och Asien, med fisk, kött och vegetariska rätter samt lunch på vardagar. Passar par som vill sitta vid vattnet mitt i stan utan att åka ut i skärgården. Promenera över Skeppsholmsbron från Kungsträdgården (ca 10 minuter) eller ta buss 65 till Skeppsholmen.",
+  "season": "Året runt; stor uteservering vid kajen vår och sommar",
+  "best_for": "Sommarkväll på kajen mitt i stan",
+  "good_to_know": [
+   "Öppet mån–lör 11–23, sön 11–22",
+   "Boka bord online eller på 08-611 41 00",
+   "Hundar välkomna",
+   "Buss 65 till Skeppsholmen, eller 10 min promenad från Kungsträdgården",
+   "Julbord i december"
+  ],
+  "review_summary": "Recensenter är nästan eniga om att läget är det stora skälet att gå hit: uteserveringen vid kajen med båtarna och utsikten mot Strandvägen och Djurgården, och en charmig industrimiljö inomhus. Brunchen och enskilda fiskrätter får beröm. Kritiken återkommer dock: ojämn och ibland långsam eller ouppmärksam service, små portioner för priset, dyrt vin och mat som beskrivs som okej men inte mer. SvD gav 3 av 6 i augusti 2024. Enligt Tripadvisor har restaurangen nya ägare sedan april 2026, så äldre omdömen gäller delvis en annan drift."
+ },
+ "en": {
+  "name": "Torpedverkstan",
+  "kind": "Restaurant & bar",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Old torpedo workshop with a terrace on the quay",
+  "description": "The restaurant is in a listed torpedo workshop from 1890 along the quay on Skeppsholmen, where the old ships lie moored. From the terrace you look out over the boats, Nybroviken, Strandvägen and Djurgården, and on summer evenings the late sun falls across the quay. Inside it is industrial, with an open kitchen and a large bar. The menu is bistro-style: Swedish food with Mediterranean, Mexican and Asian influences, with fish, meat and vegetarian dishes, plus lunch on weekdays. Good for couples who want to sit by the water in the middle of town without heading out to the archipelago. Walk over Skeppsholmsbron from Kungsträdgården (about 10 minutes) or take bus 65 to Skeppsholmen.",
+  "season": "All year; large outdoor terrace on the quay in spring and summer",
+  "best_for": "A summer evening on the quay in the middle of town",
+  "good_to_know": [
+   "Open Mon–Sat 11–23, Sun 11–22",
+   "Book a table online or on 08-611 41 00",
+   "Dogs welcome",
+   "Bus 65 to Skeppsholmen, or a 10-minute walk from Kungsträdgården",
+   "Julbord (Christmas buffet) in December"
+  ],
+  "review_summary": "Reviewers almost all agree that the location is the main reason to come: the terrace on the quay with the boats and the view towards Strandvägen and Djurgården, and a charming industrial setting indoors. The brunch and some of the fish dishes get praise. The criticism keeps coming back, though: patchy and sometimes slow or inattentive service, small portions for the price, expensive wine and food described as fine but no more. SvD gave it 3 out of 6 in August 2024. According to Tripadvisor the restaurant has had new owners since April 2026, so older reviews partly concern a different operation.",
+  "_from": "6c70e947cf4a"
+ }
+}

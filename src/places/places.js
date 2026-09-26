@@ -4,7 +4,7 @@
   const byN = new Map(DATA.places.map((p) => [p.n, p]));
   const state = { chapter: null, q: "", year: false, fresh: false, selected: null };
   const $ = (s) => document.querySelector(s);
-  const rated = (p) => (Ratings.get(`places:${p.n}`) || {}).stars || 0;
+  const rated = (p) => (Ratings.get(`places:${p.id}`) || {}).stars || 0; // saved under the permanent id, not the shown number
 
   /* ---------- map ---------- */
   const map = L.map("map", { zoomSnap: 0.5, maxZoom: 18 });
@@ -86,7 +86,7 @@
         ${scores ? `<div class="scores">${scores}</div>` : ""}</section>
       <section><h2 class="label">${esc(t("good_to_know"))}</h2><ul class="know">${(x.good_to_know || []).map((g) => `<li>${esc(g)}</li>`).join("")}</ul>
         ${x.best_for ? `<div class="bestfor"><span class="label">${esc(t("best_for"))}</span><br>${esc(x.best_for)}</div>` : ""}</section>`;
-    $("#rating-slot").replaceWith(ratingBox(`places:${p.n}`, t("been_there"), t("notes_ph")));
+    $("#rating-slot").replaceWith(ratingBox(`places:${p.id}`, t("been_there"), t("notes_ph")));
     $("#back").addEventListener("click", () => { history.pushState(null, "", location.pathname + location.search); route(); });
   }
   Ratings.listeners.push(() => renderList());

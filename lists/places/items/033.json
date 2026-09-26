@@ -1,0 +1,74 @@
+{
+ "id": 33,
+ "n": 8,
+ "chapter": 0,
+ "lat": 59.32242,
+ "lon": 18.10156,
+ "km": 2.4,
+ "status": "open",
+ "price": 2,
+ "website": "https://slipen.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Restaurang%20Slipen%2C%20Beckholmsv%C3%A4gen%2026%2C%20Stockholm",
+ "address": "Beckholmsvägen 26, 115 21 Stockholm",
+ "scores": [
+  {
+   "site": "Google (via Restaurant Guru)",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 1165
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 1082
+  },
+  {
+   "site": "Thatsup",
+   "rating": 2.5,
+   "scale": 5,
+   "count": 8
+  },
+  {
+   "site": "SvD (via Krogguiden)",
+   "rating": 3,
+   "scale": 6,
+   "count": null
+  }
+ ],
+ "sv": {
+  "name": "Restaurang Slipen",
+  "kind": "Bistro, bageri & café",
+  "area": "Beckholmen, Djurgården, Stockholm",
+  "tagline": "Bageri och bistro i gammal varvsbyggnad vid Beckholmssundet",
+  "description": "Slipen ligger i det gula varvshuset vid Nya Djurgårdsvarvet vid bron till Beckholmen, där Oaxen Krog & Slip höll till fram till 2022. Sedan sommaren 2023 drivs stället av Lotta och David Zetterström, som grundade Fabrique, och brödet och bakverken är en stor del av konceptet: bageri och café från tidig morgon, och en kort italiensk meny med pasta, lasagne och pizza. Inne hänger träbåtar i taket, och från terrassen ser man ut över Beckholmssundet mot Nacka strand och kvällssolen över Söder. Passar för fika eller enkel lunch efter Skansen eller Gröna Lund. Spårvagn 7 eller buss 67 till Skansen och fem minuters promenad, eller Djurgårdsfärjan till Allmänna gränd.",
+  "season": "Öppet året runt, måndag–söndag 7.30–19; uteserveringen öppen under den varma delen av året",
+  "best_for": "Fika eller enkel lunch på terrassen efter en dag på Djurgården",
+  "good_to_know": [
+   "Ingen bordsbokning – kom och chansa",
+   "Bageriet öppnar 7.30, bra för frukost och fika",
+   "Pasta och pizza ca 195–275 kr",
+   "Spårvagn 7 eller buss 67 till Skansen, 5 min promenad",
+   "Djurgårdsfärjan från Slussen till Allmänna gränd"
+  ],
+  "review_summary": "Omdömena är blandade. Läget vid vattnet, terrassen och brödet får nästan genomgående beröm, och flera tycker att den lilla menyn är väl vald och god. Återkommande kritik gäller priset i förhållande till portionerna och kvaliteten, en meny som upplevs som för enkel jämfört med Oaxen-tiden och ojämn service, särskilt när det är fullt på helger. Recensenter skriver att stället verkar underbemannat vid rusning. SvD gav 3 av 6 vid nystarten 2023."
+ },
+ "en": {
+  "name": "Restaurang Slipen",
+  "kind": "Bistro, bakery & cafe",
+  "area": "Beckholmen, Djurgården, Stockholm",
+  "tagline": "Bakery and bistro in an old boatyard building on Beckholmssundet",
+  "description": "Slipen is in the yellow boatyard building at Nya Djurgårdsvarvet, right by the bridge to Beckholmen, where Oaxen Krog & Slip used to be until 2022. Since summer 2023 it has been run by Lotta and David Zetterström, who founded Fabrique, and bread and pastries are a big part of the idea: a bakery and cafe from early morning, and a short Italian menu of pasta, lasagne and pizza. Inside, wooden boats hang from the ceiling, and from the terrace you look out over Beckholmssundet towards Nacka strand and the evening sun over Södermalm. Good for fika (coffee and cake) or a simple lunch after Skansen or Gröna Lund. Tram 7 or bus 67 to Skansen and a five-minute walk, or the Djurgården ferry to Allmänna gränd.",
+  "season": "Open all year, Monday–Sunday 7.30–19.00; the terrace is open in the warmer months",
+  "best_for": "Fika or a simple lunch on the terrace after a day on Djurgården",
+  "good_to_know": [
+   "No table bookings – just turn up and try your luck",
+   "The bakery opens at 7.30, good for breakfast or fika",
+   "Pasta and pizza around 195–275 kr",
+   "Tram 7 or bus 67 to Skansen, 5-minute walk",
+   "Djurgården ferry from Slussen to Allmänna gränd"
+  ],
+  "review_summary": "Reviews are mixed. The waterside setting, the terrace and the bread are praised almost across the board, and several people find the small menu well chosen and tasty. Recurring complaints are about the price relative to portion size and quality, a menu that feels too basic compared with the Oaxen days, and patchy service, especially when it is busy at weekends. Reviewers say the place seems understaffed at peak times. SvD gave it 3 out of 6 when it reopened in 2023.",
+  "_from": "2e8ebf3ee5a0"
+ }
+}

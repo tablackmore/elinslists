@@ -4,7 +4,7 @@
 
 create table if not exists public.ratings (
   list        text        not null,               -- "places" or "recipes" (one per list on the site)
-  item        integer     not null,               -- the number shown on the site
+  item        integer     not null,               -- the item's permanent id (not the number shown, which can shift)
   stars       smallint    not null default 0 check (stars between 0 and 5),
   date        date,
   note        text        not null default '',
