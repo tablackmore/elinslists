@@ -1,0 +1,36 @@
+{
+ "id": 99,
+ "n": 20,
+ "chapter": 0,
+ "creator": "Dr. Vegan",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1001766428098693/",
+ "video_only": false,
+ "original_title": "Cabbage & Cucumber Salad",
+ "sv": {
+  "title": "Avokado, lök och gurksallad",
+  "servings": "",
+  "time": "",
+  "description": "Sallad av strimlad vitkål, gurka och salladslök med en krämig dressing av avokado, cashewnötter, örter och citron. Toppas med sesamfrön och kan ätas med nachochips.",
+  "keywords": [
+   "vitkål",
+   "gurka",
+   "avokado",
+   "cashewnötter",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Cabbage and Cucumber Salad with Avocado Dressing",
+  "servings": "",
+  "time": "",
+  "description": "A salad of shredded white cabbage, cucumber and spring onion with a creamy dressing of avocado, cashews, herbs and lemon. Topped with sesame seeds; nice with tortilla chips.",
+  "keywords": [
+   "white cabbage",
+   "cucumber",
+   "avocado",
+   "cashews",
+   "salad"
+  ]
+ }
+}

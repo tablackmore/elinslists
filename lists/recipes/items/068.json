@@ -1,0 +1,36 @@
+{
+ "id": 68,
+ "n": 34,
+ "chapter": 1,
+ "creator": "",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1029334439296315/",
+ "video_only": false,
+ "original_title": "Zucchini Pasta",
+ "sv": {
+  "title": "Enkel zucchinipasta",
+  "servings": "2 portioner",
+  "time": "",
+  "description": "Rörpasta i en sås av tunt skivad zucchini som puttras mjuk i vitlöksolja med chili, rundad av med citron, lite grädde, parmesan och basilika.",
+  "keywords": [
+   "zucchini",
+   "pasta",
+   "parmesan",
+   "basilika",
+   "vitlök"
+  ]
+ },
+ "en": {
+  "title": "Simple Courgette Pasta",
+  "servings": "Serves 2",
+  "time": "",
+  "description": "Tube pasta in a sauce of thinly sliced courgette cooked down in garlic-infused oil with chilli, finished with lemon, a little cream, Parmesan and basil.",
+  "keywords": [
+   "courgette",
+   "pasta",
+   "parmesan",
+   "basil",
+   "garlic"
+  ]
+ }
+}

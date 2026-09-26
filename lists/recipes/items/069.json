@@ -1,0 +1,36 @@
+{
+ "id": 69,
+ "n": 35,
+ "chapter": 1,
+ "creator": "",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1249464426890957/",
+ "video_only": false,
+ "original_title": "Aglio e olio pasta",
+ "sv": {
+  "title": "Vitlökspasta",
+  "servings": "2 portioner",
+  "time": "",
+  "description": "Capellini i en krämig sås av olivolja, tunt skivad vitlök, salsa macha och persilja som emulgeras med pastavatten. En snabb pasta med få ingredienser.",
+  "keywords": [
+   "vitlök",
+   "capellini",
+   "pasta",
+   "salsa macha",
+   "persilja"
+  ]
+ },
+ "en": {
+  "title": "Garlic Pasta",
+  "servings": "Serves 2",
+  "time": "",
+  "description": "Capellini in a silky sauce of olive oil, thinly sliced garlic, salsa macha and parsley, emulsified with pasta water. A quick pasta with few ingredients.",
+  "keywords": [
+   "garlic",
+   "capellini",
+   "pasta",
+   "salsa macha",
+   "parsley"
+  ]
+ }
+}

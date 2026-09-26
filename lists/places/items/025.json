@@ -1,0 +1,66 @@
+{
+ "id": 25,
+ "n": 45,
+ "chapter": 5,
+ "lat": 59.13229,
+ "lon": 18.40718,
+ "km": 29.6,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.facebook.com/RestaurangAnkaret/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Restaurang%20Ankaret%2C%20Odinsv%C3%A4gen%2019%2C%20Dalar%C3%B6",
+ "address": "Odinsvägen 19, 137 70 Dalarö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.4,
+   "scale": 5,
+   "count": 315
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.8,
+   "scale": 5,
+   "count": 45
+  },
+  {
+   "site": "Facebook",
+   "rating": 4.6,
+   "scale": 5,
+   "count": 67
+  }
+ ],
+ "sv": {
+  "name": "Restaurang Ankaret",
+  "kind": "Restaurang",
+  "area": "Dalarö, Haninge",
+  "tagline": "Hemlagad skärgårdsmat mitt i Dalarö by",
+  "description": "Ankaret (Dalarö Skärgårdsrestaurang HB) ligger på Odinsvägen mitt i Dalarö, ett stenkast från Tullhuset och hamnen vid Dalarö ström. Restaurangen beskriver sig själv som 'hemlagad mat med hjärta och kärlek' till humana priser. Matsalen och baren är nyrenoverade och det finns uteservering. På menyn finns skärgårdsklassiker som toast Skagen, sill, fisk, köttbullar och burgare, och pizza serveras också. Det är ett avslappnat och prisvärt alternativ i byn, där man kan kombinera maten med en promenad längs strandvägen. Dit tar man sig med buss 839 från Handen (Haninge centrum) till Dalarö, eller med bil på omkring 45 minuter.",
+  "season": "Enligt Tripadvisor och Restaurant Guru öppet fredag från 15, lördag 12–22 och söndag 12–20, stängt måndag–torsdag. Sommartiderna kan vara annorlunda.",
+  "best_for": "Enkel och prisvärd middag efter en dag på Dalarö",
+  "good_to_know": [
+   "Stängt måndag–torsdag (kontrollera sommartider)",
+   "Boka gärna: 08-501 516 90",
+   "Uteservering",
+   "Buss 839 från Handen till Dalarö"
+  ],
+  "review_summary": "Omdömena är övervägande positiva. Gästerna berömmer mat lagad från grunden (sill, risotto, toast Skagen), vänlig personal, god service och en mysig miljö, och någon kallar stället en 'dold pärla på Dalarö'. Kritiken är gles men finns: ett par äldre omdömen tycker att maten är för lite kryddad, och utländska besökare tycker att priserna är höga. På Tripadvisor ligger betyget något lägre än på Google."
+ },
+ "en": {
+  "name": "Restaurang Ankaret",
+  "kind": "Restaurant",
+  "area": "Dalarö, Haninge",
+  "tagline": "Home-cooked archipelago food in the middle of Dalarö village",
+  "description": "Ankaret (Dalarö Skärgårdsrestaurang HB) is on Odinsvägen in the middle of Dalarö, a stone's throw from the Tullhuset (old customs house) and the harbour on Dalarö ström. The restaurant describes itself as 'home-cooked food made with heart and love' at reasonable prices. The dining room and bar have been newly renovated and there's outdoor seating. The menu has archipelago classics such as toast Skagen (prawn toast), pickled herring, fish, meatballs and burgers, and pizza is served too. It's a relaxed, good-value option in the village, where you can combine a meal with a walk along the shore road. Get there on bus 839 from Handen (Haninge centrum) to Dalarö, or drive in about 45 minutes.",
+  "season": "According to Tripadvisor and Restaurant Guru, open Friday from 15:00, Saturday 12–22 and Sunday 12–20, closed Monday–Thursday. Summer hours may differ.",
+  "best_for": "A simple, good-value dinner after a day on Dalarö",
+  "good_to_know": [
+   "Closed Monday–Thursday (check summer hours)",
+   "Booking recommended: 08-501 516 90",
+   "Outdoor seating",
+   "Bus 839 from Handen to Dalarö"
+  ],
+  "review_summary": "Reviews are mostly positive. Guests praise food cooked from scratch (pickled herring, risotto, toast Skagen), friendly staff, good service and a cosy setting, and one calls it a 'hidden gem on Dalarö'. Criticism is sparse but there is some: a couple of older reviews found the food under-seasoned, and foreign visitors think the prices are high. The rating on Tripadvisor is slightly lower than on Google.",
+  "_from": "e86008ad7d6f"
+ }
+}

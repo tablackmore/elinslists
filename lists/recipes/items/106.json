@@ -1,0 +1,36 @@
+{
+ "id": 106,
+ "n": 80,
+ "chapter": 3,
+ "creator": "paula.singele",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DGlUJr5tybj/",
+ "video_only": false,
+ "original_title": "LUNCH IDEA - IDEA DE ALMUERZO",
+ "sv": {
+  "title": "Tortilla & ägglunch",
+  "servings": "",
+  "time": "Under 30 min",
+  "description": "En tortilla steks fast på vispade ägg och fylls sedan i fyra fält med bland annat färskost, tomater, ost, avokado och stekt halloumi. Viks till en trekant och steks gyllene.",
+  "keywords": [
+   "tortilla",
+   "ägg",
+   "halloumi",
+   "avokado",
+   "wrap"
+  ]
+ },
+ "en": {
+  "title": "Egg Tortilla Lunch Wrap",
+  "servings": "",
+  "time": "Under 30 minutes",
+  "description": "A tortilla is fried onto beaten eggs, then filled in four sections with cream cheese, tomatoes, cheese, avocado and fried halloumi. Folded into a triangle and fried until golden.",
+  "keywords": [
+   "tortilla",
+   "eggs",
+   "halloumi",
+   "avocado",
+   "wrap"
+  ]
+ }
+}

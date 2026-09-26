@@ -1,0 +1,36 @@
+{
+ "id": 17,
+ "n": 41,
+ "chapter": 2,
+ "creator": "cocolarkincooks",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DWUEkZckcTj/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Kålsoppa med ägg",
+  "servings": "1 portion",
+  "time": "5 minuter",
+  "description": "Snabb soppa på grönsaksbuljong med strimlad vitkål och gräslök, där uppvispat ägg rörs ner till trådar. Toppas med sesamolja och chili; en portion på fem minuter.",
+  "keywords": [
+   "soppa",
+   "vitkål",
+   "ägg",
+   "gräslök",
+   "sesamolja"
+  ]
+ },
+ "en": {
+  "title": "Cabbage and Egg Soup",
+  "servings": "Serves 1",
+  "time": "5 minutes",
+  "description": "Quick vegetable stock soup with shredded white cabbage and chives, with beaten egg stirred in to form strands. Finished with sesame oil and chilli; one portion in five minutes.",
+  "keywords": [
+   "soup",
+   "white cabbage",
+   "egg",
+   "chives",
+   "sesame oil"
+  ]
+ }
+}

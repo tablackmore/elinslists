@@ -1,0 +1,60 @@
+{
+ "id": 11,
+ "n": 26,
+ "chapter": 3,
+ "lat": 59.34706,
+ "lon": 18.3244,
+ "km": 14.8,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://langaraden.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=W%C3%A4rdshuset%20L%C3%A5nga%20Raden%2C%20Velamsundsv%C3%A4gen%2037%2C%20Saltsj%C3%B6-Boo",
+ "address": "Velamsundsvägen 37, 132 36 Saltsjö-Boo",
+ "scores": [
+  {
+   "site": "Google (via Restaurant Guru)",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 242
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.7,
+   "scale": 5,
+   "count": 22
+  }
+ ],
+ "sv": {
+  "name": "Wärdshuset Långa Raden",
+  "kind": "Restaurang",
+  "area": "Velamsund, Saltsjö-Boo, Nacka",
+  "tagline": "Värdshus i gammalt 1700-talsmagasin vid Velamsundsviken",
+  "description": "Långa Raden ligger precis vid vattnet i Velamsunds naturreservat, i ett avlångt 1700-talshus som ursprungligen var sädesmagasin till en herrgård som brann 1978. Från uteserveringen ser man ut över viken, och båtgäster kan lägga till vid restaurangens egna båtplatser. Köket bjuder på klassiker som man längtar efter, som caesarsallad och svensk husman, med en meny på dagen och en annan på kvällen; hembakat fika på helgerna. Stämningen är lantlig och avslappnad, bra efter en skogspromenad. Buss 422 eller 445 från Slussen till Kihls gård, sedan cirka två kilometer promenad; bil eller egen båt är enklare.",
+  "season": "Sommaröppet; hösten 2026 fredag middag samt lunch lör–sön",
+  "best_for": "Helglunch efter en skogspromenad i Velamsund",
+  "good_to_know": [
+   "Egna båtplatser utanför restaurangen",
+   "Brunchbuffé vissa söndagar (395 kr)",
+   "Buss till Kihls gård, sedan ca 2 km promenad",
+   "Kombinera med promenad i Velamsunds naturreservat"
+  ],
+  "review_summary": "Läget vid vattnet och miljön i naturreservatet får genomgående beröm, och flera nämner vänlig och effektiv personal och goda luncher. Kritiken gäller att maten är ok men inte mer, att det kan ta tid innan maten kommer och att priserna känns något höga för nivån. Restaurangen verkar ha fått ny drift och ny hemsida 2026, så äldre omdömen gäller delvis en annan verksamhet."
+ },
+ "en": {
+  "name": "Wärdshuset Långa Raden",
+  "kind": "Restaurant",
+  "area": "Velamsund, Saltsjö-Boo, Nacka",
+  "tagline": "Country inn in an old 18th-century granary on Velamsundsviken",
+  "description": "Långa Raden is right by the water in Velamsund nature reserve, in a long 18th-century building that was originally the granary for a manor house that burned down in 1978. From the terrace you look out over the bay, and people arriving by boat can moor at the restaurant's own berths. The kitchen serves the kind of classics you crave, such as Caesar salad and traditional Swedish home cooking, with one menu during the day and another in the evening; home baking at weekends. The feel is rural and relaxed, good after a walk in the woods. Bus 422 or 445 from Slussen to Kihls gård, then about a two-kilometre walk; a car or your own boat is easier.",
+  "season": "Open in summer; autumn 2026 Friday dinner plus lunch Sat–Sun",
+  "best_for": "Weekend lunch after a woodland walk in Velamsund",
+  "good_to_know": [
+   "Own boat berths outside the restaurant",
+   "Brunch buffet some Sundays (395 kr)",
+   "Bus to Kihls gård, then about 2 km on foot",
+   "Combine with a walk in Velamsund nature reserve"
+  ],
+  "review_summary": "The waterside location and the nature reserve setting get consistent praise, and several mention friendly, efficient staff and good lunches. The criticism is that the food is fine but no more, that it can take a while to arrive and that prices feel a bit high for the standard. The restaurant seems to have new management and a new website in 2026, so older reviews partly refer to a different business.",
+  "_from": "0786929b1908"
+ }
+}

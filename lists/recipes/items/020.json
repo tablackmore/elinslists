@@ -1,0 +1,36 @@
+{
+ "id": 20,
+ "n": 54,
+ "chapter": 3,
+ "creator": "Gourmandise Bychainez",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1421601659253811/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Potatis/brocolli och fetaost quiche",
+  "servings": "",
+  "time": "",
+  "description": "Quiche där botten görs av mosad kokt potatis med broccoli och ost i stället för pajdeg. Fylls med ägg, grädde och fetaost och gräddas i ugnen.",
+  "keywords": [
+   "quiche",
+   "potatis",
+   "broccoli",
+   "fetaost",
+   "ägg"
+  ]
+ },
+ "en": {
+  "title": "Potato, Broccoli and Feta Quiche",
+  "servings": "",
+  "time": "",
+  "description": "Quiche with a base of mashed boiled potato, broccoli and cheese instead of pastry. Filled with eggs, cream and feta and baked in the oven.",
+  "keywords": [
+   "quiche",
+   "potato",
+   "broccoli",
+   "feta",
+   "eggs"
+  ]
+ }
+}

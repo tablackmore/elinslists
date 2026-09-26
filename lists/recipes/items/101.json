@@ -1,0 +1,36 @@
+{
+ "id": 101,
+ "n": 88,
+ "chapter": 4,
+ "creator": "Baked by Melissa",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1325639798655649/",
+ "video_only": false,
+ "original_title": "green sauz",
+ "sv": {
+  "title": "Spenat och vitlökssås",
+  "servings": "",
+  "time": "",
+  "description": "Grön sås av förvälld spenat mixad med cashewnötter, olivolja, vitlök, citron och näringsjäst. Passar till ägg, halloumi eller sallad, eller som dipp.",
+  "keywords": [
+   "spenat",
+   "vitlök",
+   "cashewnötter",
+   "sås",
+   "dipp"
+  ]
+ },
+ "en": {
+  "title": "Green Spinach and Garlic Sauce",
+  "servings": "",
+  "time": "",
+  "description": "A green sauce of blanched spinach blended with cashews, olive oil, garlic, lemon and nutritional yeast. Good with eggs, halloumi or salad, or as a dip.",
+  "keywords": [
+   "spinach",
+   "garlic",
+   "cashews",
+   "sauce",
+   "dip"
+  ]
+ }
+}

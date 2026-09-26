@@ -1,0 +1,66 @@
+{
+ "id": 36,
+ "n": 7,
+ "chapter": 1,
+ "lat": 59.31955,
+ "lon": 18.07316,
+ "km": 1.5,
+ "status": "open",
+ "price": 3,
+ "website": "https://gondolen.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Gondolen%2C%20Stadsg%C3%A5rden%206%2C%20Stockholm",
+ "address": "Stadsgården 6, 116 45 Stockholm",
+ "scores": [
+  {
+   "site": "Google (via Thatsup)",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 2558
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.5,
+   "scale": 5,
+   "count": 134
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.0,
+   "scale": 5,
+   "count": 21
+  }
+ ],
+ "sv": {
+  "name": "Gondolen",
+  "kind": "Restaurang & bar",
+  "area": "Slussen, Södermalm, Stockholm",
+  "tagline": "Klassisk krog högt över Slussen och Saltsjön",
+  "description": "Gondolen hänger under Katarinahissens gångbro högt över Slussen, med utsikt över Saltsjön, Gamla stan, Skeppsholmen och Djurgården. Restaurangen öppnade igen i oktober 2023 efter Slussenombyggnaden och drivs av Svenska Brasserier. Köket serverar svensk husmanskost med franska influenser – fiskgratäng, löjrom på toast – och en omfattande vinlista. Baren har livejazz de flesta kvällar och ovanpå finns takbaren Bar Zeppelin. Passar en festligare middag eller en dry martini i skymningen. T-bana till Slussen; hiss från Stadsgården 6, gångbro från Mosebacke torg eller Katarinahissen.",
+  "season": "Öppet alla dagar året runt",
+  "best_for": "Middag med utsikt och jazz en höstkväll",
+  "good_to_know": [
+   "Hiss till 11:e våningen från Stadsgården 6",
+   "Livejazz i baren de flesta kvällar",
+   "Takbaren Bar Zeppelin ovanpå",
+   "Sällskap över 8 personer bokar via mejl"
+  ],
+  "review_summary": "Utsikten beskrivs genomgående som fantastisk och många uppskattar livejazzen, den renoverade miljön och fiskrätterna. Kritiken gäller höga priser som inte alltid motsvaras av maten, små portioner och ojämn service – särskilt under första tiden efter nyöppningen, då några väntade länge på varmrätterna. Några tycker att den starka belysningen stör utsikten. White Guide skrev 2024 att köket hittat rätt efter en trög start."
+ },
+ "en": {
+  "name": "Gondolen",
+  "kind": "Restaurant & bar",
+  "area": "Slussen, Södermalm, Stockholm",
+  "tagline": "Classic restaurant high above Slussen and Saltsjön",
+  "description": "Gondolen hangs beneath the Katarinahissen walkway high above Slussen, with views over Saltsjön, Gamla stan, Skeppsholmen and Djurgården. The restaurant reopened in October 2023 after the Slussen rebuild and is run by Svenska Brasserier. The kitchen serves traditional Swedish home cooking with French influences – fish gratin, löjrom (vendace roe) on toast – and an extensive wine list. The bar has live jazz most evenings and on top is the rooftop bar Bar Zeppelin. Good for a more celebratory dinner or a dry martini at dusk. T-bana (metro) to Slussen; lift from Stadsgården 6, walkway from Mosebacke torg or Katarinahissen.",
+  "season": "Open every day all year",
+  "best_for": "Dinner with a view and jazz on an autumn evening",
+  "good_to_know": [
+   "Lift to the 11th floor from Stadsgården 6",
+   "Live jazz in the bar most evenings",
+   "Rooftop bar Bar Zeppelin on top",
+   "Groups of more than 8 book by email"
+  ],
+  "review_summary": "The view is consistently described as fantastic and many enjoy the live jazz, the renovated interior and the fish dishes. Criticism is about high prices that the food doesn't always live up to, small portions and uneven service – especially in the early days after the reopening, when some waited a long time for their mains. Some find the bright lighting spoils the view. White Guide wrote in 2024 that the kitchen had found its feet after a slow start.",
+  "_from": "a1b1e99a1fdf"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": 53,
+ "n": 45,
+ "chapter": 2,
+ "creator": "cocolarkincooks",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DL5_17-SqMD/",
+ "video_only": false,
+ "original_title": "French walnut soup",
+ "sv": {
+  "title": "Valnötssoppa",
+  "servings": "",
+  "time": "",
+  "description": "Slät soppa av krossade valnötter, vitlök och timjan som kokas i grönsaksbuljong, mixas och rundas av med grädde och en skvätt vinäger. Serveras i koppar med dragon.",
+  "keywords": [
+   "valnötter",
+   "soppa",
+   "timjan",
+   "grädde",
+   "dragon"
+  ]
+ },
+ "en": {
+  "title": "Walnut Soup",
+  "servings": "",
+  "time": "",
+  "description": "Smooth soup of crushed walnuts, garlic and thyme simmered in vegetable stock, blended and finished with cream and a dash of vinegar. Served in cups with tarragon.",
+  "keywords": [
+   "walnuts",
+   "soup",
+   "thyme",
+   "cream",
+   "tarragon"
+  ]
+ }
+}

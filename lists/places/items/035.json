@@ -1,0 +1,66 @@
+{
+ "id": 35,
+ "n": 8,
+ "chapter": 1,
+ "lat": 59.318,
+ "lon": 18.0847,
+ "km": 2.0,
+ "status": "open",
+ "price": 3,
+ "website": "https://stockholm.fotografiska.com/sv/restaurants/restaurangen",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Fotografiska%2C%20Stadsg%C3%A5rdshamnen%2022%2C%20Stockholm",
+ "address": "Stadsgårdshamnen 22, 116 45 Stockholm",
+ "scores": [
+  {
+   "site": "Google (via Thatsup)",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 465
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.7,
+   "scale": 5,
+   "count": 928
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.2,
+   "scale": 5,
+   "count": 26
+  }
+ ],
+ "sv": {
+  "name": "Fotografiska",
+  "kind": "Museum, restaurang & bar",
+  "area": "Stadsgården, Södermalm, Stockholm",
+  "tagline": "Hållbar restaurang och bar högst upp med utsikt över inloppet",
+  "description": "Fotografiska ligger i det gamla tullhuset vid kajen på Stadsgården. Högst upp i huset finns restaurangen och baren med panoramautsikt över vattnet mot Skeppsholmen, Djurgården och Gamla stan. Restaurangen lagar säsongsmat av svenska råvaror med stort fokus på hållbarhet och har bland annat en femrätters 'Chef’s choice'. Baren öppnar kl. 10 och serverar drinkar och enklare mat; lunch från 11. Passar bra att kombinera med en utställning, eller som ett ställe för en drink med utsikt. Promenera ca 10 minuter från Slussen längs kajen.",
+  "season": "",
+  "best_for": "Utställning följd av drink med utsikt",
+  "good_to_know": [
+   "Middag ons–lör från 17, boka via bokabord.se",
+   "Baren öppnar kl. 10 – ingen museibiljett krävs",
+   "Chef’s choice fem rätter ca 1 500 kr",
+   "10 min promenad från Slussen"
+  ],
+  "review_summary": "Utsikten, miljön och vinlistan berömms, och SvD Krogguiden har gett restaurangen 5 av 6. Bland vanliga gäster är omdömena mer blandade: små portioner för priset, ojämn smak, ibland oengagerad service och en brunch som flera tycker är dyr."
+ },
+ "en": {
+  "name": "Fotografiska",
+  "kind": "Museum, restaurant & bar",
+  "area": "Stadsgården, Södermalm, Stockholm",
+  "tagline": "Sustainable restaurant and bar at the top, overlooking the harbour entrance",
+  "description": "Fotografiska is in the old customs house on the quay at Stadsgården. At the top of the building are the restaurant and bar, with panoramic views across the water to Skeppsholmen, Djurgården and Gamla stan. The restaurant cooks seasonal food from Swedish produce with a strong focus on sustainability, including a five-course 'Chef’s choice'. The bar opens at 10 and serves drinks and simpler food; lunch from 11. Works well combined with an exhibition, or simply as a place for a drink with a view. About a 10-minute walk from Slussen along the quay.",
+  "season": "",
+  "best_for": "An exhibition followed by a drink with a view",
+  "good_to_know": [
+   "Dinner Wed–Sat from 17, book via bokabord.se",
+   "The bar opens at 10 – no museum ticket needed",
+   "Chef’s choice five courses approx. 1,500 kr",
+   "10-minute walk from Slussen"
+  ],
+  "review_summary": "The view, the setting and the wine list are praised, and SvD Krogguiden (a newspaper restaurant guide) has given the restaurant 5 out of 6. Among ordinary diners the reviews are more mixed: small portions for the price, uneven flavours, sometimes indifferent service and a brunch that several people find expensive.",
+  "_from": "1227f232d540"
+ }
+}

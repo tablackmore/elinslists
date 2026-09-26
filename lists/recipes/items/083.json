@@ -1,0 +1,36 @@
+{
+ "id": 83,
+ "n": 72,
+ "chapter": 3,
+ "creator": "Fallow",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/529874396178563/",
+ "video_only": false,
+ "original_title": "The Ultimate Potato Dish",
+ "sv": {
+  "title": "Karamelliserade potatisar i ugn med sjuka mängder smör",
+  "servings": "",
+  "time": "Ca 2,5 timmar",
+  "description": "Tunt skivad potatis i cirklar ovanpå långsamt karamelliserad lök, ugnsbakad med klarat smör, buljong och timjan. Rätten tar cirka två och en halv timme.",
+  "keywords": [
+   "potatis",
+   "lök",
+   "smör",
+   "timjan",
+   "ugnsbakad"
+  ]
+ },
+ "en": {
+  "title": "Caramelised Oven Potatoes with Outrageous Amounts of Butter",
+  "servings": "",
+  "time": "About 2.5 hours",
+  "description": "Thinly sliced potatoes layered in circles over slowly caramelised onions and baked with clarified butter, stock and thyme. It takes around two and a half hours.",
+  "keywords": [
+   "potatoes",
+   "onions",
+   "butter",
+   "thyme",
+   "oven-baked"
+  ]
+ }
+}

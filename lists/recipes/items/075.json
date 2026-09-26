@@ -1,0 +1,36 @@
+{
+ "id": 75,
+ "n": 69,
+ "chapter": 3,
+ "creator": "Fred Sirieix",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/536204686247221/",
+ "video_only": false,
+ "original_title": "Courgette Gratin",
+ "sv": {
+  "title": "Fransk zucchinilåda",
+  "servings": "",
+  "time": "",
+  "description": "Ugnsgratäng av zucchini som fräses mjuk i smör och mixas till puré. Purén blandas med ägg och crème fraiche, toppas med riven ost och gräddas.",
+  "keywords": [
+   "zucchini",
+   "gratäng",
+   "ägg",
+   "crème fraiche",
+   "ost"
+  ]
+ },
+ "en": {
+  "title": "French Courgette Gratin",
+  "servings": "",
+  "time": "",
+  "description": "An oven-baked gratin of courgettes softened in butter and blended to a purée. The purée is mixed with eggs and crème fraîche, topped with grated cheese and baked.",
+  "keywords": [
+   "courgette",
+   "gratin",
+   "eggs",
+   "crème fraîche",
+   "cheese"
+  ]
+ }
+}

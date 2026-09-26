@@ -1,0 +1,66 @@
+{
+ "id": 3,
+ "n": 28,
+ "chapter": 4,
+ "lat": 59.31299,
+ "lon": 18.44956,
+ "km": 21.9,
+ "status": "open",
+ "price": 1,
+ "website": "https://robindelseliusbageri.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Robin%20Delselius%20Bageri%20Grisslinge%2C%20Sk%C3%A4rg%C3%A5rdsv%C3%A4gen%20158%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Skärgårdsvägen 158, 139 36 Värmdö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 1074
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.3,
+   "scale": 5,
+   "count": 88
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.0,
+   "scale": 5,
+   "count": null
+  }
+ ],
+ "sv": {
+  "name": "Robin Delselius Bageri Grisslinge (f.d. Systrarna Delselius)",
+  "kind": "Café & bageri",
+  "area": "Grisslinge havsbad, Värmdö",
+  "tagline": "Bageri och café ovanför sandstranden vid Grisslinge havsbad",
+  "description": "Caféet ligger i backen ovanför Grisslinge havsbad, en av Värmdös populäraste sandstränder, med utsikt över Grisslingefjärden. Under många år hette det Systrarna Delselius och drevs av systrarna Helen och Therese; sedan några år driver Robin Delselius stället som ett av sina kvartersbagerier. Här finns bröd, bullar, bakelser, egen glass och kaffe, samt enklare lunch som pajer, smörgåsar, sallader och soppa. Uteserveringen är stor och passar bra före eller efter ett dopp. Öppet alla dagar 07–18 året runt. Flera bussar mot Gustavsberg och Värmdö går förbi på Skärgårdsvägen, och det finns stor parkering vid badet.",
+  "season": "",
+  "best_for": "Frukost eller fika i samband med ett bad",
+  "good_to_know": [
+   "Öppet alla dagar 07–18",
+   "Sandstrand och badbrygga precis nedanför",
+   "Stor parkering vid Grisslinge havsbad",
+   "Busshållplats på Skärgårdsvägen"
+  ],
+  "review_summary": "Läget med havsutsikt och närheten till stranden är det som nästan alla lyfter fram, liksom gott kaffe och bakverk. Flera nyare recensioner är dock kritiska: smutsiga bord och toaletter, uteservering som inte plockas av, begränsat utbud där saker tar slut och ojämn service. Några stamgäster tycker att stället var bättre förr. Betygen är mediokra på Tripadvisor och Thatsup, något bättre på Google. Förvänta er ett välbesökt strandcafé snarare än ett konditori i toppklass."
+ },
+ "en": {
+  "name": "Robin Delselius Bageri Grisslinge (formerly Systrarna Delselius)",
+  "kind": "Cafe & bakery",
+  "area": "Grisslinge havsbad, Värmdö",
+  "tagline": "Bakery and cafe above the sandy beach at Grisslinge havsbad",
+  "description": "The cafe sits on the slope above Grisslinge havsbad, one of Värmdö's most popular sandy beaches, with views over Grisslingefjärden. For many years it was called Systrarna Delselius and was run by the sisters Helen and Therese; for the past few years Robin Delselius has run it as one of his neighbourhood bakeries. There's bread, buns, pastries, their own ice cream and coffee, plus simple lunches such as quiches, sandwiches, salads and soup. The outdoor seating area is large and works well before or after a swim. Open every day 07–18, all year round. Several buses towards Gustavsberg and Värmdö run past on Skärgårdsvägen, and there's a big car park at the beach.",
+  "season": "",
+  "best_for": "Breakfast or fika with a swim",
+  "good_to_know": [
+   "Open every day 07–18",
+   "Sandy beach and swimming jetty just below",
+   "Big car park at Grisslinge havsbad",
+   "Bus stop on Skärgårdsvägen"
+  ],
+  "review_summary": "The sea view and being so close to the beach are what nearly everyone mentions, along with good coffee and pastries. Several recent reviews are critical, though: dirty tables and toilets, outdoor tables not being cleared, a limited range where things run out, and patchy service. Some regulars think it used to be better. Ratings are middling on Tripadvisor and Thatsup, slightly better on Google. Expect a busy beach cafe rather than a top-class patisserie.",
+  "_from": "a0e4a7329f14"
+ }
+}

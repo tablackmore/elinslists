@@ -1,0 +1,38 @@
+{
+ "id": 73,
+ "n": 38,
+ "chapter": 1,
+ "creator": "Yarin Danieli",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/783403450743045/",
+ "video_only": false,
+ "original_title": "Artichoke & Burrata Risotto",
+ "sv": {
+  "title": "Kronärtskocksrisotto",
+  "servings": "",
+  "time": "",
+  "description": "Krämig risotto på arborioris med stekta kronärtskockshjärtan, vitt vin, parmesan och citronzest. Serveras med burrata och färska örter.",
+  "keywords": [
+   "risotto",
+   "kronärtskocka",
+   "arborioris",
+   "parmesan",
+   "burrata",
+   "citron"
+  ]
+ },
+ "en": {
+  "title": "Artichoke Risotto",
+  "servings": "",
+  "time": "",
+  "description": "Creamy arborio risotto with pan-fried artichoke hearts, white wine, parmesan and lemon zest. Served with burrata and fresh herbs.",
+  "keywords": [
+   "risotto",
+   "artichoke",
+   "arborio rice",
+   "parmesan",
+   "burrata",
+   "lemon"
+  ]
+ }
+}

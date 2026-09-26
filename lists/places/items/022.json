@@ -1,0 +1,60 @@
+{
+ "id": 22,
+ "n": 27,
+ "chapter": 3,
+ "lat": 59.2759,
+ "lon": 18.31538,
+ "km": 15.6,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.holmenkokochbar.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Holmen%20K%C3%B6k%20%26%20Bar%2C%20Torben%20Gruts%20v%C3%A4g%205%2C%20Saltsj%C3%B6baden",
+ "address": "Torben Gruts väg 5, 133 39 Saltsjöbaden",
+ "scores": [
+  {
+   "site": "Google (via Restaurant Guru)",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 525
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 159
+  }
+ ],
+ "sv": {
+  "name": "Holmen Kök & Bar",
+  "kind": "Restaurang & bar",
+  "area": "Restaurangholmen, Saltsjöbaden, Nacka",
+  "tagline": "Bryggkrog bland segelbåtarna i Saltsjöbaden",
+  "description": "Holmen ligger på Restaurangholmen i Hotellviken, nedanför Grand Hotel Saltsjöbaden, med en lång träbrygga där man sitter mitt bland segelbåtarna och får kvällssolen. Menyn är enkel och kustnära: toast Skagen, rimmad lax med dillstuvad potatis, moules frites, cheeseburgare och några rätter som byts varannan vecka. Stämningen är familjär, med stammisar i baren och en livlig sommarkänsla. Passar för en sommarkväll med något kallt att dricka. Ta Saltsjöbanan från Slussen till ändhållplatsen Saltsjöbaden (cirka 25 minuter) och gå över bron till holmen. Med båt finns gästplatser vid gröna bojar.",
+  "season": "Sommarsäsong; i september fre kväll samt lör–sön, säsongsavslutning 26 september 2026",
+  "best_for": "Sommarkväll på bryggan med rimmad lax",
+  "good_to_know": [
+   "Saltsjöbanan till Saltsjöbaden, sedan kort promenad",
+   "Gästplatser för båt vid gröna bojar",
+   "Lite skugga på bryggan: ta med solhatt",
+   "Boka: bokning@holmensaltsjobaden.se, 08-717 77 67"
+  ],
+  "review_summary": "Gästerna älskar läget på bryggan, utsikten över båtarna och sommarstämningen, och många beskriver personalen som uppmärksam. Musslor, ostron och rimmad lax får beröm, och en del stammisar har kommit i många år. Senare omdömen nämner ojämn kvalitet, till exempel sandiga musslor, samt ett ibland ovänligt bemötande. Terrassen saknar skugga och blir varm under heta dagar."
+ },
+ "en": {
+  "name": "Holmen Kök & Bar",
+  "kind": "Restaurant & bar",
+  "area": "Restaurangholmen, Saltsjöbaden, Nacka",
+  "tagline": "Jetty restaurant among the sailing boats in Saltsjöbaden",
+  "description": "Holmen is on Restaurangholmen in Hotellviken, below the Grand Hotel Saltsjöbaden, with a long wooden jetty where you sit right among the sailing boats and catch the evening sun. The menu is simple and coastal: toast Skagen (prawn toast), lightly salted salmon with creamed dill potatoes, moules frites, cheeseburgers and a few dishes that change every other week. The atmosphere is homely, with regulars at the bar and a lively summer feel. Good for a summer evening with something cold to drink. Take the Saltsjöbanan (local train) from Slussen to the end of the line at Saltsjöbaden (about 25 minutes) and cross the bridge to the islet. By boat there are guest moorings at the green buoys.",
+  "season": "Summer season; in September Friday evenings plus Sat–Sun, season ends 26 September 2026",
+  "best_for": "A summer evening on the jetty with lightly salted salmon",
+  "good_to_know": [
+   "Saltsjöbanan to Saltsjöbaden, then a short walk",
+   "Guest moorings for boats at the green buoys",
+   "Little shade on the jetty: bring a sun hat",
+   "Bookings: bokning@holmensaltsjobaden.se, 08-717 77 67"
+  ],
+  "review_summary": "Guests love the location on the jetty, the view over the boats and the summer atmosphere, and many describe the staff as attentive. Mussels, oysters and the lightly salted salmon get praise, and some regulars have been coming for years. More recent reviews mention uneven quality, such as sandy mussels, and occasionally unfriendly service. The terrace has no shade and gets hot on warm days.",
+  "_from": "9574eb8e22bc"
+ }
+}

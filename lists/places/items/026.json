@@ -1,0 +1,62 @@
+{
+ "id": 26,
+ "n": 44,
+ "chapter": 5,
+ "lat": 59.13571,
+ "lon": 18.4028,
+ "km": 29.1,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.solsidandalaro.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Bistro%20Solsidan%2C%20Askfatshamnen%2C%20Dalar%C3%B6",
+ "address": "Askfatshamnen, 137 70 Dalarö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 203
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 69
+  }
+ ],
+ "sv": {
+  "name": "Bistro Solsidan",
+  "kind": "Restaurang & bar",
+  "area": "Askfatshamnen, Dalarö, Haninge",
+  "tagline": "Kvällssol och båtliv vid gästhamnen på Dalarö",
+  "description": "Bistro Solsidan ligger direkt vid vattnet i Askfatshamnen, Dalarös gästhamn, med utsikt över båtarna och fjärden, och kvällssolen är det många kommer för. Det finns en stor terrass och en inglasad del med tak. Köket är en bistro med klimatsmarta råvaror och svenska rätter och fisk, och till maten serveras naturvin, öl och drinkar. Stället tar också emot privata fester och catering. Passar för en sommarkväll med båtfolk och Dalarögäster. Man tar sig dit med buss 839 från Handen eller med egen båt till gästhamnen, och Dalarös badstrand och kitezon ligger alldeles intill.",
+  "season": "Säsong från 1 maj. På våren fredag från 16 och lördag från 13. Enligt Thatsup på sommaren torsdag–fredag 17–22, lördag 13–22 och söndag 13–17. Stängt för säsongen hösten 2026, öppnar igen 1 maj 2027.",
+  "best_for": "Solnedgångsdrink och middag en sommarkväll",
+  "good_to_know": [
+   "Säsongsöppet från 1 maj, kontrollera dagar",
+   "Boka helgkvällar på sommaren: 073-348 36 94",
+   "Gästhamn precis intill",
+   "Badstrand och kitezon i Askfatshamnen",
+   "Buss 839 från Handen till Dalarö"
+  ],
+  "review_summary": "Det alla lyfter fram är läget, som beskrivs som oslagbart en solig sommardag eller vid solnedgången. Många har också uppskattat vänlig service och goda drinkar, och en del berömmer burgaren och fiskrätterna. Om maten går åsikterna isär: flera beskriver den som standard eller tråkig, och några tycker att den är dyr för det man får. Högsommaren 2025 kom omdömen om överbokning, röriga kvällar och väntan på över en timme."
+ },
+ "en": {
+  "name": "Bistro Solsidan",
+  "kind": "Restaurant & bar",
+  "area": "Askfatshamnen, Dalarö, Haninge",
+  "tagline": "Evening sun and boat life by the guest harbour on Dalarö",
+  "description": "Bistro Solsidan is right on the water at Askfatshamnen, Dalarö's guest harbour, looking out over the boats and the bay, and the evening sun is what many come for. There's a big terrace and a glazed, covered section. The kitchen is a bistro using climate-friendly produce, with Swedish dishes and fish, served with natural wine, beer and cocktails. It also takes private parties and does catering. Good for a summer evening among the boat crowd and Dalarö visitors. Get there on bus 839 from Handen or by your own boat to the guest harbour; Dalarö's swimming beach and kite zone are right next door.",
+  "season": "Season from 1 May. In spring Friday from 16:00 and Saturday from 13:00. According to Thatsup, in summer Thursday–Friday 17–22, Saturday 13–22 and Sunday 13–17. Closed for the season in autumn 2026, reopening 1 May 2027.",
+  "best_for": "A sunset drink and dinner on a summer evening",
+  "good_to_know": [
+   "Seasonal opening from 1 May; check which days",
+   "Book for weekend evenings in summer: 073-348 36 94",
+   "Guest harbour right next door",
+   "Swimming beach and kite zone at Askfatshamnen",
+   "Bus 839 from Handen to Dalarö"
+  ],
+  "review_summary": "What everyone highlights is the location, described as unbeatable on a sunny summer's day or at sunset. Many have also liked the friendly service and good drinks, and some praise the burger and the fish dishes. Opinions on the food are divided: several describe it as standard or dull, and some think it's expensive for what you get. In high summer 2025 there were reviews about overbooking, chaotic evenings and waits of over an hour.",
+  "_from": "93cb3e733568"
+ }
+}

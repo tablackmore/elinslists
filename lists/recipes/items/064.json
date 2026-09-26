@@ -1,0 +1,36 @@
+{
+ "id": 64,
+ "n": 32,
+ "chapter": 1,
+ "creator": "",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/697799696610755/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Purjolökspasta",
+  "servings": "",
+  "time": "",
+  "description": "Tagliatelle i en krämig sås av purjolök som fräses länge i smör och sjuder med buljong och grädde. Smaksätts med basilika, parmesan och citron.",
+  "keywords": [
+   "purjolök",
+   "tagliatelle",
+   "pasta",
+   "parmesan",
+   "basilika"
+  ]
+ },
+ "en": {
+  "title": "Leek Pasta",
+  "servings": "",
+  "time": "",
+  "description": "Tagliatelle in a creamy sauce of leeks cooked slowly in butter and simmered with stock and cream. Flavoured with basil, Parmesan and lemon.",
+  "keywords": [
+   "leek",
+   "tagliatelle",
+   "pasta",
+   "parmesan",
+   "basil"
+  ]
+ }
+}

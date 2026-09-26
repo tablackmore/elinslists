@@ -1,0 +1,60 @@
+{
+ "id": 18,
+ "n": 32,
+ "chapter": 4,
+ "lat": 59.28611,
+ "lon": 18.54833,
+ "km": 27.9,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.strommakrogochkanalbar.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Str%C3%B6mma%20Krog%20%26%20Kanalbar%2C%20Lillstr%C3%B6msuddsv%C3%A4gen%202%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Lillströmsuddsvägen 2, 139 60 Värmdö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.2,
+   "scale": 5,
+   "count": null
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 49
+  }
+ ],
+ "sv": {
+  "name": "Strömma Krog & Kanalbar",
+  "kind": "Restaurang & bar",
+  "area": "Strömma kanal, Värmdö",
+  "tagline": "Röda sjöbodar och kaj längs Strömma kanal",
+  "description": "Strömma Krog & Kanalbar ligger i röda sjöbodar längs Strömma kanal på Värmdö, där fritidsbåtarna glider förbi på väg ut mot Sandhamn och mellanskärgården. Den långa kajen blir på sommaren en stor uteservering, och när det regnar sitter man i den luftiga matsalen med kanalutsikt. Menyn är skärgårdsklassiker som toast skagen, råbiff, moules frites, köttbullar, skärgårdsgryta och Biff Rydberg, med huvudrätter runt 240–395 kr. Baren har en bred vinlista och klassiska drinkar. Här får man skärgårdskänsla utan att behöva båt: cirka 30 minuter med bil, buss från Slussen eller egen båt.",
+  "season": "Öppet året runt ons–sön; julbord i december",
+  "best_for": "Sommarkväll på kajen och titta på båtarna i kanalen",
+  "good_to_know": [
+   "Stängt mån–tis; ons från 17, tors–lör 12–21, sön 12–20",
+   "Kontantfritt",
+   "Boka bord via webbplatsen, drop-in fungerar ofta",
+   "Nås med bil, buss eller båt"
+  ],
+  "review_summary": "Läget vid kanalen och stämningen på kajen en sommarkväll är det som gästerna uppskattar mest, och många beskriver stället som ett andra vardagsrum. Maten får ofta goda omdömen, särskilt kött och julbordet. Samtidigt finns återkommande kritik mot ojämn kvalitet, till exempel dåligt rensade musslor och överstekta pommes, och mot att priserna känns höga i förhållande till portionerna. Några tycker att servicen blivit sämre efter ägarbyten."
+ },
+ "en": {
+  "name": "Strömma Krog & Kanalbar",
+  "kind": "Restaurant & bar",
+  "area": "Strömma kanal, Värmdö",
+  "tagline": "Red boathouses and a quay along Strömma canal",
+  "description": "Strömma Krog & Kanalbar is in red boathouses along Strömma canal on Värmdö, where leisure boats glide past on their way out to Sandhamn and the middle archipelago. In summer the long quay becomes a big outdoor seating area, and when it rains you sit in the airy dining room with a view of the canal. The menu is archipelago classics such as toast skagen (prawn toast), steak tartare, moules frites, meatballs, archipelago fish stew and Biff Rydberg (diced beef and potatoes), with mains around 240–395 kr. The bar has a wide wine list and classic cocktails. You get the archipelago feeling without needing a boat: about 30 minutes by car, bus from Slussen or your own boat.",
+  "season": "Open all year Wed–Sun; julbord (Christmas buffet) in December",
+  "best_for": "A summer evening on the quay watching the boats in the canal",
+  "good_to_know": [
+   "Closed Mon–Tue; Wed from 17:00, Thu–Sat 12–21, Sun 12–20",
+   "Cashless",
+   "Book a table via the website; drop-in often works",
+   "Reachable by car, bus or boat"
+  ],
+  "review_summary": "The canalside location and the atmosphere on the quay on a summer evening are what guests like most, and many describe it as a second living room. The food often gets good reviews, especially the meat and the Christmas buffet. At the same time there's recurring criticism of uneven quality, such as badly cleaned mussels and overcooked chips, and of prices that feel high for the portions. Some think the service has got worse after changes of ownership.",
+  "_from": "6720f938d759"
+ }
+}

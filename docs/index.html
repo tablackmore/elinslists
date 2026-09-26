@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Elin's lists</title>
+<meta name="description" content="Elin's lists: places by the water near Stockholm, vegetarian recipes and more. In English and Swedish.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400;1,6..72,500&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+</head>
+<body>
+<header class="top" data-home="./"></header>
+<main class="home">
+  <p class="label" data-i18n="lists"></p>
+  <h1 class="home__brand">Elin's lists</h1>
+  <p class="home__lede" data-i18n="home_lede"></p>
+  <div class="shelf" id="shelf"></div>
+  <p class="home__more" data-i18n="more_soon"></p>
+  <p class="cover-credit" id="credits"></p>
+</main>
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
+<script>
+(async () => {
+  const lists = await loadJSON("data/lists.json");
+  function render() {
+    document.getElementById("shelf").innerHTML = lists.map((l) => {
+      const txt = L10N(l);
+      const count = t(l.slug === "places" ? "n_places" : "n_recipes", { n: l.count }) + " · " + t(l.slug === "places" ? "n_areas" : "n_chapters", { n: l.chapters });
+      const done = Ratings.count(l.slug);
+      return `<a class="listcard" href="${esc(l.slug)}/">
+        <img src="${esc(l.cover.src)}" alt="" style="object-position:${esc(l.cover.pos)}">
+        <div class="listcard__body">
+          <span class="label">${esc(count)}</span>
+          <h2>${esc(txt.title)}</h2>
+          <p>${esc(txt.blurb)}</p>
+          <span class="listcard__go">${done ? esc(t(l.slug === "places" ? "visited" : "cooked", { n: done })) + " · " : ""}${esc(t("open_list"))} →</span>
+        </div></a>`;
+    }).join("");
+    document.getElementById("credits").innerHTML = t("covers") + ": " + lists.map(({ cover: { credit: c } }) =>
+      `${esc(c.what[LANG])}${c.who ? ", " + esc(c.who) : ""}, ${c.license_url ? `<a href="${esc(c.license_url)}" target="_blank" rel="noopener">${esc(c.license)}</a>` : esc(c.license)}`
+      + ` (<a href="${esc(c.source)}" target="_blank" rel="noopener">Wikimedia Commons</a>)`).join(" · ");
+  }
+  onLang.push(render); Ratings.listeners.push(render); render();
+})();
+</script>
+</body>
+</html>

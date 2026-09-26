@@ -1,0 +1,88 @@
+{
+ "chapters": [
+  {
+   "sv": {
+    "title": "Strandvägen, Djurgården och Skeppsholmen",
+    "short": "Djurgården",
+    "intro": "Promenadavstånd från city. Flytande restauranger längs kajen, sommarkaféer vid Djurgårdsbron och utsikt över Saltsjön."
+   },
+   "en": {
+    "title": "Strandvägen, Djurgården and Skeppsholmen",
+    "short": "Djurgården",
+    "intro": "Within walking distance of the centre. Floating restaurants along the quay, summer cafes by Djurgården bridge and views over Saltsjön."
+   }
+  },
+  {
+   "sv": {
+    "title": "Södermalm och Liljeholmen",
+    "short": "Söder",
+    "intro": "Utsikt från Söders höjder och sommarkvällar vid Årstaviken och Hornstull."
+   },
+   "en": {
+    "title": "Södermalm and Liljeholmen",
+    "short": "Södermalm",
+    "intro": "Views from the heights of Söder and summer evenings by Årstaviken and Hornstull."
+   }
+  },
+  {
+   "sv": {
+    "title": "Kungsholmen, Mälaren och Bockholmen",
+    "short": "Kungsholmen",
+    "intro": "Solnedgångssidan. Paviljonger på Norr Mälarstrand, parkliv i Rålis och en ö-krog i Brunnsviken."
+   },
+   "en": {
+    "title": "Kungsholmen, Lake Mälaren and Bockholmen",
+    "short": "Kungsholmen",
+    "intro": "The sunset side. Pavilions on Norr Mälarstrand, park life in Rålambshovsparken and an island restaurant in Brunnsviken."
+   }
+  },
+  {
+   "sv": {
+    "title": "Nacka, Saltsjöbaden och Lidingö",
+    "short": "Nacka",
+    "intro": "En kort bil- eller båttur bort. Gamla varv, herrgårdar och bryggor mot inloppet till Stockholm."
+   },
+   "en": {
+    "title": "Nacka, Saltsjöbaden and Lidingö",
+    "short": "Nacka",
+    "intro": "A short drive or boat ride away. Old shipyards, manor houses and jetties along the sea approach to Stockholm."
+   }
+  },
+  {
+   "sv": {
+    "title": "Värmdö och skärgården",
+    "short": "Värmdö",
+    "intro": "Här börjar skärgården. Räkna med en dagsutflykt, och kolla säsongen: många ställen har bara öppet på sommaren."
+   },
+   "en": {
+    "title": "Värmdö and the archipelago",
+    "short": "Värmdö",
+    "intro": "This is where the archipelago begins. Plan for a day trip and check the season: many places only open in summer."
+   }
+  },
+  {
+   "sv": {
+    "title": "Tyresö, Dalarö och södra skärgården",
+    "short": "Söderut",
+    "intro": "Slott, gamla tullstationer och havshotell söderut, med övernattning om ni vill stanna."
+   },
+   "en": {
+    "title": "Tyresö, Dalarö and the southern archipelago",
+    "short": "South",
+    "intro": "A castle, old customs posts and seaside hotels to the south, with somewhere to stay if you want the night."
+   }
+  }
+ ],
+ "slug": "places",
+ "kind": "map",
+ "sv": {
+  "title": "Ställen vid vattnet nära Stockholm",
+  "short": "Ställen vid vattnet",
+  "blurb": "Mat, fika och övernattning vid vattnet, från Strandvägen ut till Nämdö. Allt inom 50 km från Sergels torg."
+ },
+ "en": {
+  "title": "Places by the water near Stockholm",
+  "short": "Places by the water",
+  "blurb": "Food, coffee and places to stay by the water, from Strandvägen out to Nämdö. All within 50 km of Sergels torg."
+ }
+}

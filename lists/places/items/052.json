@@ -1,0 +1,56 @@
+{
+ "id": 52,
+ "n": 29,
+ "chapter": 4,
+ "lat": 59.30097,
+ "lon": 18.45589,
+ "km": 22.5,
+ "status": "open",
+ "price": null,
+ "website": "https://www.villasoludden.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Villa%20Soludden%2C%20Ekviks%20g%C3%A5rdsv%C3%A4g%2060%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Ekviks gårdsväg 60, 139 40 Värmdö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.8,
+   "scale": 5,
+   "count": 139
+  }
+ ],
+ "sv": {
+  "name": "Villa Soludden",
+  "kind": "Konferens- och eventvilla",
+  "area": "Ekvik, Värmdö",
+  "tagline": "Arkitektvilla vid vattnet för fest och konferens",
+  "description": "Villa Soludden är en arkitektritad villa från 1990 (Reijo Hillberg) i trä, täljsten och glas, vid en skyddad vik i Värmdös skärgård med kvällssol västerut. Här finns ett orangeri vid vattnet med skjutbart tak, brygga, bastu och 17 rum. Villan hyrs ut i sin helhet till ett sällskap i taget för konferens, bröllop och privata fester, med mat och personal på plats; det är alltså ingen restaurang man kan gå till spontant. Minsta sällskap är 12 personer för konferens och 16 för privata fester. Bil tar ungefär 30–40 minuter från Stockholm; systerrestaurangerna ligger i Gustavsbergs hamn tio minuter bort.",
+  "season": "Året runt, men endast för förbokade sällskap",
+  "best_for": "Bröllop eller större fest vid vattnet",
+  "good_to_know": [
+   "Endast förbokade sällskap, en grupp i taget",
+   "Minst 12 personer (konferens) eller 16 (privat fest)",
+   "Orangeri för upp till ca 140 gäster",
+   "Bastu och brygga ingår",
+   "Konferenspaket från ca 6 400 kr/person och dag exkl. moms"
+  ],
+  "review_summary": "Omdömena är överlag mycket positiva, främst från bröllops- och festgäster som beskriver läget, kvällssolen över viken, bryggorna och frukosten som mycket fina, och servicen som personlig. Enstaka recensenter har haft dåliga erfarenheter, med besvärligt samarbete kring ett bröllop, slitna rum med flagnande färg och rum utan fönster. Det finns få oberoende recensioner utanför Google."
+ },
+ "en": {
+  "name": "Villa Soludden",
+  "kind": "Conference and events villa",
+  "area": "Ekvik, Värmdö",
+  "tagline": "Architect-designed waterside villa for parties and conferences",
+  "description": "Villa Soludden is an architect-designed villa from 1990 (Reijo Hillberg) in wood, soapstone and glass, on a sheltered bay in the Värmdö archipelago with evening sun to the west. There is an orangery by the water with a sliding roof, a jetty, a sauna and 17 rooms. The villa is hired out in its entirety to one group at a time for conferences, weddings and private parties, with food and staff on site; so it's not a restaurant you can just turn up at. The minimum group is 12 people for conferences and 16 for private parties. By car it takes about 30–40 minutes from Stockholm; the sister restaurants are in Gustavsbergs hamn ten minutes away.",
+  "season": "All year, but only for pre-booked groups",
+  "best_for": "A wedding or larger party by the water",
+  "good_to_know": [
+   "Pre-booked groups only, one group at a time",
+   "Minimum 12 people (conference) or 16 (private party)",
+   "Orangery for up to approx. 140 guests",
+   "Sauna and jetty included",
+   "Conference packages from approx. 6,400 kr per person per day excl. VAT"
+  ],
+  "review_summary": "Reviews are on the whole very positive, mainly from wedding and party guests who describe the location, the evening sun over the bay, the jetties and the breakfast as lovely, and the service as personal. The odd reviewer has had bad experiences, with difficult cooperation over a wedding, worn rooms with peeling paint and rooms without windows. There are few independent reviews outside Google.",
+  "_from": "2446a563a9e0"
+ }
+}

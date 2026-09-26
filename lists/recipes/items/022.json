@@ -1,0 +1,36 @@
+{
+ "id": 22,
+ "n": 43,
+ "chapter": 2,
+ "creator": "novotelhotels",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DXgin03jQCu/",
+ "video_only": false,
+ "original_title": "Potaje de vigilia",
+ "sv": {
+  "title": "Spansk kikärtsgryta",
+  "servings": "6 portioner",
+  "time": "",
+  "description": "Spansk gryta med kikärtor, potatis, tomat, purjolök, spenat och rökt paprika. Serveras med stekt ostronskivling och gärna ett kokt eller pocherat ägg; sex portioner.",
+  "keywords": [
+   "gryta",
+   "kikärtor",
+   "potatis",
+   "spenat",
+   "svamp"
+  ]
+ },
+ "en": {
+  "title": "Spanish Chickpea Stew",
+  "servings": "Serves 6",
+  "time": "",
+  "description": "Spanish stew of chickpeas, potatoes, tomato, leek, spinach and smoked paprika. Served with fried oyster mushrooms and, if liked, a boiled or poached egg; serves six.",
+  "keywords": [
+   "stew",
+   "chickpeas",
+   "potatoes",
+   "spinach",
+   "mushrooms"
+  ]
+ }
+}

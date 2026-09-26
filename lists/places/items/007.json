@@ -1,0 +1,60 @@
+{
+ "id": 7,
+ "n": 20,
+ "chapter": 3,
+ "lat": 59.31009,
+ "lon": 18.12874,
+ "km": 4.4,
+ "status": "seasonal",
+ "price": 1,
+ "website": "https://www.svindersviksbrygghus.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Svindersviks%20Brygghus%2C%20Svindersviksv%C3%A4gen%2015%2C%20Nacka",
+ "address": "Svindersviksvägen 15, 131 35 Nacka",
+ "scores": [
+  {
+   "site": "Google (via sökresultat)",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 1218
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 64
+  }
+ ],
+ "sv": {
+  "name": "Svindersviks Brygghus",
+  "kind": "Café",
+  "area": "Svindersvik, Sickla, Nacka",
+  "tagline": "1700-talscafé i gamla brygghuset vid Svindersviken",
+  "description": "Caféet ligger i det gamla brygghuset på Svindersviks gård, ett välbevarat sommarnöje från 1740-talet som i dag tillhör Nordiska museet. Man sitter inne i två små rum eller ute på bryggan och gräsmattan ned mot Svindersviken, en lugn vik av Saltsjön. Här serveras hembakat fikabröd från det egna bageriet i Enköping, italiensk gelato, soppa med bröd och sallad samt smörgåsar och enklare lunch. Ett stilla ställe för fika efter en promenad, med få val och mycket lugn. Promenadavstånd från Sickla köpkvarter och Tvärbanan.",
+  "season": "Vår–höst, ons–sön 11–16; säsongen går till slutet av oktober",
+  "best_for": "Fika på bryggan efter en promenad",
+  "good_to_know": [
+   "Kan stänga vardagar vid ihållande regn",
+   "Sittplatser på bryggan vid vattnet",
+   "Promenad från Sickla/Tvärbanan",
+   "Svindersviks herrgård (Nordiska museet) ligger intill"
+  ],
+  "review_summary": "Miljön vid vattnet och den gamla byggnaden är det som lockar, och många kallar det en gömd pärla. Fikabrödet, särskilt äppelpajen, och soppluncherna får beröm. Återkommande kritik gäller att det är fler gäster än platser under fina dagar, köer vid kassan och ett ibland stressat eller ointresserat bemötande. Några upplever att bakverken blivit sämre och att priserna är höga i förhållande till kvaliteten."
+ },
+ "en": {
+  "name": "Svindersviks Brygghus",
+  "kind": "Cafe",
+  "area": "Svindersvik, Sickla, Nacka",
+  "tagline": "18th-century cafe in the old brewhouse on Svindersviken",
+  "description": "The cafe is in the old brewhouse at Svindersvik, a well-preserved summer retreat from the 1740s that now belongs to the Nordiska museet. You sit inside in two small rooms or out on the jetty and the lawn running down to Svindersviken, a quiet bay off Saltsjön. They serve home-baked cakes and buns from their own bakery in Enköping, Italian gelato, soup with bread and salad, and sandwiches and simple lunches. A peaceful spot for a fika (coffee and cake) after a walk, with few choices and lots of calm. Walking distance from Sickla shopping area and the Tvärbanan (tram).",
+  "season": "Spring–autumn, Wed–Sun 11–16; the season runs until the end of October",
+  "best_for": "Fika on the jetty after a walk",
+  "good_to_know": [
+   "May close on weekdays in persistent rain",
+   "Seating on the jetty by the water",
+   "Walk from Sickla/Tvärbanan",
+   "Svindersvik manor (Nordiska museet) is next door"
+  ],
+  "review_summary": "The waterside setting and the old building are the draw, and many call it a hidden gem. The cakes, especially the apple pie, and the soup lunches get praise. Recurring complaints are that there are more customers than seats on nice days, queues at the till and staff who are sometimes stressed or uninterested. Some feel the baking has gone downhill and that prices are high for the quality.",
+  "_from": "0294abf88925"
+ }
+}

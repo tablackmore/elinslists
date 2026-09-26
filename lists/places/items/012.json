@@ -1,0 +1,60 @@
+{
+ "id": 12,
+ "n": 3,
+ "chapter": 0,
+ "lat": 59.32473,
+ "lon": 18.08748,
+ "km": 1.5,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.hotelskeppsholmen.se/restaurang-langa-raden",
+ "maps": "https://www.google.com/maps/search/?api=1&query=L%C3%A5nga%20Raden%2C%20Hotel%20Skeppsholmen%2C%20Gr%C3%B6na%20g%C3%A5ngen%201%2C%20Stockholm",
+ "address": "Gröna gången 1, 111 49 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.0,
+   "scale": 5,
+   "count": 206
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.0,
+   "scale": 5,
+   "count": 2
+  }
+ ],
+ "sv": {
+  "name": "Långa Raden",
+  "kind": "Restaurang (hotell)",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Svensk husmanskost i 1600-talslänga på Skeppsholmen",
+  "description": "Hotel Skeppsholmens restaurang ligger i den långa gula byggnaden från 1699 på Skeppsholmen, i en parklik miljö nära vattnet med utsikt mot Djurgården och Strandvägen. Köket lagar svensk husmanskost i modern tappning med säsongsråvaror, en del från hotellets egen köksträdgård; köttbullar och fisk är återkommande. Matsalen är ljus och lugn med konst på väggarna, och på sommaren finns uteservering. Serverar frukost, lunch och middag alla dagar. Passar par som vill ha en lugn middag mitt i stan men bort från trängseln. Ta buss 65 till Skeppsholmen eller promenera över Skeppsholmsbron från Kungsträdgården.",
+  "season": "Året runt; uteservering på sommaren",
+  "best_for": "Lugn middag med svensk mat mitt i stan",
+  "good_to_know": [
+   "Middag varje dag 17–22",
+   "Frukost och lunch även för gäster utanför hotellet",
+   "Boka via bokabord.se",
+   "Buss 65 till Skeppsholmen"
+  ],
+  "review_summary": "Gäster på Tripadvisor lyfter den avslappnade men eleganta miljön, läget på Skeppsholmen och klassiska svenska rätter som köttbullar, lax och skaldjur, samt vänlig personal. Kritiken gäller ojämnt utförande: enstaka rätter beskrivs som tråkiga, vissa upplever servicen som oerfaren och att menyn på terrassen är mindre. Thatsup har bara ett par omdömen, som nämner mysig miljö och vattenutsikt."
+ },
+ "en": {
+  "name": "Långa Raden",
+  "kind": "Restaurant (hotel)",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Traditional Swedish cooking in a 17th-century building on Skeppsholmen",
+  "description": "Hotel Skeppsholmen's restaurant is in the long yellow building from 1699 on Skeppsholmen, in park-like surroundings near the water with views towards Djurgården and Strandvägen. The kitchen does traditional Swedish home cooking with a modern twist and seasonal produce, some of it from the hotel's own kitchen garden; meatballs and fish are regulars. The dining room is light and calm with art on the walls, and there's outdoor seating in summer. Breakfast, lunch and dinner are served every day. Suits couples who want a quiet dinner in the middle of town but away from the crowds. Take bus 65 to Skeppsholmen or walk across Skeppsholmsbron from Kungsträdgården.",
+  "season": "All year; outdoor seating in summer",
+  "best_for": "A quiet dinner of Swedish food in the middle of town",
+  "good_to_know": [
+   "Dinner every day 17–22",
+   "Breakfast and lunch also open to non-hotel guests",
+   "Book via bokabord.se",
+   "Bus 65 to Skeppsholmen"
+  ],
+  "review_summary": "Guests on Tripadvisor highlight the relaxed but elegant setting, the location on Skeppsholmen and classic Swedish dishes such as meatballs, salmon and seafood, as well as friendly staff. The criticism is about uneven execution: the odd dish is described as dull, some find the service inexperienced, and the terrace menu is smaller. Thatsup has only a couple of reviews, which mention a cosy setting and water views.",
+  "_from": "de0c0ea43907"
+ }
+}

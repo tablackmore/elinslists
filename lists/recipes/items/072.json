@@ -1,0 +1,38 @@
+{
+ "id": 72,
+ "n": 37,
+ "chapter": 1,
+ "creator": "",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1118018493058746/",
+ "video_only": false,
+ "original_title": "Spaghetti alla Carbonara d’Asparagi",
+ "sv": {
+  "title": "Sparris-carbonara med spagetti",
+  "servings": "4 portioner (500 g spagetti)",
+  "time": "",
+  "description": "Vegetarisk carbonara där sparrisstjälkar mixas till en kräm som blandas med äggulor och pecorino. Serveras med spagetti, sparristoppar och rökt tofu.",
+  "keywords": [
+   "spagetti",
+   "sparris",
+   "rökt tofu",
+   "äggulor",
+   "pecorino",
+   "carbonara"
+  ]
+ },
+ "en": {
+  "title": "Asparagus Spaghetti Carbonara",
+  "servings": "Serves 4 (500 g spaghetti)",
+  "time": "",
+  "description": "A vegetarian carbonara in which asparagus stalks are blended into a cream and mixed with egg yolks and pecorino. Served with spaghetti, asparagus tips and smoked tofu.",
+  "keywords": [
+   "spaghetti",
+   "asparagus",
+   "smoked tofu",
+   "egg yolks",
+   "pecorino",
+   "carbonara"
+  ]
+ }
+}

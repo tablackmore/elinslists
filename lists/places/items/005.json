@@ -1,0 +1,60 @@
+{
+ "id": 5,
+ "n": 19,
+ "chapter": 3,
+ "lat": 59.31598,
+ "lon": 18.12474,
+ "km": 3.9,
+ "status": "open",
+ "price": 3,
+ "website": "https://www.finnbodahamnkrog.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Finnboda%20Hamnkrog%2C%20Finnboda%20Varvsv%C3%A4g%2018%2C%20Nacka",
+ "address": "Finnboda Varvsväg 18, 131 73 Nacka",
+ "scores": [
+  {
+   "site": "TheFork",
+   "rating": 8.4,
+   "scale": 10,
+   "count": 136
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.5,
+   "scale": 5,
+   "count": 28
+  }
+ ],
+ "sv": {
+  "name": "Finnboda Hamnkrog",
+  "kind": "Restaurang & bar",
+  "area": "Finnboda, Nacka",
+  "tagline": "Kvarterskrog på kajen vid inloppet till Stockholm",
+  "description": "Finnboda Hamnkrog öppnade i maj 2025 i de gamla Docklands-lokalerna på kajen vid Finnboda varv, där fartygen passerar på väg in mot stan. Matsalen har stora fönster och en inglasad, vädersäker pergola med utsikt över inloppet mot Djurgården; på övervåningen finns en eventvåning med takterrass. Menyn spänner från pasta och burgare till röding och entrecote, med cocktails, vin och hantverksöl. Tanken är en avslappnad kvarterskrog för after work och middag. Enklast är pendelbåt 80 från Nybroplan till bryggan Finnboda hamn, annars buss från Slussen; det är tio minuter från Slussen.",
+  "season": "",
+  "best_for": "After work med utsikt över båttrafiken",
+  "good_to_know": [
+   "Stängt måndagar; öppnar 16 vardagar, 12 lör–sön",
+   "Pendelbåt 80 till Finnboda hamn",
+   "Rabatt vid bokning via TheFork har förekommit",
+   "Eventvåning med takterrass för fester"
+  ],
+  "review_summary": "Läget och utsikten över inloppet med förbipasserande båtar får genomgående beröm, liksom den nyrenoverade, ljusa lokalen. Förrätter som scampi och enskilda rätter som röding och köttbullar uppskattas. Kritiken är tydlig: varmrätterna beskrivs som ojämna (torr fisk, blek risotto), servicen som ung och ibland långsam, och flera tycker att det är dyrt för portionerna. TheFork-gästerna är mer positiva än Tripadvisor-recensenterna."
+ },
+ "en": {
+  "name": "Finnboda Hamnkrog",
+  "kind": "Restaurant & bar",
+  "area": "Finnboda, Nacka",
+  "tagline": "Neighbourhood restaurant on the quay at the entrance to Stockholm",
+  "description": "Finnboda Hamnkrog opened in May 2025 in the old Docklands premises on the quay at Finnboda shipyard, where ships pass on their way into town. The dining room has big windows and a glazed, weatherproof pergola looking out over the inlet towards Djurgården; upstairs there's an events floor with a roof terrace. The menu runs from pasta and burgers to Arctic char and entrecôte, with cocktails, wine and craft beer. The idea is a relaxed neighbourhood place for after-work drinks and dinner. The easiest way there is commuter boat 80 from Nybroplan to the Finnboda hamn jetty, otherwise the bus from Slussen; it's ten minutes from Slussen.",
+  "season": "",
+  "best_for": "After-work drinks looking out over the boat traffic",
+  "good_to_know": [
+   "Closed Mondays; opens 16:00 on weekdays, 12:00 Sat–Sun",
+   "Commuter boat 80 to Finnboda hamn",
+   "There have been discounts for booking via TheFork",
+   "Events floor with roof terrace for parties"
+  ],
+  "review_summary": "The location and the view over the inlet with boats going by get consistent praise, as does the newly renovated, bright interior. Starters like the scampi and individual dishes like the Arctic char and meatballs go down well. The criticism is clear, though: main courses are described as uneven (dry fish, bland risotto), the service as young and sometimes slow, and several people think it's expensive for the portion sizes. TheFork diners are more positive than Tripadvisor reviewers.",
+  "_from": "09a527802cef"
+ }
+}

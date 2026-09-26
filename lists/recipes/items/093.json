@@ -1,0 +1,36 @@
+{
+ "id": 93,
+ "n": 75,
+ "chapter": 3,
+ "creator": "Bosh",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/3843528645957521/",
+ "video_only": false,
+ "original_title": "Smashed Potatoes with Blended Pickle Beans",
+ "sv": {
+  "title": "Smashed potatoes and pickles",
+  "servings": "",
+  "time": "",
+  "description": "Ugnsrostade krossade potatisar med dill, serverade på en mixad bas av silkestofu, vita bönor och näringsjäst med ättiksgurka, rödlök och gurka.",
+  "keywords": [
+   "potatis",
+   "ättiksgurka",
+   "silkestofu",
+   "vita bönor",
+   "dill"
+  ]
+ },
+ "en": {
+  "title": "Smashed Potatoes and Pickles",
+  "servings": "",
+  "time": "",
+  "description": "Oven-roasted smashed potatoes with dill, served on a blended base of silken tofu, butter beans and nutritional yeast mixed with pickles, red onion and cucumber.",
+  "keywords": [
+   "potatoes",
+   "pickles",
+   "silken tofu",
+   "butter beans",
+   "dill"
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "chapters": [
+  {
+   "sv": {
+    "title": "Sallader",
+    "intro": "Krispiga, fräscha och ofta klara på en kvart."
+   },
+   "en": {
+    "title": "Salads",
+    "intro": "Crisp, fresh and often ready in a quarter of an hour."
+   }
+  },
+  {
+   "sv": {
+    "title": "Pasta & nudlar",
+    "intro": "Från tio minuters nudlar till långkok med zucchini."
+   },
+   "en": {
+    "title": "Pasta & Noodles",
+    "intro": "From ten-minute noodles to slow-cooked courgette."
+   }
+  },
+  {
+   "sv": {
+    "title": "Soppor & grytor",
+    "intro": "Värmande skålar med bönor, kikärtor och grönsaker."
+   },
+   "en": {
+    "title": "Soups & Stews",
+    "intro": "Warming bowls of beans, chickpeas and vegetables."
+   }
+  },
+  {
+   "sv": {
+    "title": "Ugnsrätter, pajer & vardagsmat",
+    "intro": "Pajer, gratänger, plättar och potatis i alla former."
+   },
+   "en": {
+    "title": "Bakes, Pies & Everyday Dishes",
+    "intro": "Pies, gratins, fritters and potatoes in every form."
+   }
+  },
+  {
+   "sv": {
+    "title": "Dressingar & såser",
+    "intro": "Vinägretter, dippar och såser som lyfter allt från sallad till dumplings."
+   },
+   "en": {
+    "title": "Dressings & Sauces",
+    "intro": "Vinaigrettes, dips and sauces that lift everything from salad to dumplings."
+   }
+  },
+  {
+   "sv": {
+    "title": "Tillbehör & snacks",
+    "intro": "Små rätter att ställa fram bredvid, eller äta som de är."
+   },
+   "en": {
+    "title": "Sides & Snacks",
+    "intro": "Little dishes to serve alongside, or to eat just as they are."
+   }
+  },
+  {
+   "sv": {
+    "title": "Bröd",
+    "intro": "Knäcke, vitlöksbröd och bröd utan mjöl."
+   },
+   "en": {
+    "title": "Bread",
+    "intro": "Crispbread, garlic bread and bread without flour."
+   }
+  },
+  {
+   "sv": {
+    "title": "Sött",
+    "intro": "Något sött till kaffet eller efter maten."
+   },
+   "en": {
+    "title": "Something Sweet",
+    "intro": "Something sweet with coffee or after dinner."
+   }
+  }
+ ],
+ "slug": "recipes",
+ "kind": "list",
+ "sv": {
+  "title": "Gröna favoriter",
+  "short": "Gröna favoriter",
+  "blurb": "Vegetariska recept vi vill laga, sparade från Instagram, Facebook och matbloggar. Varje recept länkar till skaparen."
+ },
+ "en": {
+  "title": "Green favourites",
+  "short": "Green favourites",
+  "blurb": "Vegetarian recipes we want to cook, saved from Instagram, Facebook and food blogs. Every recipe links to its creator."
+ }
+}

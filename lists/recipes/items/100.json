@@ -1,0 +1,36 @@
+{
+ "id": 100,
+ "n": 78,
+ "chapter": 3,
+ "creator": "Essen Paradies ",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/983252880668728/",
+ "video_only": false,
+ "original_title": "Crispy One Pan Potatoes with Eggs",
+ "sv": {
+  "title": "Crispy pan potatoes with mozzarella",
+  "servings": "2 portioner",
+  "time": "",
+  "description": "Potatisskivor stekta krispiga i pannan och täckta med uppvispade ägg, mozzarella, persilja och chiliflakes. Steks under lock tills äggen stannat och vänds sedan.",
+  "keywords": [
+   "potatis",
+   "ägg",
+   "mozzarella",
+   "persilja",
+   "omelett"
+  ]
+ },
+ "en": {
+  "title": "Crispy Pan Potatoes with Mozzarella",
+  "servings": "Serves 2",
+  "time": "",
+  "description": "Sliced potatoes fried crisp in a pan, then covered with beaten eggs, mozzarella, parsley and chilli flakes. Cooked under a lid until set, then flipped.",
+  "keywords": [
+   "potatoes",
+   "eggs",
+   "mozzarella",
+   "parsley",
+   "omelette"
+  ]
+ }
+}

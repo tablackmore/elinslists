@@ -1,0 +1,62 @@
+{
+ "id": 21,
+ "n": 18,
+ "chapter": 2,
+ "lat": 59.37757,
+ "lon": 18.05395,
+ "km": 5.0,
+ "status": "open",
+ "price": 2,
+ "website": "https://bockholmen.com/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Bockholmen%20Hav%20%26%20Restaurang%2C%20Solna",
+ "address": "Bockholmsvägen 20, 170 78 Solna",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 409
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.4,
+   "scale": 5,
+   "count": 28
+  }
+ ],
+ "sv": {
+  "name": "Bockholmen Hav & Restaurang",
+  "kind": "Restaurang & bar",
+  "area": "Bockholmen, Bergshamra, Solna",
+  "tagline": "Sekelskiftesvilla på egen holme vid Stocksundet",
+  "description": "Bockholmen är en liten holme i Stocksundet mellan Edsviken och Brunnsviken, dit man tar sig över en kort bro från Bergshamra. Restaurangen ligger i en trävilla från 1800-talets slut med glasad veranda och vattenutsikt åt flera håll. Köket beskriver sig som enkel skandinavisk mat med medelhavsinslag, med helgbrunch, à la carte på kvällen och säsongsmenyer som skaldjursfest på hösten. På sommaren finns också Kärleksbaren, en enklare bar och grill nere vid vattnet. Passar för en långsam brunch eller middag med utsikt. Ta tunnelbanan (röda linjen) till Bergshamra och promenera, eller kom med egen båt på sommaren.",
+  "season": "Året runt med begränsade dagar; sommar 2026 ons–tors 17–22, fre 17–23, lör 11–23, sön 11–17. Kärleksbaren (bar & grill vid vattnet) öppen soliga dagar juni–augusti.",
+  "best_for": "Helgbrunch på verandan med utsikt över sundet",
+  "good_to_know": [
+   "T-bana Bergshamra (röda linjen), sedan en kort promenad över bron",
+   "Helgbrunch lördag och söndag",
+   "Kärleksbaren vid vattnet bara soliga sommardagar",
+   "Boka bord helger",
+   "Stängt måndag–tisdag"
+  ],
+  "review_summary": "Läget får nästan bara beröm: en skärgårdskänsla bara tio minuter från stan, mysig villa och fin utsikt över vattnet, och helgbrunchen lyfts ofta fram. Kritiken gäller framför allt utförandet. Flera recensenter beskriver lång väntan, mat som kommer in kall, ojämn servering och att det känns dyrt för vad man får. Sammantaget: kom för miljön och sänk förväntningarna på köket och servicen en aning."
+ },
+ "en": {
+  "name": "Bockholmen Hav & Restaurang",
+  "kind": "Restaurant & bar",
+  "area": "Bockholmen, Bergshamra, Solna",
+  "tagline": "Turn-of-the-century villa on its own islet in Stocksundet",
+  "description": "Bockholmen is a small islet in Stocksundet between Edsviken and Brunnsviken, reached by a short bridge from Bergshamra. The restaurant is in a late-19th-century wooden villa with a glazed veranda and water views in several directions. The kitchen describes itself as simple Scandinavian food with Mediterranean touches, with weekend brunch, à la carte in the evening and seasonal menus such as a seafood feast in the autumn. In summer there's also Kärleksbaren, a simpler bar and grill down by the water. Good for a leisurely brunch or dinner with a view. Take the T-bana (metro, red line) to Bergshamra and walk, or come by your own boat in summer.",
+  "season": "All year with limited days; summer 2026 Wed–Thu 17–22, Fri 17–23, Sat 11–23, Sun 11–17. Kärleksbaren (bar & grill by the water) open on sunny days June–August.",
+  "best_for": "Weekend brunch on the veranda looking out over the sound",
+  "good_to_know": [
+   "T-bana (metro) to Bergshamra (red line), then a short walk across the bridge",
+   "Weekend brunch Saturday and Sunday",
+   "Kärleksbaren by the water only on sunny summer days",
+   "Book a table at weekends",
+   "Closed Monday–Tuesday"
+  ],
+  "review_summary": "The location gets almost nothing but praise: an archipelago feel just ten minutes from town, a cosy villa and lovely views over the water, and the weekend brunch is often singled out. The criticism is mainly about execution. Several reviewers describe long waits, food arriving cold, patchy service and that it feels expensive for what you get. In short: come for the setting and lower your expectations of the kitchen and service a little.",
+  "_from": "d88c832f00b9"
+ }
+}

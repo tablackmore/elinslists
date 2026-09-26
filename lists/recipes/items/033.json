@@ -1,0 +1,36 @@
+{
+ "id": 33,
+ "n": 94,
+ "chapter": 6,
+ "creator": "The Doctor's Kitchen",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1193573182762379/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Fröknäcke",
+  "servings": "1 plåt",
+  "time": "Under 1 timme",
+  "description": "Knäckebröd av linfrön, chiafrön, pumpakärnor och solrosfrön kryddat med svartkummin, fänkål och vitlök. Smeten breds ut tunt på en plåt och gräddas torr i ugnen.",
+  "keywords": [
+   "knäckebröd",
+   "fröer",
+   "linfrön",
+   "chiafrön",
+   "pumpakärnor"
+  ]
+ },
+ "en": {
+  "title": "Seed Crackers",
+  "servings": "1 baking tray",
+  "time": "Under 1 hour",
+  "description": "Crackers of flaxseed, chia, pumpkin and sunflower seeds seasoned with nigella, fennel seed and garlic. The mixture is spread thin on a tray and baked dry in the oven.",
+  "keywords": [
+   "crackers",
+   "seeds",
+   "flaxseed",
+   "chia seeds",
+   "pumpkin seeds"
+  ]
+ }
+}

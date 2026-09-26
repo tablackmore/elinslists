@@ -1,0 +1,62 @@
+{
+ "id": 49,
+ "n": 43,
+ "chapter": 5,
+ "lat": 59.16604,
+ "lon": 18.45715,
+ "km": 29.0,
+ "status": "open",
+ "price": 3,
+ "website": "https://www.smadalarogard.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Sm%C3%A5dalar%C3%B6%20G%C3%A5rd%20Hotell%20%26%20Spa",
+ "address": "Smådalarövägen 100, 137 91 Dalarö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.8,
+   "scale": 5,
+   "count": 264
+  },
+  {
+   "site": "Google (restaurangen)",
+   "rating": 4.3,
+   "scale": 5,
+   "count": null
+  }
+ ],
+ "sv": {
+  "name": "Smådalarö Gård Hotell & Spa",
+  "kind": "Hotell, spa & restaurang",
+  "area": "Smådalarö, Haninge",
+  "tagline": "Spahotell och brasserie vid Hemviken i skärgården",
+  "description": "Smådalarö Gård är en gård vid den skyddade Hemviken, några kilometer norr om Dalarö, som i dag är ett av Sveriges största spahotell med 2000 kvm spa, golf, padel och tennis. Huvudrestaurangen Brasserie & Bränneri är nyrenoverad och har stora glaspartier och en terrass mot viken. Här serveras svensk mat med en twist: fisk, skaldjur och råvaror från gårdar i närheten, med varmrätter runt 365 kr. Dessutom finns Bloms bar, Vinbaren och Petite Sabis för lunch och fika. Man kan dricka kaffe på bryggan. Buss 839 från Handen går ända fram till grinden, och med båt kan man lägga till i gästhamnen med 30 platser.",
+  "season": "Året runt. Brasserie & Bränneri serverar frukost, lunch (vardagar 11.30–15, helger 12–15) och middag alla dagar 17.30–23.",
+  "best_for": "Spadag med middag vid Hemviken",
+  "good_to_know": [
+   "Boka bord i Brasserie & Bränneri",
+   "Dagspa kan bokas utan övernattning",
+   "Gästhamn i Hemviken, 30 platser, djup 2,5 m",
+   "Buss 839 från Handen till grinden",
+   "Event som skaldjurskvällar och vinprovningar"
+  ],
+  "review_summary": "Miljön vid vattnet, spat och frukosten får genomgående beröm. Om restaurangen går åsikterna isär: Google-betyget är gott, men flera färska Tripadvisor-omdömen (2025–2026) kallar maten ojämn eller smaklös i förhållande till priset och serveringen klumpig. Hotellrummen kritiseras för att vara små och ha trasiga lås. Många tycker att det är för dyrt för vad man får, särskilt maten."
+ },
+ "en": {
+  "name": "Smådalarö Gård Hotell & Spa",
+  "kind": "Hotel, spa & restaurant",
+  "area": "Smådalarö, Haninge",
+  "tagline": "Spa hotel and brasserie on Hemviken in the archipelago",
+  "description": "Smådalarö Gård is an estate on the sheltered Hemviken bay, a few kilometres north of Dalarö, which is now one of Sweden's largest spa hotels with a 2,000 sq m spa, golf, padel and tennis. The main restaurant, Brasserie & Bränneri, has been newly renovated and has large glass walls and a terrace facing the bay. It serves Swedish food with a twist: fish, seafood and produce from nearby farms, with mains around 365 kr. There is also Bloms bar, Vinbaren and Petite Sabis for lunch and fika (coffee and cake). You can have coffee on the jetty. Bus 839 from Handen goes right up to the gate, and by boat you can moor in the guest harbour, which has 30 berths.",
+  "season": "All year. Brasserie & Bränneri serves breakfast, lunch (weekdays 11.30–15, weekends 12–15) and dinner every day 17.30–23.",
+  "best_for": "A spa day with dinner by Hemviken",
+  "good_to_know": [
+   "Book a table at Brasserie & Bränneri",
+   "Day spa can be booked without an overnight stay",
+   "Guest harbour in Hemviken, 30 berths, depth 2.5 m",
+   "Bus 839 from Handen to the gate",
+   "Events such as seafood evenings and wine tastings"
+  ],
+  "review_summary": "The waterside setting, the spa and the breakfast are consistently praised. Opinions on the restaurant differ: the Google rating is good, but several recent Tripadvisor reviews (2025–2026) call the food uneven or bland for the price and the service clumsy. The hotel rooms are criticised for being small and having broken locks. Many feel it's too expensive for what you get, especially the food.",
+  "_from": "85f3ccf44c91"
+ }
+}

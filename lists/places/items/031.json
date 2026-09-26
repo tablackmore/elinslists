@@ -1,0 +1,60 @@
+{
+ "id": 31,
+ "n": 5,
+ "chapter": 0,
+ "lat": 59.33069,
+ "lon": 18.09339,
+ "km": 1.6,
+ "status": "open",
+ "price": 2,
+ "website": "https://djurgardsbron.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Stockholm%201897%2C%20Gal%C3%A4rvarvsv%C3%A4gen%202%2C%20Stockholm",
+ "address": "Galärvarvsvägen 2, 115 21 Stockholm",
+ "scores": [
+  {
+   "site": "Google (Stockholm 1897, via Thatsup)",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 100
+  },
+  {
+   "site": "Tripadvisor (Djurgårdsbrons Sjöcafé)",
+   "rating": 3.8,
+   "scale": 5,
+   "count": 441
+  }
+ ],
+ "sv": {
+  "name": "Djurgårdsbron (f.d. Sjöcaféet)",
+  "kind": "Restauranger, café & bar",
+  "area": "Djurgården, Stockholm",
+  "tagline": "Soligt hörn vid Djurgårdsbron med bageri, bastu och bryggbar",
+  "description": "Det gamla Sjöcaféet vid Djurgårdsbron drivs sedan 2022 av Burgsvik Group under namnet Djurgårdsbron. Här finns stor uteservering vid Djurgårdskanalen och Ladugårdslandsviken, med närmare 1 000 platser sommartid. Året runt finns Stockholm 1897 by Monika – bageri, café och restaurang med svensk husmanskost som köttbullar och stekt abborre, och öppen spis inne. På sommaren tillkommer streetfood hos Strandhäxan och bryggbaren Bryggan i en paviljong på vattnet. Det finns en flytande bastu med badmöjlighet och uthyrning av kajak och trampbåt. Passar en avslappnad lunch eller fika. Spårvagn 7 till Djurgårdsbron.",
+  "season": "Stockholm 1897 öppet året runt 9–17; bryggbar och streetfood främst sommartid",
+  "best_for": "Fika eller lunch i solen vid Djurgårdsbron",
+  "good_to_know": [
+   "Stockholm 1897 öppet alla dagar 9–17",
+   "Huvudrätter ca 200–225 kr",
+   "Flytande bastu i kanalen (bokas)",
+   "Kajak- och trampbåtsuthyrning sommartid"
+  ],
+  "review_summary": "Läget vid vattnet och bron är det alla gillar, liksom smörgåsar och bakverk och en avslappnad stämning. Kritiken på Tripadvisor (där många omdömen gäller Sjöcaféet-tiden) handlar om att priset känns högt för kvaliteten, ojämn mat och att självservicen gör det rörigt när det är mycket folk. Stockholm 1897 får godkända betyg på Google och beröm för trevlig service."
+ },
+ "en": {
+  "name": "Djurgårdsbron (formerly Sjöcaféet)",
+  "kind": "Restaurants, cafe & bar",
+  "area": "Djurgården, Stockholm",
+  "tagline": "Sunny corner by Djurgårdsbron with bakery, sauna and pontoon bar",
+  "description": "The old Sjöcaféet by Djurgårdsbron bridge has been run since 2022 by Burgsvik Group under the name Djurgårdsbron. There is a large outdoor seating area by Djurgårdskanalen and Ladugårdslandsviken, with nearly 1,000 seats in summer. All year round there is Stockholm 1897 by Monika – a bakery, cafe and restaurant serving traditional Swedish home cooking such as meatballs and fried perch, with an open fire indoors. In summer there is also street food at Strandhäxan and the pontoon bar Bryggan in a pavilion on the water. There is a floating sauna you can swim from, and kayak and pedalo hire. Good for a relaxed lunch or fika (coffee and cake). Tram 7 to Djurgårdsbron.",
+  "season": "Stockholm 1897 open all year 9–17; pontoon bar and street food mainly in summer",
+  "best_for": "Fika or lunch in the sun by Djurgårdsbron",
+  "good_to_know": [
+   "Stockholm 1897 open every day 9–17",
+   "Main courses approx. 200–225 kr",
+   "Floating sauna in the canal (booking needed)",
+   "Kayak and pedalo hire in summer"
+  ],
+  "review_summary": "Everyone likes the location by the water and the bridge, as well as the sandwiches and pastries and the relaxed atmosphere. Criticism on Tripadvisor (where many reviews date from the Sjöcaféet days) is that the price feels high for the quality, the food is uneven and the self-service gets chaotic when it's busy. Stockholm 1897 gets decent ratings on Google and praise for friendly service.",
+  "_from": "4f6a23ef1171"
+ }
+}

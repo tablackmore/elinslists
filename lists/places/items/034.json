@@ -1,0 +1,60 @@
+{
+ "id": 34,
+ "n": 9,
+ "chapter": 1,
+ "lat": 59.31752,
+ "lon": 18.08357,
+ "km": 2.0,
+ "status": "open",
+ "price": 2,
+ "website": "https://hermans.se",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Hermans%2C%20Fj%C3%A4llgatan%2023B%2C%20Stockholm",
+ "address": "Fjällgatan 23B, 116 28 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.2,
+   "scale": 5,
+   "count": null
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 17
+  }
+ ],
+ "sv": {
+  "name": "Hermans",
+  "kind": "Vegansk buffé",
+  "area": "Fjällgatan, Södermalm, Stockholm",
+  "tagline": "Vegansk buffé med utsikt över inloppet och Djurgården",
+  "description": "Hermans ligger högt uppe på Fjällgatan på Södermalm, med en av stadens bredaste utsikter över Saltsjön, Gamla stan, Skeppsholmen och Djurgården. Sommartid sitter man i en stor, grönskande trädgård med hängmattor och grill längs muren ovanför vattnet. Restaurangen har varit vegetarisk sedan början av 90-talet och helt vegansk sedan 2015. Maten serveras som buffé med ett tiotal sallader, varma rätter från olika kök, bröd och bakverk. Stämningen är avslappnad och det passar både en billig lunch och en lång sommarkväll. Från Slussen promenerar man hit på en dryg kvart, uppför backen mot Fjällgatan.",
+  "season": "Året runt; trädgården med uteservering används under sommaren",
+  "best_for": "Sommarkväll i trädgården med utsikt över inloppet",
+  "good_to_know": [
+   "Buffé: lunch 195 kr, kväll och helg 285 kr",
+   "Studentpris 195 kr kväll/helg",
+   "Buffén stänger en timme före restaurangen",
+   "Brant backe upp – begränsad tillgänglighet"
+  ],
+  "review_summary": "Utsikten och trädgården hyllas i nästan varje recension, och många kallar Hermans en av stadens bästa platser för vegetarisk och vegansk mat. Buffén beskrivs som varierad och ständigt påfylld, och personalen som trevlig. Kritiken gäller att kvaliteten varierar mellan besöken, att det blir trångt när det är fullt och att middagspriset upplevs som högt av vissa. Tillgängligheten för rullstol är begränsad."
+ },
+ "en": {
+  "name": "Hermans",
+  "kind": "Vegan buffet",
+  "area": "Fjällgatan, Södermalm, Stockholm",
+  "tagline": "Vegan buffet with views over the harbour entrance and Djurgården",
+  "description": "Hermans sits high up on Fjällgatan on Södermalm, with one of the widest views in the city over Saltsjön, Gamla stan, Skeppsholmen and Djurgården. In summer you sit in a big, leafy garden with hammocks and a barbecue along the wall above the water. The restaurant has been vegetarian since the early 90s and fully vegan since 2015. The food is served as a buffet with around ten salads, hot dishes from different cuisines, bread and baked goods. The atmosphere is relaxed and it works both for a cheap lunch and a long summer evening. From Slussen it's a good fifteen-minute walk up the hill towards Fjällgatan.",
+  "season": "All year; the garden seating is used in summer",
+  "best_for": "A summer evening in the garden overlooking the harbour entrance",
+  "good_to_know": [
+   "Buffet: lunch 195 kr, evenings and weekends 285 kr",
+   "Student price 195 kr evenings/weekends",
+   "The buffet closes an hour before the restaurant",
+   "Steep hill up – limited accessibility"
+  ],
+  "review_summary": "The view and the garden are praised in almost every review, and many call Hermans one of the best places in the city for vegetarian and vegan food. The buffet is described as varied and constantly replenished, and the staff as friendly. Criticism is that quality varies between visits, it gets cramped when full and some find the dinner price high. Wheelchair access is limited.",
+  "_from": "f3d057ab90b5"
+ }
+}

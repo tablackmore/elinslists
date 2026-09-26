@@ -1,0 +1,62 @@
+{
+ "id": 53,
+ "n": 15,
+ "chapter": 2,
+ "lat": 59.32552,
+ "lon": 18.02362,
+ "km": 2.5,
+ "status": "seasonal",
+ "price": 3,
+ "website": "https://www.edensthlm.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Eden%2C%20Smedsuddsv%C3%A4gen%2023%2C%20Stockholm",
+ "address": "Smedsuddsvägen 23, 112 35 Stockholm",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 300
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 9
+  }
+ ],
+ "sv": {
+  "name": "Eden",
+  "kind": "Restaurang, bar & bastu",
+  "area": "Smedsudden, Rålambshovsparken, Kungsholmen",
+  "tagline": "Trädgård, vinbar på bryggan och bastu vid Västerbron",
+  "description": "Eden ligger på Smedsudden, den lilla udden vid Västerbron i utkanten av Rålambshovsparken, i en gammal trävilla omgiven av en grönskande trädgård ner mot Riddarfjärden. Konceptet Eden Gone Fishing kretsar kring fisk och skaldjur: helgrillad fisk, ostron och annat från kolgrillen, med svenska råvaror och medelhavsinfluenser. Nere vid båtbryggorna finns Bastuns vinbar med naturvin och en bastu med utsikt över vattnet, och på kvällarna spelar DJ:s disco och house. Passar för en längre sommarkväll som går från middag till drinkar. Promenera genom Rålambshovsparken från T-bana Fridhemsplan eller Thorildsplan.",
+  "season": "Sommarsäsong från början av maj (restaurangen öppnade 6 maj 2026, vinbaren 21 maj); restaurangen ons–lör kvällstid. Julsäsong i slutet av november–december.",
+  "best_for": "Fiskmiddag och naturvin en ljum sommarkväll",
+  "good_to_know": [
+   "Boka bord för plats med utsikt",
+   "Bastun bokas separat, öppen dagligen",
+   "Vinbaren på bryggan har drop-in",
+   "DJ och fest sena kvällar fredag–lördag",
+   "Kajakuthyrning finns"
+  ],
+  "review_summary": "Recensenterna gillar framför allt miljön: trädgården, utsikten mot Västerbron och vattnet och den somriga stämningen. Fiskrätterna får beröm för bra råvaror och tillagning. Mer kritiska röster tycker att maten är stabil men utan överraskningar och att vissa rätter är små för priset. Det är ett populärt ställe med fest och DJ på kvällarna, så det passar bättre för den som vill ha liv än för den som söker lugn."
+ },
+ "en": {
+  "name": "Eden",
+  "kind": "Restaurant, bar & sauna",
+  "area": "Smedsudden, Rålambshovsparken, Kungsholmen",
+  "tagline": "Garden, wine bar on the jetty and a sauna by Västerbron",
+  "description": "Eden is on Smedsudden, the little headland by Västerbron on the edge of Rålambshovsparken, in an old wooden villa surrounded by a leafy garden running down to Riddarfjärden. The Eden Gone Fishing concept centres on fish and seafood: whole grilled fish, oysters and more from the charcoal grill, with Swedish produce and Mediterranean influences. Down by the boat jetties is Bastuns vinbar with natural wine and a sauna looking out over the water, and in the evenings DJs play disco and house. Good for a long summer evening that goes from dinner to drinks. Walk through Rålambshovsparken from Fridhemsplan or Thorildsplan T-bana (metro).",
+  "season": "Summer season from early May (the restaurant opened on 6 May 2026, the wine bar on 21 May); restaurant Wed–Sat evenings. Christmas season late November–December.",
+  "best_for": "A fish dinner and natural wine on a warm summer evening",
+  "good_to_know": [
+   "Book a table for a seat with a view",
+   "The sauna is booked separately, open daily",
+   "The wine bar on the jetty is walk-in",
+   "DJ and partying late on Friday–Saturday",
+   "Kayak hire available"
+  ],
+  "review_summary": "Reviewers mainly like the setting: the garden, the view of Västerbron and the water and the summery atmosphere. The fish dishes are praised for good ingredients and cooking. More critical voices find the food solid but unsurprising and some dishes small for the price. It's a popular place with partying and DJs in the evenings, so it suits people who want some buzz better than those looking for peace and quiet.",
+  "_from": "b5c02515a3f4"
+ }
+}

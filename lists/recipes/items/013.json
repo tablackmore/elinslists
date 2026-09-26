@@ -1,0 +1,36 @@
+{
+ "id": 13,
+ "n": 91,
+ "chapter": 5,
+ "creator": "baktungmat",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DZfQkneAsY6/",
+ "video_only": false,
+ "original_title": "Tartar-sill",
+ "sv": {
+  "title": "Vegansk tartarsill",
+  "servings": "1 stor burk sill",
+  "time": "",
+  "description": "Vegansk sill i en kall röra med majonnäs, crème fraîche, dill, gräslök, kapris, cornichons och citron. Står kallt minst en halvtimme och serveras på knäckebröd.",
+  "keywords": [
+   "sill",
+   "vegansk",
+   "kapris",
+   "dill",
+   "knäckebröd"
+  ]
+ },
+ "en": {
+  "title": "Vegan Tartare Herring",
+  "servings": "1 large jar of herring",
+  "time": "",
+  "description": "Vegan herring folded into a cold mix of mayonnaise, crème fraîche, dill, chives, capers, cornichons and lemon. Chilled for at least half an hour and served on crispbread.",
+  "keywords": [
+   "herring",
+   "vegan",
+   "capers",
+   "dill",
+   "crispbread"
+  ]
+ }
+}

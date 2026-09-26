@@ -1,0 +1,62 @@
+{
+ "id": 28,
+ "n": 10,
+ "chapter": 1,
+ "lat": 59.31338,
+ "lon": 18.03314,
+ "km": 2.8,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.loopen.se",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Loopen%2C%20Hornstulls%20strand%206%2C%20Stockholm",
+ "address": "Hornstulls strand 6, 117 39 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.5,
+   "scale": 5,
+   "count": null
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.3,
+   "scale": 5,
+   "count": 10
+  }
+ ],
+ "sv": {
+  "name": "Loopen",
+  "kind": "Restaurang & bar",
+  "area": "Hornstull, Södermalm, Stockholm",
+  "tagline": "Karibisk flytbrygga under Liljeholmsbron sedan 1975",
+  "description": "Loopen är en flytbrygga med restaurang och bar precis under Liljeholmsbron vid Hornstulls strand, med vattnet runt om och båtar som glider förbi. Här har det funnits en sommarkrog sedan 1975, och stilen är avslappnad med palmer, solstolar och karibiskt öl som Carib. Maten är enkel: svenska klassiker som toast Skagen, sill och köttbullar, plus en del medelhavsinspirerat och en barnmeny. Man beställer och betalar i luckan och får maten till bordet. Det passar en lat eftermiddag eller en öl i kvällssolen. T-bana Hornstull och Liljeholmen ligger några minuter bort, och den som kommer med båt kan lägga till vid gästbryggan.",
+  "season": "Sommar: dagligen ca 11–21/22. Vår och höst: lördag–söndag från 12 så länge vädret tillåter",
+  "best_for": "Kall öl på bryggan en solig eftermiddag",
+  "good_to_know": [
+   "Ingen bordsbokning behövs",
+   "Beställ och betala i luckan",
+   "Gästplatser för båt, 300 kr/natt",
+   "Barnmeny finns",
+   "T-bana Hornstull eller Liljeholmen"
+  ],
+  "review_summary": "Läget är det alla lyfter fram: att sitta nära vattnet och båttrafiken, gärna en solig eftermiddag med en kall öl eller en drink i solnedgången. Personalen beskrivs som vänlig och servicen som enkel. Maten får blandade omdömen, god men sällan märkvärdig, och flera tycker att det är lite dyrt för vad man får, vilket förklaras med läget. Någon saknar den gamla reggaestämningen i musiken. Betygen ligger runt medel."
+ },
+ "en": {
+  "name": "Loopen",
+  "kind": "Restaurant & bar",
+  "area": "Hornstull, Södermalm, Stockholm",
+  "tagline": "Caribbean-style floating pontoon under Liljeholmsbron since 1975",
+  "description": "Loopen is a floating pontoon with a restaurant and bar right under Liljeholmsbron bridge at Hornstulls strand, with water all around and boats gliding past. There has been a summer restaurant here since 1975, and the style is laid-back, with palm trees, sun loungers and Caribbean beer such as Carib. The food is simple: Swedish classics like toast Skagen (prawns on toast), herring and meatballs, plus some Mediterranean-inspired dishes and a children's menu. You order and pay at the hatch and the food is brought to your table. It suits a lazy afternoon or a beer in the evening sun. Hornstull and Liljeholmen T-bana (metro) stations are a few minutes away, and if you come by boat you can moor at the guest pontoon.",
+  "season": "Summer: daily approx. 11–21/22. Spring and autumn: Saturday–Sunday from 12, weather permitting",
+  "best_for": "A cold beer on the pontoon on a sunny afternoon",
+  "good_to_know": [
+   "No need to book a table",
+   "Order and pay at the hatch",
+   "Guest moorings for boats, 300 kr/night",
+   "Children's menu available",
+   "T-bana Hornstull or Liljeholmen"
+  ],
+  "review_summary": "The location is what everyone mentions: sitting close to the water and the boat traffic, ideally on a sunny afternoon with a cold beer or a drink at sunset. The staff are described as friendly and the service as straightforward. The food gets mixed reviews, good but rarely remarkable, and several people find it a bit pricey for what you get, which they put down to the location. One person misses the old reggae vibe in the music. Ratings are around average.",
+  "_from": "627d0425a0d1"
+ }
+}

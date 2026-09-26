@@ -1,0 +1,34 @@
+{
+ "id": 8,
+ "n": 23,
+ "chapter": 1,
+ "creator": "zmargotz",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DcOUls6OurB/",
+ "video_only": false,
+ "original_title": "Creamy cabbage pasta",
+ "sv": {
+  "title": "Cabbage pasta with greek yogurt",
+  "servings": "1 portion",
+  "time": "",
+  "description": "Ugnsrostad strimlad vitkål som används i stället för pasta, vänd med ägg och äggvita i pannan och rörd krämig med grekisk yoghurt. Serveras med parmesan; en portion.",
+  "keywords": [
+   "vitkål",
+   "ägg",
+   "grekisk yoghurt",
+   "parmesan"
+  ]
+ },
+ "en": {
+  "title": "Creamy Cabbage 'Pasta' with Greek Yoghurt",
+  "servings": "Serves 1",
+  "time": "",
+  "description": "Oven-roasted sliced cabbage used in place of pasta, stirred with egg and egg white in the pan and made creamy with Greek yoghurt. Served with Parmesan; serves one.",
+  "keywords": [
+   "cabbage",
+   "egg",
+   "greek yoghurt",
+   "parmesan"
+  ]
+ }
+}

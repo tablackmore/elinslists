@@ -1,0 +1,62 @@
+{
+ "id": 46,
+ "n": 37,
+ "chapter": 4,
+ "lat": 59.29877,
+ "lon": 18.6684,
+ "km": 34.5,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.djuronaset.com/restaurang-bar/sjoboden/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6boden%20Djur%C3%B6n%C3%A4set%2C%20Djurhamn",
+ "address": "Seregårdsvägen 1, 139 73 Djurhamn",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.4,
+   "scale": 5,
+   "count": 51
+  },
+  {
+   "site": "Thatsup",
+   "rating": 2.6,
+   "scale": 5,
+   "count": 5
+  }
+ ],
+ "sv": {
+  "name": "Sjöboden",
+  "kind": "Skärgårdskrog",
+  "area": "Djurönäset, Djurö, Värmdö",
+  "tagline": "Sommarkrog på bryggan vid Djurönäset",
+  "description": "Sjöboden är Djurönäset hotell och konferens sommarkrog, byggd ute på en brygga en kort promenad från receptionen. Man sitter nära vattnet med utsikt över skärgården, båtarna i hamnen och kvällssolen; ett utrullbart tak skyddar vid regn. Maten är klassisk, mestadels svensk och enkel. Tisdagar och torsdagar är det grillbuffé med livemusik, och torsdag–lördag spelar DJ på kvällen. Stället passar för en somrig kväll med sällskap snarare än en lugn middag för två. Hit kommer man med bil eller SL-buss mot Stavsnäs (hållplats Djurönäset), eller med egen båt.",
+  "season": "Från midsommar till mitten av augusti (2026: 18 juni–16 augusti); tisdag–lördag från kl. 12, söndag 12–16",
+  "best_for": "Sommarkväll på bryggan med musik",
+  "good_to_know": [
+   "Boka bord, särskilt kvällar med grillbuffé",
+   "Grillbuffé med livemusik tis och tors, 495 kr (barn 3–12 år halva priset)",
+   "Hundar välkomna",
+   "Utrullbart tak vid regn",
+   "Stänger redan i mitten av augusti"
+  ],
+  "review_summary": "Läget är det som nästan alla recensenter lyfter fram: bryggan, havsutsikten och solnedgången, och livemusiken får också beröm. Kritiken handlar främst om maten och servicen. Flera beskriver långa väntetider, både på bord och på mat, och tycker att maten är ordinär eller tråkig för priset. Omdömena är alltså blandade; det är i första hand miljön man betalar för."
+ },
+ "en": {
+  "name": "Sjöboden",
+  "kind": "Archipelago restaurant",
+  "area": "Djurönäset, Djurö, Värmdö",
+  "tagline": "Summer restaurant on the jetty at Djurönäset",
+  "description": "Sjöboden is the summer restaurant of Djurönäset hotel and conference centre, built out on a jetty a short walk from reception. You sit close to the water with views over the archipelago, the boats in the harbour and the evening sun; a retractable roof keeps the rain off. The food is classic, mostly Swedish and simple. On Tuesdays and Thursdays there's a barbecue buffet with live music, and Thursday–Saturday a DJ plays in the evening. It suits a summery evening with friends rather than a quiet dinner for two. Get here by car or SL bus towards Stavsnäs (stop Djurönäset), or by your own boat.",
+  "season": "From Midsummer to mid-August (2026: 18 June–16 August); Tuesday–Saturday from 12, Sunday 12–16",
+  "best_for": "A summer evening on the jetty with music",
+  "good_to_know": [
+   "Book a table, especially on barbecue buffet nights",
+   "Barbecue buffet with live music Tue and Thu, 495 kr (children 3–12 half price)",
+   "Dogs welcome",
+   "Retractable roof for rain",
+   "Closes as early as mid-August"
+  ],
+  "review_summary": "The location is what nearly every reviewer highlights: the jetty, the sea view and the sunset, and the live music also gets praise. Criticism is mainly about the food and service. Several describe long waits, both for a table and for food, and find the food ordinary or dull for the price. So reviews are mixed; it's first and foremost the setting you're paying for.",
+  "_from": "17bd1c32aa2f"
+ }
+}

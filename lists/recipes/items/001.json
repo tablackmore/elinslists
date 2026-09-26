@@ -1,0 +1,36 @@
+{
+ "id": 1,
+ "n": 51,
+ "chapter": 3,
+ "creator": "broccoli_mum",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DbDybu3EdAD/",
+ "video_only": false,
+ "original_title": "Rice Paper Dumplings",
+ "sv": {
+  "title": "Rispappersknyten",
+  "servings": "",
+  "time": "",
+  "description": "Veganska knyten av rispapper fyllda med finhackad svamp, zucchini, morot, kål och tofu. De steks krispiga på sesamfrön och serveras med en dippsås på soja och sweet chili.",
+  "keywords": [
+   "rispapper",
+   "tofu",
+   "svamp",
+   "kål",
+   "sesamfrön"
+  ]
+ },
+ "en": {
+  "title": "Rice Paper Dumplings",
+  "servings": "",
+  "time": "",
+  "description": "Vegan rice paper parcels filled with finely chopped mushroom, courgette, carrot, cabbage and tofu. They are pan-fried on sesame seeds until crisp and served with a soy and sweet chilli dip.",
+  "keywords": [
+   "rice paper",
+   "tofu",
+   "mushroom",
+   "cabbage",
+   "sesame seeds"
+  ]
+ }
+}

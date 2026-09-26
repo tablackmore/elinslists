@@ -1,0 +1,36 @@
+{
+ "id": 9,
+ "n": 24,
+ "chapter": 1,
+ "creator": "Fontanafood.se",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/2487813878357414/",
+ "video_only": false,
+ "original_title": "Krämig halloumipasta",
+ "sv": {
+  "title": "Krämig halloumi-pasta",
+  "servings": "",
+  "time": "",
+  "description": "Tagliatelle i en gräddig sås med karamelliserad lök, vitlök, soltorkade tomater och parmesan. Toppas med stekt halloumi glaserad med chiliolja och honung.",
+  "keywords": [
+   "pasta",
+   "halloumi",
+   "grädde",
+   "soltorkade tomater",
+   "chiliolja"
+  ]
+ },
+ "en": {
+  "title": "Creamy Halloumi Pasta",
+  "servings": "",
+  "time": "",
+  "description": "Tagliatelle in a creamy sauce with caramelised onion, garlic, sun-dried tomatoes and Parmesan. Topped with fried halloumi glazed in crispy chilli oil and honey.",
+  "keywords": [
+   "pasta",
+   "halloumi",
+   "cream",
+   "sun-dried tomatoes",
+   "chilli oil"
+  ]
+ }
+}

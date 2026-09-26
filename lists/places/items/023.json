@@ -1,0 +1,62 @@
+{
+ "id": 23,
+ "n": 42,
+ "chapter": 5,
+ "lat": 59.23541,
+ "lon": 18.3046,
+ "km": 17.4,
+ "status": "open",
+ "price": 1,
+ "website": "https://rumforhalsa.se/cafe.html",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Borgg%C3%A5rdscaf%C3%A9t%2C%20Tyres%C3%B6%20slott",
+ "address": "Tyresö slott (östra flygeln), 135 60 Tyresö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 222
+  },
+  {
+   "site": "Facebook",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 41
+  }
+ ],
+ "sv": {
+  "name": "Tyresö slott – Borggårdscafét",
+  "kind": "Café & slottspark",
+  "area": "Tyresö strand, Tyresö",
+  "tagline": "Slottsfika på borggården längst in i Kalvfjärden",
+  "description": "Tyresö slott från 1600-talet ligger längst in i Kalvfjärden, omgivet av en stor park som sluttar ner mot vattnet. I slottets östra flygel, i det gamla serveringsköket, finns Borggårdscafét med smörgåsar, räkmacka, sallader, matpajer, soppa, våfflor, pannkakor, glass och hembakat. Man sitter inne eller ute på borggården, och hundar är välkomna. Efter fikat kan man promenera i parken ner till vattnet eller vidare till Notholmen, som har gästhamn, bad från klipporna och ett eget café. Slottskrogen i västra flygeln tar främst emot fester och event. Passar för en lugn utflykt. Buss 875 från Gullmarsplan till Tyresö kyrka och sedan fem minuters promenad.",
+  "season": "Caféet har öppet alla dagar året runt, dagtid (uppgifterna om tider varierar mellan cirka 10–16 och 11–16)",
+  "best_for": "Söndagsfika med promenad i slottsparken",
+  "good_to_know": [
+   "Ca 40 platser inne och 50 ute på borggården",
+   "Glutenfria, mjölkfria och veganska alternativ",
+   "Hundar välkomna",
+   "Promenad till Notholmen med bad och gästhamn",
+   "Buss 875 från Gullmarsplan till Tyresö kyrka"
+  ],
+  "review_summary": "Det som berömmer mest är miljön: slottet, borggården och parken, och även kakorna och den enkla maten. Omdömena är ändå blandade. På Google ligger caféet runt 3,6 av 5, och flera klagar på långsam och ointresserad service på helgerna, på långa väntetider för mackor och på ett krångligt system där man väljer fika på ett ställe och betalar i slottsbutiken. Det är ett café man väljer för platsen, inte för köket."
+ },
+ "en": {
+  "name": "Tyresö slott – Borggårdscafét",
+  "kind": "Cafe & palace grounds",
+  "area": "Tyresö strand, Tyresö",
+  "tagline": "Palace fika in the courtyard at the head of Kalvfjärden",
+  "description": "Tyresö Palace, from the 17th century, sits at the head of Kalvfjärden, surrounded by a large park that slopes down to the water. In the palace's east wing, in the old serving kitchen, is Borggårdscafét with sandwiches, prawn sandwiches, salads, savoury pies, soup, waffles, pancakes, ice cream and home baking. You sit inside or out in the courtyard, and dogs are welcome. After your fika (coffee and cake) you can walk through the park down to the water or on to Notholmen, which has a guest harbour, swimming off the rocks and its own cafe. Slottskrogen in the west wing mainly hosts parties and events. Good for a quiet day out. Bus 875 from Gullmarsplan to Tyresö kyrka, then a five-minute walk.",
+  "season": "The cafe is open every day all year round, during the day (information on hours varies between about 10–16 and 11–16)",
+  "best_for": "Sunday fika with a walk in the palace park",
+  "good_to_know": [
+   "About 40 seats inside and 50 outside in the courtyard",
+   "Gluten-free, dairy-free and vegan options",
+   "Dogs welcome",
+   "Walk to Notholmen for swimming and the guest harbour",
+   "Bus 875 from Gullmarsplan to Tyresö kyrka"
+  ],
+  "review_summary": "What gets the most praise is the setting: the palace, the courtyard and the park, and also the cakes and the simple food. Reviews are still mixed, though. On Google the cafe sits around 3.6 out of 5, and several complain of slow, uninterested service at weekends, long waits for sandwiches and an awkward system where you choose your fika in one place and pay in the palace shop. It's a cafe you pick for the setting, not the kitchen.",
+  "_from": "0338eea3e1f7"
+ }
+}

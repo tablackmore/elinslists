@@ -1,0 +1,60 @@
+{
+ "id": 32,
+ "n": 6,
+ "chapter": 0,
+ "lat": 59.32964,
+ "lon": 18.09224,
+ "km": 1.6,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.josefina.nu/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Josefina%2C%20Gal%C3%A4rvarvsv%C3%A4gen%2010%2C%20Stockholm",
+ "address": "Galärvarvsvägen 10, 115 21 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 2.7,
+   "scale": 5,
+   "count": 399
+  },
+  {
+   "site": "Thatsup",
+   "rating": 2.1,
+   "scale": 5,
+   "count": 25
+  }
+ ],
+ "sv": {
+  "name": "Josefina",
+  "kind": "Restaurang & bar",
+  "area": "Djurgården, Stockholm",
+  "tagline": "Stor terrass på Djurgården med utsikt mot Skeppsholmen",
+  "description": "Josefina ligger på Djurgården mellan Djurgårdsbron och Vasamuseet, med en av stadens största uteserveringar under pergolor och parasoller och utsikt över vattnet mot Skeppsholmen och Gamla stan. Köket är medelhavsinspirerat med skaldjur, grillat, pizza och pasta, och helgerna har brunchbuffé. Stämningen är festlig, med lounge och DJ på sommaren och många sällskap och event. Passar en solig eftermiddag med vänner snarare än en lugn middag för två. Spårvagn 7 till Nordiska museet/Vasa, eller promenera över Djurgårdsbron.",
+  "season": "Öppet året runt från 11; stora terrassen och DJ främst sommartid; julbord nov–dec",
+  "best_for": "En drink på terrassen en solig eftermiddag",
+  "good_to_know": [
+   "Brunch lör–sön",
+   "Mycket folk soliga sommardagar – räkna med kö",
+   "Nära Vasamuseet och Nordiska museet",
+   "Spårvagn 7"
+  ],
+  "review_summary": "Utsikten och den stora terrassen får beröm, liksom köttbullarna och brunchen hos en del gäster. Men betygen är låga: många recensenter på Tripadvisor och Thatsup klagar på långsam service, långa köer till buffén (30–40 minuter), torr eller ojämn mat, för lite personal när det är fullt och höga priser i förhållande till kvaliteten. Fungerar bäst för mindre sällskap och en drink."
+ },
+ "en": {
+  "name": "Josefina",
+  "kind": "Restaurant & bar",
+  "area": "Djurgården, Stockholm",
+  "tagline": "Big terrace on Djurgården looking out to Skeppsholmen",
+  "description": "Josefina is on Djurgården between Djurgårdsbron bridge and the Vasa Museum, with one of the city's largest outdoor terraces under pergolas and parasols and views across the water to Skeppsholmen and Gamla stan. The food is Mediterranean-inspired, with seafood, grilled dishes, pizza and pasta, and there is a brunch buffet at weekends. The atmosphere is festive, with a lounge and DJ in summer and lots of groups and events. Better for a sunny afternoon with friends than a quiet dinner for two. Tram 7 to Nordiska museet/Vasa, or walk over Djurgårdsbron.",
+  "season": "Open all year from 11; the big terrace and DJ mainly in summer; julbord (Christmas buffet) Nov–Dec",
+  "best_for": "A drink on the terrace on a sunny afternoon",
+  "good_to_know": [
+   "Brunch Sat–Sun",
+   "Very busy on sunny summer days – expect queues",
+   "Close to the Vasa Museum and Nordiska museet",
+   "Tram 7"
+  ],
+  "review_summary": "The view and the big terrace get praise, as do the meatballs and the brunch from some guests. But the ratings are low: many reviewers on Tripadvisor and Thatsup complain about slow service, long queues for the buffet (30–40 minutes), dry or uneven food, too few staff when it's full and high prices relative to the quality. Works best for smaller groups and a drink.",
+  "_from": "83d9b246a669"
+ }
+}

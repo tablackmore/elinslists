@@ -1,0 +1,62 @@
+{
+ "id": 42,
+ "n": 17,
+ "chapter": 2,
+ "lat": 59.33162,
+ "lon": 17.98628,
+ "km": 4.5,
+ "status": "open",
+ "price": 3,
+ "website": "https://sjopaviljongen.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Sj%C3%B6paviljongen%2C%20Tranebergs%20strand%204%2C%20Bromma",
+ "address": "Tranebergs strand 4, 167 40 Bromma",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 384
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.0,
+   "scale": 5,
+   "count": 6
+  }
+ ],
+ "sv": {
+  "name": "Sjöpaviljongen",
+  "kind": "Restaurang",
+  "area": "Alviks strand, Bromma, Stockholm",
+  "tagline": "Svensk sjökrog på pålar i Mälaren vid Alvik",
+  "description": "Sjöpaviljongen byggdes i mitten av 1990-talet som en modern version av de gamla sjökrogarna och står på pålar ute i Mälaren vid Alviks strand, med utsikt över Ulvsundasjön och Tranebergsbron. På sommaren sitter man på den stora träbryggan vid vattnet, resten av året i matsalen med stora fönster. Köket drivs av samma grupp som Wärdshuset Ulla Winbladh och håller sig till svensk husmanskost och klassiker: köttbullar, toast Skagen, fisk och grillat. Passar för en lugn middag eller familjefest. Från T-bana Alvik är det ungefär 400 meter; med egen båt kan man lägga till vid bryggan.",
+  "season": "",
+  "best_for": "Klassisk svensk middag på bryggan en sommarkväll",
+  "good_to_know": [
+   "Öppet året runt, lunch vardagar 11.30–15",
+   "Köttbullar ca 255 kr",
+   "T-bana Alvik, ca 400 m promenad",
+   "Gästbrygga för egen båt",
+   "Boka bord via hemsidan eller 08-704 04 24"
+  ],
+  "review_summary": "Läget och uteserveringen på bryggan får genomgående beröm, liksom klassiker som köttbullar, toast Skagen och råbiff. Många tycker att det passar bra för fest eller romantisk middag. Samtidigt är omdömena om maten ojämna: vissa beskriver den som utmärkt, andra som torr, dåligt kryddad eller varmhållen för länge. Priserna upplevs som höga, servicen kan bli långsam när det är fullt och det är ganska högljutt inomhus."
+ },
+ "en": {
+  "name": "Sjöpaviljongen",
+  "kind": "Restaurant",
+  "area": "Alviks strand, Bromma, Stockholm",
+  "tagline": "Swedish waterside restaurant on stilts in Lake Mälaren at Alvik",
+  "description": "Sjöpaviljongen was built in the mid-1990s as a modern take on the old waterside inns and stands on stilts out in Lake Mälaren at Alviks strand, looking out over Ulvsundasjön and Tranebergsbron. In summer you sit on the big wooden deck by the water, the rest of the year in the dining room with its large windows. The kitchen is run by the same group as Wärdshuset Ulla Winbladh and sticks to traditional Swedish home cooking and classics: meatballs, toast Skagen (prawns on toast), fish and grilled dishes. Good for a quiet dinner or a family celebration. It's about 400 metres from Alvik T-bana (metro); with your own boat you can moor at the jetty.",
+  "season": "",
+  "best_for": "A classic Swedish dinner on the deck on a summer evening",
+  "good_to_know": [
+   "Open all year, weekday lunch 11.30–15",
+   "Meatballs approx. 255 kr",
+   "T-bana Alvik, approx. 400 m walk",
+   "Guest jetty for your own boat",
+   "Book a table via the website or on 08-704 04 24"
+  ],
+  "review_summary": "The location and the outdoor deck are consistently praised, as are classics like meatballs, toast Skagen and steak tartare. Many think it works well for a party or a romantic dinner. At the same time, opinions on the food are uneven: some describe it as excellent, others as dry, poorly seasoned or kept warm for too long. Prices are felt to be high, service can be slow when it's full and it's fairly noisy indoors.",
+  "_from": "9a8720fd05f0"
+ }
+}

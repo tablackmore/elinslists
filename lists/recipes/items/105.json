@@ -1,0 +1,36 @@
+{
+ "id": 105,
+ "n": 79,
+ "chapter": 3,
+ "creator": "adamhoad_coaching",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DI9oMPNMNvf/",
+ "video_only": false,
+ "original_title": "Super simple high protein tortilla quiche",
+ "sv": {
+  "title": "Tortilla quiche i ugn",
+  "servings": "4 portioner",
+  "time": "",
+  "description": "En tortilla fungerar som botten i en form och fylls med ägg, spenat, körsbärstomater, keso och fetaost. Toppas med cheddar och parmesan och gräddas i 20 minuter.",
+  "keywords": [
+   "tortilla",
+   "ägg",
+   "quiche",
+   "spenat",
+   "fetaost"
+  ]
+ },
+ "en": {
+  "title": "Baked Tortilla Quiche",
+  "servings": "Serves 4",
+  "time": "",
+  "description": "A tortilla lines a dish as the base and is filled with eggs, spinach, cherry tomatoes, cottage cheese and feta. Topped with cheddar and parmesan and baked for 20 minutes.",
+  "keywords": [
+   "tortilla",
+   "eggs",
+   "quiche",
+   "spinach",
+   "feta"
+  ]
+ }
+}

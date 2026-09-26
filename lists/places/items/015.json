@@ -1,0 +1,54 @@
+{
+ "id": 15,
+ "n": 34,
+ "chapter": 4,
+ "lat": 59.36977,
+ "lon": 18.63174,
+ "km": 32.4,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.norengruppen.se/abborrkrogen-resturang-sjokrog/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Abborrkrogen%2C%20Abborrkroken%2C%20Vind%C3%B6",
+ "address": "Abborrkrokens brygga, Bryggvägen 3, 139 75 Djurhamn",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.7,
+   "scale": 5,
+   "count": 3
+  }
+ ],
+ "sv": {
+  "name": "Abborrkrogen",
+  "kind": "Restaurang & sjökrog",
+  "area": "Abborrkroken, Vindö, Värmdö",
+  "tagline": "Nystartad sjökrog vid Vindö ström i gammal lanthandel",
+  "description": "Abborrkrogen ligger vid bryggan i Abborrkroken på norra Vindö, precis vid Vindö ström. Här har det funnits lanthandel i över hundra år och i 25 år var det sommarkrogen Abborrkrokens Handel & Bar. Sedan påsken 2026 driver Annica och Peter Norén stället som restaurang nio månader om året. Idén är rejäl mat till rimliga priser, från strömmingsmacka och öl till löjromstoast och bra kött. Det finns cirka 40 platser inne och 50 ute, fyra bryggplatser för båt och livemusik varannan vecka på sommaren. Buss från Slussen mot Överby brygga, eller bil via väg 222 mot Djurö och vidare mot Överby.",
+  "season": "Öppet april–december (stängt januari–mars); varierande öppettider",
+  "best_for": "Strömmingsmacka och öl vid bryggan en sommarkväll",
+  "good_to_know": [
+   "Nystartat vid påsk 2026, öppet året runt utom jan–mar",
+   "Lunch 11–15 och à la carte 17–22 under högsäsong",
+   "Fyra bryggplatser för båt",
+   "Livemusik varannan vecka på sommaren"
+  ],
+  "review_summary": "Den nya krogen har ännu få recensioner vi kunnat läsa. Enligt Mitt i har mottagandet varit positivt och ägarna får höra att stället behövdes. De få äldre Tripadvisor-omdömena om föregångaren Abborrkrokens Handel & Bar berömde det vackra läget vid vattnet, lokal mat som rökt lax och den familjära stämningen, men gäller den tidigare verksamheten. Kontrollera gärna aktuella betyg innan besöket."
+ },
+ "en": {
+  "name": "Abborrkrogen",
+  "kind": "Restaurant & waterside inn",
+  "area": "Abborrkroken, Vindö, Värmdö",
+  "tagline": "New waterside restaurant on Vindö ström in an old village shop",
+  "description": "Abborrkrogen is by the jetty at Abborrkroken on northern Vindö, right on Vindö ström. There's been a village shop here for over a hundred years, and for 25 years it was the summer restaurant Abborrkrokens Handel & Bar. Since Easter 2026 Annica and Peter Norén have run it as a restaurant nine months of the year. The idea is proper food at fair prices, from a Baltic herring sandwich and a beer to löjrom (vendace roe) toast and good meat. There are about 40 seats inside and 50 outside, four boat berths at the jetty and live music every other week in summer. Bus from Slussen towards Överby brygga, or drive via road 222 towards Djurö and on towards Överby.",
+  "season": "Open April–December (closed January–March); varying opening hours",
+  "best_for": "A herring sandwich and a beer by the jetty on a summer evening",
+  "good_to_know": [
+   "Newly opened at Easter 2026, open all year except Jan–Mar",
+   "Lunch 11–15 and à la carte 17–22 in high season",
+   "Four boat berths at the jetty",
+   "Live music every other week in summer"
+  ],
+  "review_summary": "The new restaurant doesn't yet have many reviews we could read. According to Mitt i (local paper), it's been well received and the owners are hearing that the place was needed. The few older Tripadvisor reviews of its predecessor, Abborrkrokens Handel & Bar, praised the lovely waterside location, local food such as smoked salmon and the family feel, but they relate to the previous business. Worth checking current ratings before you go.",
+  "_from": "95d7e8af9840"
+ }
+}

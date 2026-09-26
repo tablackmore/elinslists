@@ -1,0 +1,62 @@
+{
+ "id": 50,
+ "n": 40,
+ "chapter": 4,
+ "lat": 59.20432,
+ "lon": 18.75778,
+ "km": 41.9,
+ "status": "seasonal",
+ "price": 3,
+ "website": "https://idoborg.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Strandbaren%20Id%C3%B6borg%2C%20N%C3%A4md%C3%B6",
+ "address": "Idöborg, 130 36 Nämdö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.0,
+   "scale": 5,
+   "count": 11
+  },
+  {
+   "site": "Booking.com (stugorna)",
+   "rating": 9.2,
+   "scale": 10,
+   "count": null
+  }
+ ],
+ "sv": {
+  "name": "Idöborg – Strandbaren",
+  "kind": "Restaurang, bastu & stugor",
+  "area": "Idöborg vid Nämdö, Värmdö",
+  "tagline": "Privat ö med strandkrog, vedbastu och stugor",
+  "description": "Idöborg är en privatägd ö i mellersta skärgården intill Nämdö. Vid stranden ligger restaurangen Strandbaren med sandstrand, brygga och vid sidan av en vedeldad bastu med utsikt över fjärden, där man kan doppa sig direkt från stranden. Köket serverar skärgårdsmat med internationella inslag, och på sommaren även skaldjurs- och grillbufféer. På ön finns stugor för två till fyra personer med kök, eldstad och uteplats, glampingstugor och större villor, så det går både som dagsutflykt och för en helg. Waxholmsbolagets linje 17 går från Stavsnäs vinterhamn flera gånger om dagen, och det finns en gästhamn för egen båt.",
+  "season": "Restaurangen: april–december (2026: sommaröppet 13 juni–30 augusti, sedan främst helger till 19 december; öppnar igen 17 april 2027). Stugor året runt.",
+  "best_for": "Bastu, bad och en natt i stuga",
+  "good_to_know": [
+   "Waxholmsbolaget linje 17 från Stavsnäs vinterhamn (104 kr vuxen)",
+   "Vedeldad bastu, bokas på webben",
+   "Gästhamn för ca 50 båtar",
+   "Restaurangen kan vara stängd för bröllop vissa kvällar",
+   "Kajakuthyrning på ön"
+  ],
+  "review_summary": "Recensenterna berömmer själva ön, stranden, bastun och de mysiga, välutrustade stugorna, som får höga betyg (9,2 på Booking.com). Restaurangen får mer blandade omdömen: vissa beskriver fantastiska middagar, andra en ojämn och dyr mat med små portioner och få vegetariska alternativ. Någon påpekar att meddelanden inför bröllop var spridda över flera mejl. Det kan bli fullt, så boka."
+ },
+ "en": {
+  "name": "Idöborg – Strandbaren",
+  "kind": "Restaurant, sauna & cabins",
+  "area": "Idöborg by Nämdö, Värmdö",
+  "tagline": "Private island with a beach restaurant, wood-fired sauna and cabins",
+  "description": "Idöborg is a privately owned island in the middle archipelago next to Nämdö. On the shore is the restaurant Strandbaren, with a sandy beach, a jetty and, off to the side, a wood-fired sauna looking out over the bay, where you can take a dip straight from the beach. The kitchen serves archipelago food with international touches, and in summer also seafood and barbecue buffets. On the island there are cabins for two to four people with a kitchen, fireplace and patio, glamping cabins and larger villas, so it works both as a day trip and for a weekend. Waxholmsbolaget's route 17 runs from Stavsnäs vinterhamn several times a day, and there is a guest harbour for your own boat.",
+  "season": "Restaurant: April–December (2026: open for summer 13 June–30 August, then mainly weekends until 19 December; reopens 17 April 2027). Cabins all year.",
+  "best_for": "Sauna, a swim and a night in a cabin",
+  "good_to_know": [
+   "Waxholmsbolaget route 17 from Stavsnäs vinterhamn (104 kr adult)",
+   "Wood-fired sauna, book online",
+   "Guest harbour for approx. 50 boats",
+   "The restaurant may be closed for weddings some evenings",
+   "Kayak hire on the island"
+  ],
+  "review_summary": "Reviewers praise the island itself, the beach, the sauna and the cosy, well-equipped cabins, which get high ratings (9.2 on Booking.com). The restaurant gets more mixed reviews: some describe fantastic dinners, others uneven, expensive food with small portions and few vegetarian options. One person points out that information ahead of a wedding was spread across several emails. It can get full, so book.",
+  "_from": "2d8e24b421d5"
+ }
+}

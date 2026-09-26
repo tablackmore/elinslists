@@ -1,0 +1,47 @@
+{
+ "id": 43,
+ "n": 2,
+ "chapter": 0,
+ "lat": 59.32529,
+ "lon": 18.08023,
+ "km": 1.2,
+ "status": "seasonal",
+ "price": 1,
+ "website": "https://afchapman.com/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=af%20Chapman%2C%20Flaggmansv%C3%A4gen%208%2C%20Stockholm",
+ "address": "Flaggmansvägen 8, 111 49 Stockholm",
+ "scores": [],
+ "sv": {
+  "name": "af Chapman",
+  "kind": "Bar & café på fartyg",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Fika och öl på däck på fullriggaren vid Skeppsholmen",
+  "description": "Fullriggaren af Chapman från 1888 har legat förtöjd vid Skeppsholmens västra kaj sedan 1930-talet och var vandrarhem fram till 2023. Efter renovering öppnade Stockholms stad fartyget för allmänheten sommaren 2026 med en popup-verksamhet på däck: café med kaffe och glass, öl- och vinbar samt livemusik, jazz, DJ-kvällar, musikquiz och morgonyoga. Utsikten mot Gamla stan, Strömmen och inloppet är bland de bästa i stan. Eftersom allt sker på öppet däck styrs öppettiderna av vädret. Passar en spontan eftermiddagsöl eller en jazzkväll. Buss 65 till Skeppsholmen eller promenad över Skeppsholmsbron.",
+  "season": "Sommaren 2026 som provverksamhet från 29 maj; öppet vid fint väder",
+  "best_for": "Spontan öl i solen med utsikt över Gamla stan",
+  "good_to_know": [
+   "Öppet endast vid bra väder – kolla Instagram @afchapmansthlm",
+   "Jazz, DJ och quizkvällar",
+   "Enkelt utbud: kaffe, glass, öl och vin",
+   "Provverksamhet – framtiden efter sommaren oklar"
+  ],
+  "review_summary": "Verksamheten är ny och det finns ännu inga samlade omdömen att hänvisa till. Thatsup och Stockholms stad beskriver ett enkelt utbud på däck med utsikt över Gamla stan och inloppet. Eftersom det mesta sker utomhus blir besöket väderberoende. Vandrarhemmets gamla recensioner gäller inte den nya verksamheten."
+ },
+ "en": {
+  "name": "af Chapman",
+  "kind": "Bar & cafe on a ship",
+  "area": "Skeppsholmen, Stockholm",
+  "tagline": "Fika and beer on deck aboard the tall ship at Skeppsholmen",
+  "description": "The full-rigged ship af Chapman, built in 1888, has been moored at Skeppsholmen's western quay since the 1930s and was a youth hostel until 2023. After renovation, the City of Stockholm opened the ship to the public in summer 2026 with a pop-up on deck: a cafe with coffee and ice cream, a beer and wine bar, and live music, jazz, DJ nights, music quizzes and morning yoga. The view of Gamla stan, Strömmen and the harbour entrance is among the best in town. Since everything happens on the open deck, opening hours depend on the weather. Good for a spontaneous afternoon beer or a jazz evening. Bus 65 to Skeppsholmen or walk over Skeppsholmsbron.",
+  "season": "Summer 2026 as a trial from 29 May; open in good weather",
+  "best_for": "A spontaneous beer in the sun looking out over Gamla stan",
+  "good_to_know": [
+   "Open only in good weather – check Instagram @afchapmansthlm",
+   "Jazz, DJ and quiz nights",
+   "Simple offer: coffee, ice cream, beer and wine",
+   "Trial run – future after the summer uncertain"
+  ],
+  "review_summary": "The operation is new and there are no collected reviews to point to yet. Thatsup and the City of Stockholm describe a simple offer on deck with views over Gamla stan and the harbour entrance. As most of it is outdoors, a visit depends on the weather. The old hostel reviews don't apply to the new venture.",
+  "_from": "73981e6ceffa"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "id": 47,
+ "n": 46,
+ "chapter": 5,
+ "lat": 59.05133,
+ "lon": 18.0868,
+ "km": 31.3,
+ "status": "open",
+ "price": 3,
+ "website": "https://almasa.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Alm%C3%A5sa%20Havshotell%2C%20Alm%C3%A5sav%C3%A4gen%2020%2C%20V%C3%A4sterhaninge",
+ "address": "Almåsavägen 20, 137 91 Västerhaninge",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.5,
+   "scale": 5,
+   "count": 22
+  },
+  {
+   "site": "Sembo",
+   "rating": 9.0,
+   "scale": 10,
+   "count": 145
+  }
+ ],
+ "sv": {
+  "name": "Almåsa Havshotell",
+  "kind": "Hotell & restaurang",
+  "area": "Söderby, Västerhaninge, Haninge",
+  "tagline": "Havsutsikt över Horsfjärden och middag i totalt mörker",
+  "description": "Almåsa ligger vid Horsfjärden i södra skärgården, med 400 meter egen strandlinje, bryggor, badstrand och vedeldad bastuflotte. Restaurangen har plats för 120 gäster och har utsikt över havet och en nybyggd terrass vid vattnet. Dagens lunch (225 kr med kaffe och kaka) lagas från grunden, och på kvällen serveras à la carte (tre rätter för 695 kr) och en avsmakningsmeny. Det mest speciella är Svartkrogen, där man äter i totalt mörker. Hotellet ägs via Synskadades Stiftelse. Passar för en lunchutflykt vid vattnet eller en weekend. Man åker pendeltåg till Västerhaninge och sedan taxi i tio minuter, eller bil på cirka 30 minuter från Globen.",
+  "season": "Året runt. Dagens lunch måndag–fredag, brunch på lördagar, middag och avsmakningsmeny på kvällar.",
+  "best_for": "Lunch med havsutsikt eller en annorlunda middag i Svartkrogen",
+  "good_to_know": [
+   "Boka bord: 08-500 404 80",
+   "Svartkrogen – middag i mörker, bokas i förväg",
+   "Badstrand, bastuflotte och bryggor (egen båt ok, djup ca 1,5 m)",
+   "Hundar välkomna i delar av restaurangen",
+   "Pendeltåg till Västerhaninge + taxi 10 min"
+  ],
+  "review_summary": "Gästerna berömmer läget vid havet, lugnet, den vänliga personalen och maten, särskilt lunchen, grillbuffén och upplevelsen på Svartkrogen. Kritiken gäller mest hotellet: rummen beskrivs som daterade, och ett färskt omdöme klagar på unken lukt, smala sängar och ett badrum som läckte. Området är avskilt och det finns inget annat i närheten, så man behöver bil eller taxi."
+ },
+ "en": {
+  "name": "Almåsa Havshotell",
+  "kind": "Hotel & restaurant",
+  "area": "Söderby, Västerhaninge, Haninge",
+  "tagline": "Sea views over Horsfjärden and dinner in total darkness",
+  "description": "Almåsa is on Horsfjärden in the southern archipelago, with 400 metres of its own shoreline, jetties, a swimming beach and a wood-fired sauna raft. The restaurant seats 120 and looks out over the sea, with a newly built terrace by the water. The lunch of the day (225 kr including coffee and cake) is cooked from scratch, and in the evening there is à la carte (three courses for 695 kr) and a tasting menu. The most unusual thing is Svartkrogen, where you eat in total darkness. The hotel is owned through Synskadades Stiftelse (a foundation for the visually impaired). Good for a lunch trip by the water or a weekend. Take the pendeltåg (commuter train) to Västerhaninge and then a ten-minute taxi, or drive for about 30 minutes from Globen.",
+  "season": "All year. Lunch of the day Monday–Friday, brunch on Saturdays, dinner and tasting menu in the evenings.",
+  "best_for": "Lunch with a sea view or an unusual dinner at Svartkrogen",
+  "good_to_know": [
+   "Book a table: 08-500 404 80",
+   "Svartkrogen – dinner in the dark, book in advance",
+   "Swimming beach, sauna raft and jetties (own boat OK, depth approx. 1.5 m)",
+   "Dogs welcome in parts of the restaurant",
+   "Pendeltåg to Västerhaninge + 10-minute taxi"
+  ],
+  "review_summary": "Guests praise the seaside location, the peace and quiet, the friendly staff and the food, especially the lunch, the barbecue buffet and the Svartkrogen experience. Criticism is mostly about the hotel: the rooms are described as dated, and a recent review complains of a musty smell, narrow beds and a leaking bathroom. The area is secluded with nothing else nearby, so you need a car or taxi.",
+  "_from": "72c639363920"
+ }
+}

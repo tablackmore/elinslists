@@ -1,0 +1,47 @@
+{
+ "id": 1,
+ "n": 31,
+ "chapter": 4,
+ "lat": 59.39708,
+ "lon": 18.44847,
+ "km": 22.9,
+ "status": "seasonal",
+ "price": 1,
+ "website": "https://www.facebook.com/DjupetBeachClub/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Djupet%20Beach%20Club%2C%20Stensl%C3%A4tten%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Värmdövägen (väg 274), Stenslätten, 139 90 Värmdö",
+ "scores": [],
+ "sv": {
+  "name": "Djupet Beach Club",
+  "kind": "Strandbar & café",
+  "area": "Stenslätten, Värmdö",
+  "tagline": "Strandbar vid Oxdjupet där kryssningsfartygen glider förbi",
+  "description": "Djupet Beach Club ligger vid Stenslätten på norra Värmdö, precis vid färjeläget över Oxdjupet till Rindö. Härifrån ser man rakt ut över det smala sundet där alla stora kryssningsfartyg och Finlandsbåtar passerar på väg in till Stockholm. Stället beskriver sig själv som en plats där man kan fika, äta något enklare och dricka något gott medan man njuter av läget. Det är ett avslappnat sommarhäng snarare än en restaurang, och passar bra som paus på en cykeltur eller i kombination med ett besök på Fredriksborgs fästning intill. Buss 439 från Slussen går till Stenslätten, och den avgiftsfria vägfärjan går över till Rindö och Vaxholm.",
+  "season": "Sommarsäsong; aktuella öppettider meddelas på Facebook och Instagram",
+  "best_for": "Glass eller öl i solen medan kryssningsfartygen passerar",
+  "good_to_know": [
+   "Buss 439 från Slussen till Stenslätten, hållplatsen ligger intill",
+   "Vägfärjan till Rindö och Vaxholm är gratis",
+   "Fredriksborgs fästning och hotell ligger några hundra meter bort",
+   "Enkel mat och fika, ingen bordsbokning"
+  ],
+  "review_summary": "Vi har inte hittat några betyg eller recensioner från Google, Tripadvisor eller lokalpress som vi kunnat läsa. Det som finns är ställets egen beskrivning på Facebook (cirka 2 700 följare) och Instagram, samt incheckningar på ölappen Untappd under sommaren 2026, vilket visar att det är i drift. Kontrollera öppettider och utbud på sociala medier innan ni åker, eftersom informationen är knapphändig."
+ },
+ "en": {
+  "name": "Djupet Beach Club",
+  "kind": "Beach bar & cafe",
+  "area": "Stenslätten, Värmdö",
+  "tagline": "Beach bar on Oxdjupet where the cruise ships glide past",
+  "description": "Djupet Beach Club is at Stenslätten on northern Värmdö, right by the ferry landing across Oxdjupet to Rindö. From here you look straight out over the narrow sound that every big cruise ship and Finland ferry passes through on its way into Stockholm. The place describes itself as somewhere to have a fika (coffee and cake), eat something simple and have a good drink while you enjoy the setting. It's a relaxed summer hangout rather than a restaurant, and works well as a stop on a bike ride or combined with a visit to Fredriksborg fortress next door. Bus 439 from Slussen goes to Stenslätten, and the free road ferry crosses to Rindö and Vaxholm.",
+  "season": "Summer season; current opening hours are posted on Facebook and Instagram",
+  "best_for": "An ice cream or a beer in the sun while the cruise ships go by",
+  "good_to_know": [
+   "Bus 439 from Slussen to Stenslätten; the stop is right next to it",
+   "The road ferry to Rindö and Vaxholm is free",
+   "Fredriksborg fortress and hotel are a few hundred metres away",
+   "Simple food and fika, no table bookings"
+  ],
+  "review_summary": "We haven't found any ratings or reviews from Google, Tripadvisor or the local press that we could read. What there is: the place's own description on Facebook (around 2,700 followers) and Instagram, plus check-ins on the beer app Untappd during summer 2026, which shows it's up and running. Check opening hours and what's on offer on social media before you go, as information is thin.",
+  "_from": "c5e2e39173e7"
+ }
+}

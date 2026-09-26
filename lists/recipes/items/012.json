@@ -1,0 +1,36 @@
+{
+ "id": 12,
+ "n": 85,
+ "chapter": 4,
+ "creator": "ketocoachoded",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DZiB2BKxTyy/",
+ "video_only": false,
+ "original_title": "Chef's Confit Vinaigrette",
+ "sv": {
+  "title": "Dressing",
+  "servings": "1 burk",
+  "time": "15 minuter",
+  "description": "Salladsdressing där schalottenlök och vitlök först dras på låg värme i olivolja och sedan mixas med dijonsenap, äppelcidervinäger och citron. Håller en vecka i kylen.",
+  "keywords": [
+   "vinägrett",
+   "dressing",
+   "vitlök",
+   "schalottenlök",
+   "dijonsenap"
+  ]
+ },
+ "en": {
+  "title": "Chef's Confit Vinaigrette",
+  "servings": "Makes 1 jar",
+  "time": "15 minutes",
+  "description": "Salad dressing in which shallot and garlic are first gently confited in olive oil, then blended with Dijon mustard, cider vinegar and lemon. Keeps for a week in the fridge.",
+  "keywords": [
+   "vinaigrette",
+   "dressing",
+   "garlic",
+   "shallot",
+   "dijon mustard"
+  ]
+ }
+}

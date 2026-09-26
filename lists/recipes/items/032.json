@@ -1,0 +1,36 @@
+{
+ "id": 32,
+ "n": 100,
+ "chapter": 7,
+ "creator": "lochtaplin",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DV5l1zwDZGa/",
+ "video_only": false,
+ "original_title": "Healthy Snickers Bar",
+ "sv": {
+  "title": "Dadelsnickers",
+  "servings": "5 stycken",
+  "time": "",
+  "description": "Urkärnade dadlar fyllda med jordnötssmör och en pekannöt, doppade i mörk choklad och toppade med flingsalt. Ingen ugn; stelnar i kylen i några timmar.",
+  "keywords": [
+   "dadlar",
+   "jordnötssmör",
+   "mörk choklad",
+   "pekannötter",
+   "godis"
+  ]
+ },
+ "en": {
+  "title": "Healthy Date Snickers",
+  "servings": "5 pieces",
+  "time": "",
+  "description": "Stoned dates filled with peanut butter and a pecan, dipped in dark chocolate and sprinkled with flaky salt. No-bake; set in the fridge for a few hours.",
+  "keywords": [
+   "dates",
+   "peanut butter",
+   "dark chocolate",
+   "pecans",
+   "sweets"
+  ]
+ }
+}

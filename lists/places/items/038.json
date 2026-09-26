@@ -1,0 +1,60 @@
+{
+ "id": 38,
+ "n": 11,
+ "chapter": 1,
+ "lat": 59.3077,
+ "lon": 18.03051,
+ "km": 3.4,
+ "status": "open",
+ "price": 2,
+ "website": "https://restaurangbankomat.se",
+ "maps": "https://www.google.com/maps/search/?api=1&query=BankOmat%20Seaside%2C%20Sj%C3%B6vikskajen%206%2C%20Stockholm",
+ "address": "Sjövikskajen 6, 117 58 Stockholm",
+ "scores": [
+  {
+   "site": "TheFork",
+   "rating": 8.7,
+   "scale": 10,
+   "count": null
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 6
+  }
+ ],
+ "sv": {
+  "name": "BankOmat Seaside",
+  "kind": "Brasserie & bar",
+  "area": "Liljeholmskajen, Hägersten-Liljeholmen, Stockholm",
+  "tagline": "Kvarterskrog på kajen med utsikt över Årstaviken",
+  "description": "BankOmat Seaside ligger i bottenvåningen på Sjövikskajen, strandpromenaden på Liljeholmskajen, med utsikt över Årstaviken mot Södermalm. Det är en kvarterskrog i två våningar med plats för drygt hundra gäster och en solig uteservering vid kajkanten på sommaren. Lunchen är husmanskost med dagens rätter och salladsbuffé, på kvällen serveras bistroklassiker som burgare och oxfilé provençale, och helgerna har brunch. Stämningen är vardaglig och familjevänlig, och många stamgäster bor i området. Det passar en enkel middag eller ett glas vid vattnet efter en promenad längs kajen. T-bana och tvärbana Liljeholmen ligger några minuters promenad bort.",
+  "season": "Året runt; uteservering på sommaren",
+  "best_for": "Vardagsmiddag vid kajen en sommarkväll",
+  "good_to_know": [
+   "Bordsbokning möjlig",
+   "Hundvänligt",
+   "Helgbrunch",
+   "T-bana/tvärbana Liljeholmen, några minuter bort"
+  ],
+  "review_summary": "Läget vid kajkanten med utsikt över Årstaviken och uteserveringen på sommaren nämns oftast. Lunchen får beröm för flera bra alternativ och generös salladsbuffé, och personalen beskrivs som vänlig och hjälpsam; flera tycker att stället har blivit bättre på senare år. Samtidigt finns besvikna grannar som tycker att maten är ojämn och saknar finess. Betygen hos TheFork är höga, medan Thatsup bygger på få omdömen."
+ },
+ "en": {
+  "name": "BankOmat Seaside",
+  "kind": "Brasserie & bar",
+  "area": "Liljeholmskajen, Hägersten-Liljeholmen, Stockholm",
+  "tagline": "Neighbourhood restaurant on the quay overlooking Årstaviken",
+  "description": "BankOmat Seaside is on the ground floor on Sjövikskajen, the waterfront promenade at Liljeholmskajen, looking out over Årstaviken towards Södermalm. It's a neighbourhood restaurant on two floors with room for just over a hundred guests and a sunny terrace at the quayside in summer. Lunch is traditional Swedish home cooking with dishes of the day and a salad buffet; in the evening there are bistro classics like burgers and fillet of beef provençale, and there is brunch at weekends. The atmosphere is everyday and family-friendly, and many regulars live locally. It suits a simple dinner or a glass by the water after a walk along the quay. Liljeholmen T-bana (metro) and Tvärbanan (light rail) are a few minutes' walk away.",
+  "season": "All year; outdoor seating in summer",
+  "best_for": "A weekday dinner by the quay on a summer evening",
+  "good_to_know": [
+   "Table booking possible",
+   "Dog-friendly",
+   "Weekend brunch",
+   "T-bana/Tvärbanan Liljeholmen, a few minutes away"
+  ],
+  "review_summary": "The quayside location with views over Årstaviken and the summer terrace are mentioned most often. Lunch is praised for several good options and a generous salad buffet, and the staff are described as friendly and helpful; several people think the place has improved in recent years. At the same time some disappointed neighbours find the food uneven and lacking finesse. Ratings on TheFork are high, while Thatsup is based on only a few reviews.",
+  "_from": "6a309fcd718d"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "id": 17,
+ "n": 39,
+ "chapter": 4,
+ "lat": 59.2867,
+ "lon": 18.7042,
+ "km": 36.6,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://stavsnaskrog.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Stavsn%C3%A4s%20Krog%2C%20Stavsn%C3%A4s%20vinterhamn",
+ "address": "Stavsnäsvägen 222, 139 71 Stavsnäs",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 171
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.7,
+   "scale": 5,
+   "count": 10
+  }
+ ],
+ "sv": {
+  "name": "Stavsnäs Krog",
+  "kind": "Restaurang & pizzeria",
+  "area": "Stavsnäs vinterhamn, Värmdö",
+  "tagline": "Pizza och skärgårdsmat vid kajen där Waxholmsbåtarna går",
+  "description": "Stavsnäs vinterhamn är porten till mellersta skärgården, där Waxholmsbåtar och båttaxi avgår till Sandhamn, Nämdö och Bullerö. Vid kajen driver Carin Stenbeck sedan 2025 Stavsnäs Krog i två delar: Kaj & Krog med solig terrass mot hamnen på sommaren, och Bakgård & Pizza, en enklare pizzeria med neapolitanska pizzor, smårätter och en liten deli. Maten är rustik med inspiration från skärgården och Medelhavet, och det ordnas temakvällar och quiz. Bredvid ligger Café Sasta med fika och glass. SL-bussen från Slussen går ända fram, så det är lätt att ta sig hit utan bil.",
+  "season": "Bakgård & Pizza tors–sön 1 april–1 januari; Kaj & Krog bara juni–augusti",
+  "best_for": "Pizza och ett glas vin innan båten ut i skärgården",
+  "good_to_know": [
+   "Buss från Slussen stannar vid hamnen",
+   "Gratis parkering upp till 3 timmar (Parkit-appen)",
+   "Uteservering bara drop-in",
+   "Café Sasta intill för fika och glass"
+  ],
+  "review_summary": "De få recensioner vi sett berömmer glad och uppmärksam service, bra pizzor och utsikten över hamnen. Tripadvisors höga snitt bygger dock på bara tio omdömen, varav flera gäller den tidigare Stavsnäs Sjökrog. På Google är snittet lägre, knappt fyra, men där har vi inte kunnat läsa vad kritiken gäller. Förvänta er ett enkelt och trevligt hamnhäng snarare än en destinationskrog."
+ },
+ "en": {
+  "name": "Stavsnäs Krog",
+  "kind": "Restaurant & pizzeria",
+  "area": "Stavsnäs vinterhamn, Värmdö",
+  "tagline": "Pizza and archipelago food on the quay where the Waxholm boats leave",
+  "description": "Stavsnäs vinterhamn is the gateway to the middle archipelago, where Waxholm boats and water taxis leave for Sandhamn, Nämdö and Bullerö. On the quay, Carin Stenbeck has run Stavsnäs Krog since 2025 in two parts: Kaj & Krog, with a sunny terrace facing the harbour in summer, and Bakgård & Pizza, a simpler pizzeria with Neapolitan pizzas, small plates and a little deli. The food is rustic, inspired by the archipelago and the Mediterranean, and there are themed evenings and quizzes. Next door is Café Sasta with fika (coffee and cake) and ice cream. The SL bus from Slussen goes all the way there, so it's easy to get to without a car.",
+  "season": "Bakgård & Pizza Thu–Sun 1 April–1 January; Kaj & Krog June–August only",
+  "best_for": "Pizza and a glass of wine before the boat out into the archipelago",
+  "good_to_know": [
+   "The bus from Slussen stops at the harbour",
+   "Free parking for up to 3 hours (Parkit app)",
+   "Outdoor seating drop-in only",
+   "Café Sasta next door for fika and ice cream"
+  ],
+  "review_summary": "The few reviews we've seen praise cheerful, attentive service, good pizzas and the view over the harbour. Tripadvisor's high average is based on only ten reviews, though, several of which are about the previous Stavsnäs Sjökrog. On Google the average is lower, just under four, but we couldn't read what the criticism there was about. Expect a simple, pleasant harbour hangout rather than a destination restaurant.",
+  "_from": "08544b69b7e9"
+ }
+}

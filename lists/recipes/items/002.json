@@ -1,0 +1,36 @@
+{
+ "id": 2,
+ "n": 1,
+ "chapter": 0,
+ "creator": "bakedbymelissa",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DcXEuVqR0h7/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Mikroskuren sallad",
+  "servings": "",
+  "time": "",
+  "description": "Sallad där gurka, tomat, rödlök och gröna oliver hackas mycket fint och blandas med citron, vitlök och olivolja. Ingen tillagning; äts gärna på chips.",
+  "keywords": [
+   "gurka",
+   "tomat",
+   "oliver",
+   "rödlök",
+   "citron"
+  ]
+ },
+ "en": {
+  "title": "Micro-Chopped Salad",
+  "servings": "",
+  "time": "",
+  "description": "Salad of very finely chopped cucumber, tomato, red onion and green olives, dressed with lemon, garlic and olive oil. No cooking needed; eaten scooped up on crisps.",
+  "keywords": [
+   "cucumber",
+   "tomato",
+   "olives",
+   "red onion",
+   "lemon"
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "id": 54,
+ "n": 14,
+ "chapter": 2,
+ "lat": 59.32861,
+ "lon": 18.0273,
+ "km": 2.2,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.boulebar.se/sthlm-ralambshov",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Boulebar%20R%C3%A5lambshov%2C%20Smedsuddsv%C3%A4gen%202%2C%20Stockholm",
+ "address": "Smedsuddsvägen 2, 112 35 Stockholm",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 1486
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 12
+  }
+ ],
+ "sv": {
+  "name": "Boulebar Rålambshov",
+  "kind": "Boulebar & bistro",
+  "area": "Rålambshovsparken, Kungsholmen, Stockholm",
+  "tagline": "Boule, pastis och fransk bistromat i Rålis",
+  "description": "Boulebar Rålambshov ligger mitt i Rålambshovsparken, en kort promenad från Riddarfjärdens strand och Västerbron. Här finns 14 grusbanor utomhus och några inomhus, runt 200 sittplatser ute och en liten bistro. Maten är sydfranskt inspirerad med till exempel moules marinières, bouillabaisse och dagens rätt, och personalen hjälper nybörjare med reglerna. Stämningen är avslappnad och social, med många sällskap och after work. Vattnet syns mer mellan träden än från bordet, men stranden ligger ett stenkast bort. Passar för ett par som vill göra något tillsammans, inte bara äta. T-bana Fridhemsplan, ca 450 meter.",
+  "season": "Året runt; uteserveringen och utebanorna främst vår–höst",
+  "best_for": "Boule och ett glas rosé en sommarkväll",
+  "good_to_know": [
+   "Boka boulebana i förväg, särskilt helger",
+   "T-bana Fridhemsplan, ca 450 m",
+   "Hundvänligt",
+   "Byggdes upp igen efter en brand 2017"
+  ],
+  "review_summary": "Gästerna uppskattar kombinationen av boule, park och vatten, och personalen beskrivs ofta som vänlig och hjälpsam, även mot nybörjare. Det är ett populärt ställe för sällskap och after work, vilket också betyder att banorna ofta är fullbokade och att det kan vara trångt och livligt. Kritiken gäller mest priserna och att alternativen för veganer och allergiker upplevs som begränsade."
+ },
+ "en": {
+  "name": "Boulebar Rålambshov",
+  "kind": "Boules bar & bistro",
+  "area": "Rålambshovsparken, Kungsholmen, Stockholm",
+  "tagline": "Boules, pastis and French bistro food in Rålis",
+  "description": "Boulebar Rålambshov is in the middle of Rålambshovsparken, a short walk from the Riddarfjärden shore and Västerbron. There are 14 outdoor gravel pistes and a few indoors, around 200 outdoor seats and a small bistro. The food is inspired by southern France, with for example moules marinières, bouillabaisse and a dish of the day, and the staff help beginners with the rules. The atmosphere is relaxed and sociable, with lots of groups and after-work crowds. You see the water more between the trees than from your table, but the shore is a stone's throw away. Good for a couple who want to do something together, not just eat. Fridhemsplan T-bana (metro), approx. 450 metres.",
+  "season": "All year; outdoor seating and outdoor pistes mainly spring–autumn",
+  "best_for": "Boules and a glass of rosé on a summer evening",
+  "good_to_know": [
+   "Book a piste in advance, especially at weekends",
+   "T-bana Fridhemsplan, approx. 450 m",
+   "Dog-friendly",
+   "Rebuilt after a fire in 2017"
+  ],
+  "review_summary": "Guests enjoy the combination of boules, park and water, and the staff are often described as friendly and helpful, including with beginners. It's a popular spot for groups and after-work drinks, which also means the pistes are often fully booked and it can be crowded and lively. Criticism is mostly about the prices and that the options for vegans and people with allergies feel limited.",
+  "_from": "164b3ca36fed"
+ }
+}

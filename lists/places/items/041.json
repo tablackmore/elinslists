@@ -1,0 +1,62 @@
+{
+ "id": 41,
+ "n": 16,
+ "chapter": 2,
+ "lat": 59.33842,
+ "lon": 18.00134,
+ "km": 3.7,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.piren-bar.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Piren%20Restaurang%20%26%20Bar%2C%20Kristinebergs%20strand%202%2C%20Stockholm",
+ "address": "Kristinebergs strand 2, 112 52 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 237
+  },
+  {
+   "site": "Thatsup",
+   "rating": 2.9,
+   "scale": 5,
+   "count": 14
+  }
+ ],
+ "sv": {
+  "name": "Piren Restaurang & Bar",
+  "kind": "Restaurang & bar",
+  "area": "Hornsbergs strand, Kungsholmen, Stockholm",
+  "tagline": "Glasad pir på Hornsbergs strand med kvällssol",
+  "description": "Piren ligger ute på en pir vid Hornsbergs strand på västra Kungsholmen där bostadskvarteren möter Ulvsundasjön. Restaurangen har en stor uteservering på träbryggor och en inglasad del med vattenutsikt, så att man kan sitta nära vattnet även under kallare delar av året. Köket serverar svenska och europeiska klassiker med mycket fisk, veckolunch för 165 kr, helgbrunch och à la carte från kl 16. På sommarkvällar blir det mer bar med DJ. Passar för after work eller en enkel middag i solnedgången. T-bana Kristineberg eller Stadshagen, sedan några minuters promenad.",
+  "season": "",
+  "best_for": "After work på bryggan i kvällssol",
+  "good_to_know": [
+   "Öppet året runt, inglasad del vintertid",
+   "Veckolunch 165 kr vardagar 11–14.30",
+   "Brunch på helger",
+   "T-bana Kristineberg eller Stadshagen",
+   "Hundvänligt"
+  ],
+  "review_summary": "Omdömena är splittrade. Nästan alla uppskattar läget ute vid vattnet, den stora uteserveringen och kvällssolen, och en del berömmer drinkarna och generösa portioner. Kritiken gäller främst servicen, som beskrivs som ojämn och ibland avvisande, rätter som tagit slut, lång väntan trots tomma bord och hög ljudnivå. Flera menar att stället lever mer på läget än på maten."
+ },
+ "en": {
+  "name": "Piren Restaurang & Bar",
+  "kind": "Restaurant & bar",
+  "area": "Hornsbergs strand, Kungsholmen, Stockholm",
+  "tagline": "Glazed pier on Hornsbergs strand with evening sun",
+  "description": "Piren is out on a pier at Hornsbergs strand on western Kungsholmen, where the residential blocks meet Ulvsundasjön. The restaurant has a large outdoor area on wooden decking and a glazed section with water views, so you can sit close to the water in the colder months too. The kitchen serves Swedish and European classics with plenty of fish, a weekly lunch for 165 kr, weekend brunch and à la carte from 16. On summer evenings it becomes more of a bar with a DJ. Good for after-work drinks or a simple dinner at sunset. T-bana (metro) Kristineberg or Stadshagen, then a few minutes' walk.",
+  "season": "",
+  "best_for": "After-work drinks on the decking in the evening sun",
+  "good_to_know": [
+   "Open all year, glazed section in winter",
+   "Weekly lunch 165 kr weekdays 11–14.30",
+   "Brunch at weekends",
+   "T-bana Kristineberg or Stadshagen",
+   "Dog-friendly"
+  ],
+  "review_summary": "Opinions are divided. Nearly everyone appreciates the location out on the water, the big terrace and the evening sun, and some praise the drinks and generous portions. The criticism is mainly about the service, described as uneven and sometimes dismissive, dishes that had run out, long waits despite empty tables and a high noise level. Several feel the place relies more on its location than on its food.",
+  "_from": "0485aac1beb2"
+ }
+}

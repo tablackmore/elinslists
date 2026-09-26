@@ -1,0 +1,36 @@
+{
+ "id": 51,
+ "n": 10,
+ "chapter": 0,
+ "creator": "dr.vegan",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DJR99S4IcfR/",
+ "video_only": false,
+ "original_title": "Crispy Rice Salad",
+ "sv": {
+  "title": "Krispy rice & avokado sallad",
+  "servings": "",
+  "time": "",
+  "description": "Sallad med ugnsrostat krispigt ris smaksatt med chili crisp och soja, avokado, gurka, edamame, paprika och örter. Vänds i en dressing av jordnötssmör, soja och sriracha.",
+  "keywords": [
+   "ris",
+   "avokado",
+   "edamame",
+   "jordnötssmör",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Crispy Rice and Avocado Salad",
+  "servings": "",
+  "time": "",
+  "description": "Salad of oven-crisped rice seasoned with chilli crisp and soy, with avocado, cucumber, edamame, pepper and herbs. Tossed in a peanut butter, soy and sriracha dressing.",
+  "keywords": [
+   "rice",
+   "avocado",
+   "edamame",
+   "peanut butter",
+   "salad"
+  ]
+ }
+}

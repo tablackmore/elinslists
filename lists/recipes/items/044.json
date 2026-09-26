@@ -1,0 +1,38 @@
+{
+ "id": 44,
+ "n": 60,
+ "chapter": 3,
+ "creator": "cocolarkincooks",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DR76xuZktn_/",
+ "video_only": false,
+ "original_title": "Egg Florentine Gratin",
+ "sv": {
+  "title": "Franska ägg med purjolök i ugn",
+  "servings": "4",
+  "time": "",
+  "description": "Löskokta ägg i gratängform på smörfrästa purjolök och spenat, täckta med béchamel, gruyère och parmesan och gratinerade under grillen. Serveras med dragon och smörat rostat bröd.",
+  "keywords": [
+   "ägg",
+   "purjolök",
+   "spenat",
+   "béchamel",
+   "gruyère",
+   "gratäng"
+  ]
+ },
+ "en": {
+  "title": "Egg Florentine Gratin",
+  "servings": "4",
+  "time": "",
+  "description": "Soft-boiled eggs on buttery leeks and spinach, covered with béchamel, Gruyère and Parmesan and browned under the grill. Served with tarragon and buttered toast.",
+  "keywords": [
+   "eggs",
+   "leek",
+   "spinach",
+   "bechamel",
+   "gruyere",
+   "gratin"
+  ]
+ }
+}

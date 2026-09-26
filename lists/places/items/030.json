@@ -1,0 +1,60 @@
+{
+ "id": 30,
+ "n": 4,
+ "chapter": 0,
+ "lat": 59.33138,
+ "lon": 18.09282,
+ "km": 1.6,
+ "status": "open",
+ "price": 3,
+ "website": "https://strandbryggan.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Strandbryggan%2C%20Strandv%C3%A4gskajen%2027%2C%20Stockholm",
+ "address": "Strandvägskajen 27, 114 56 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.7,
+   "scale": 5,
+   "count": 253
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.0,
+   "scale": 5,
+   "count": 7
+  }
+ ],
+ "sv": {
+  "name": "Strandbryggan",
+  "kind": "Restaurang & bar",
+  "area": "Strandvägen, Östermalm, Stockholm",
+  "tagline": "Flytande medelhavskrog vid Strandvägen och Djurgårdsbron",
+  "description": "Strandbryggan ligger på en ponton i vattnet längst ut på Strandvägen, precis vid Djurgårdsbron, med båtar runt om och utsikt mot Djurgården och Strandvägens fasader. Stället började 1989 som båtuthyrning och ölcafé och byggdes om 2023 till en modernare medelhavsinspirerad restaurang med ett nytt övre plan med kvällssol. Menyn har fisk och skaldjur, grillat, sallader och brunch, plus cocktails och vin. Stämningen är trendig och livlig, med DJ på övervåningen kvällstid. Passar för en drink i solen eller en middag med utsikt. Spårvagn 7 eller buss 69 till Djurgårdsbron, eller promenad från Nybroplan.",
+  "season": "Året runt; terrassen är som bäst april–oktober",
+  "best_for": "Afterwork-drink i kvällssol på vattnet",
+  "good_to_know": [
+   "Öppet alla dagar från 11.30 till sent",
+   "Brunch ca 300–400 kr",
+   "Övervåning med solläge och DJ kvällstid",
+   "Kan stänga tidigare vid dåligt väder"
+  ],
+  "review_summary": "Läget och miljön på vattnet får nästan bara beröm, och renoveringen 2023 uppskattas. Maten får blandade omdömen – vissa berömmer fisk och skaldjur, andra tycker att den är smaklös och portionerna små för priset. Priserna anses höga (t.ex. rosé 165 kr glaset). Flera nyare Tripadvisor-recensioner klagar på oengagerad service, långa väntetider och godtycklig insläppskontroll."
+ },
+ "en": {
+  "name": "Strandbryggan",
+  "kind": "Restaurant & bar",
+  "area": "Strandvägen, Östermalm, Stockholm",
+  "tagline": "Floating Mediterranean restaurant by Strandvägen and Djurgårdsbron",
+  "description": "Strandbryggan sits on a pontoon in the water at the far end of Strandvägen, right by Djurgårdsbron bridge, with boats all around and views of Djurgården and the Strandvägen facades. It started in 1989 as a boat hire and beer cafe and was rebuilt in 2023 as a more modern, Mediterranean-inspired restaurant with a new upper deck that gets the evening sun. The menu has fish and seafood, grilled dishes, salads and brunch, plus cocktails and wine. The atmosphere is trendy and lively, with a DJ upstairs in the evenings. Good for a drink in the sun or dinner with a view. Tram 7 or bus 69 to Djurgårdsbron, or walk from Nybroplan.",
+  "season": "All year; the terrace is at its best April–October",
+  "best_for": "An after-work drink in the evening sun on the water",
+  "good_to_know": [
+   "Open every day from 11.30 until late",
+   "Brunch approx. 300–400 kr",
+   "Upper deck in the sun, with a DJ in the evenings",
+   "May close earlier in bad weather"
+  ],
+  "review_summary": "The location and setting on the water get almost nothing but praise, and the 2023 renovation is appreciated. The food gets mixed reviews – some praise the fish and seafood, others find it bland and the portions small for the price. Prices are considered high (e.g. rosé at 165 kr a glass). Several recent Tripadvisor reviews complain about indifferent service, long waits and arbitrary door policy.",
+  "_from": "36c5453ce3b8"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": 40,
+ "n": 13,
+ "chapter": 2,
+ "lat": 59.32757,
+ "lon": 18.03417,
+ "km": 1.8,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://ny.malarpaviljongen.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=M%C3%A4larpaviljongen%2C%20Norr%20M%C3%A4larstrand%2064%2C%20Stockholm",
+ "address": "Norr Mälarstrand 64, 112 35 Stockholm",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 2948
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 424
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.3,
+   "scale": 5,
+   "count": 29
+  }
+ ],
+ "sv": {
+  "name": "Mälarpaviljongen",
+  "kind": "Restaurang & bar",
+  "area": "Norr Mälarstrand, Kungsholmen, Stockholm",
+  "tagline": "Flytande pontoner och blomsterträdgård vid Riddarfjärden",
+  "description": "Mälarpaviljongen ligger vid strandpromenaden på Norr Mälarstrand, med sittplatser på flytbryggor ute på Riddarfjärden och i en frodig blomsterträdgård på land. Utsikten går mot båttrafiken, Västerbron och Södermalms höjder. Man beställer i disken och sätter sig där det finns plats; det går inte att boka bord. Menyn är enkel och svensk-europeisk: toast Skagen, Caesarsallad, fisk- och skaldjursgryta, hamburgare och smörrebröd, plus ett brett utbud av vin och rosé. Stället är känt som hbtq-vänligt med en avslappnad publik. Promenad från Rådhuset eller Fridhemsplan, eller cykel längs Norr Mälarstrand.",
+  "season": "Sommarsäsong från ca april; öppet dagligen från kl 12. Säsongen 2026 avslutas söndag 27 september.",
+  "best_for": "Ett glas rosé på flytbryggan en solig eftermiddag",
+  "good_to_know": [
+   "Ingen bordsbokning, beställning i disken",
+   "Varmrätter ca 230–295 kr (meny september 2026)",
+   "Räkna med kö soliga eftermiddagar",
+   "Hbtq-vänligt och hundvänligt",
+   "Gångavstånd från T-bana Rådhuset och Fridhemsplan"
+  ],
+  "review_summary": "Recensenterna är nästan eniga om att läget är fantastiskt: flytbryggorna, blommorna och kvällssolen över vattnet gör det till ett av stadens mest omtyckta sommarställen. Maten får däremot blandade omdömen, med klagomål på kall eller torr mat och ojämn kvalitet, och många tycker att priserna är höga även för Stockholm. Köer och trängsel är vanligt soliga dagar, och servicen blir långsam när det är fullt."
+ },
+ "en": {
+  "name": "Mälarpaviljongen",
+  "kind": "Restaurant & bar",
+  "area": "Norr Mälarstrand, Kungsholmen, Stockholm",
+  "tagline": "Floating pontoons and a flower garden on Riddarfjärden",
+  "description": "Mälarpaviljongen is on the waterfront promenade at Norr Mälarstrand, with seating on floating pontoons out on Riddarfjärden and in a lush flower garden on land. The view takes in the boat traffic, Västerbron and the heights of Södermalm. You order at the counter and sit wherever there is space; you can't book a table. The menu is simple Swedish-European: toast Skagen (prawns on toast), Caesar salad, fish and seafood stew, burgers and smørrebrød, plus a wide range of wine and rosé. The place is known for being LGBTQ-friendly, with a relaxed crowd. Walk from Rådhuset or Fridhemsplan, or cycle along Norr Mälarstrand.",
+  "season": "Summer season from around April; open daily from 12. The 2026 season ends on Sunday 27 September.",
+  "best_for": "A glass of rosé on the pontoon on a sunny afternoon",
+  "good_to_know": [
+   "No table booking, order at the counter",
+   "Mains approx. 230–295 kr (September 2026 menu)",
+   "Expect queues on sunny afternoons",
+   "LGBTQ-friendly and dog-friendly",
+   "Walking distance from Rådhuset and Fridhemsplan T-bana"
+  ],
+  "review_summary": "Reviewers almost all agree that the location is fantastic: the pontoons, the flowers and the evening sun over the water make it one of the city's best-loved summer spots. The food, on the other hand, gets mixed reviews, with complaints about cold or dry food and uneven quality, and many think the prices are high even for Stockholm. Queues and crowds are common on sunny days, and service gets slow when it's full.",
+  "_from": "27de235336d7"
+ }
+}

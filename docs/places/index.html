@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Places by the water · Elin's lists</title>
+<meta name="description" content="Places by the water near Stockholm: restaurants, cafes and places to stay within 50 km of the city, on a map.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400;1,6..72,500&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" integrity="sha384-c6Rcwz4e4CITMbu/NBmnNS8yN2sC3cUElMEMfP3vqqKFp7GOYaaBBCqmaWBjmkjb" crossorigin="anonymous">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="icon" href="../assets/icon.svg" type="image/svg+xml">
+</head>
+<body class="mappage">
+<header class="top" data-home="../"></header>
+<div class="app">
+  <aside class="panel" id="panel">
+    <div class="panel__head" id="head">
+      <h1 id="title"></h1>
+      <p class="sub" id="sub"></p>
+      <input class="search" id="q" type="search" data-i18n-ph="search_places" aria-label="Search">
+      <div class="chips" id="chips" role="group"></div>
+      <div class="toggles">
+        <label><input type="checkbox" id="f-year"> <span data-i18n="only_year_round"></span></label>
+        <label><input type="checkbox" id="f-new"> <span data-i18n="not_visited"></span></label>
+      </div>
+    </div>
+    <div id="list"></div>
+    <article class="detail" id="detail" hidden></article>
+  </aside>
+  <div class="mapwrap" id="mapwrap">
+    <div id="map" role="region" aria-label="Map"></div>
+    <div class="legend"><span><i></i><span data-i18n="year_round"></span></span><span><i class="s"></i><span data-i18n="seasonal"></span></span></div>
+  </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" integrity="sha384-NElt3Op+9NBMCYaef5HxeJmU4Xeard/Lku8ek6hoPTvYkQPh3zLIrJP7KiRocsxO" crossorigin="anonymous"></script>
+<script src="../assets/config.js"></script>
+<script src="../assets/site.js"></script>
+<script src="places.js"></script>
+</body>
+</html>

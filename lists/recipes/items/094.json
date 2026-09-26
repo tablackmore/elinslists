@@ -1,0 +1,38 @@
+{
+ "id": 94,
+ "n": 17,
+ "chapter": 0,
+ "creator": "Healthyish Foods",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/946547784340933/",
+ "video_only": false,
+ "original_title": "Sautéed Spring Vegetable Salad",
+ "sv": {
+  "title": "Varm zucchini och sparris-sallad",
+  "servings": "6 portioner",
+  "time": "30 minuter",
+  "description": "Varm sallad med stekt zucchini och sparris, fetaost, pistagenötter och dill. Vänds i en dressing av olivolja, citron, honung och dijonsenap. Tar cirka 30 minuter.",
+  "keywords": [
+   "zucchini",
+   "sparris",
+   "fetaost",
+   "pistagenötter",
+   "dill",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Warm Courgette and Asparagus Salad",
+  "servings": "6 servings",
+  "time": "30 minutes",
+  "description": "A warm salad of pan-fried courgette and asparagus with feta, pistachios and dill, tossed in an olive oil, lemon, honey and Dijon dressing. Takes about 30 minutes.",
+  "keywords": [
+   "courgette",
+   "asparagus",
+   "feta",
+   "pistachios",
+   "dill",
+   "salad"
+  ]
+ }
+}

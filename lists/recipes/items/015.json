@@ -1,0 +1,36 @@
+{
+ "id": 15,
+ "n": 2,
+ "chapter": 0,
+ "creator": "bakedbymelissa",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DYYLDJeBEnV/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Ruccola och gurksallad",
+  "servings": "",
+  "time": "",
+  "description": "Finhackad sallad av ruccola, gurka, koriander, persilja och gröna oliver med citron, olivolja, vitlök och lite vinäger. Serveras med pitachips.",
+  "keywords": [
+   "ruccola",
+   "gurka",
+   "oliver",
+   "örter",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Rocket and Cucumber Salad",
+  "servings": "",
+  "time": "",
+  "description": "Finely chopped salad of rocket, cucumber, coriander, parsley and green olives with lemon, olive oil, garlic and a dash of vinegar. Served with pitta chips.",
+  "keywords": [
+   "rocket",
+   "cucumber",
+   "olives",
+   "herbs",
+   "salad"
+  ]
+ }
+}

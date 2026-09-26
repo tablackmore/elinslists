@@ -1,0 +1,60 @@
+{
+ "id": 27,
+ "n": 12,
+ "chapter": 2,
+ "lat": 59.32646,
+ "lon": 18.04397,
+ "km": 1.4,
+ "status": "open",
+ "price": 2,
+ "website": "https://www.trattorian.se/orangeriet",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Orangeriet%2C%20Norr%20M%C3%A4larstrand%2C%20Stockholm",
+ "address": "Norr Mälarstrand, kajplats 464, 112 20 Stockholm",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.4,
+   "scale": 5,
+   "count": 204
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.4,
+   "scale": 5,
+   "count": 14
+  }
+ ],
+ "sv": {
+  "name": "Orangeriet",
+  "kind": "Bar & restaurang",
+  "area": "Norr Mälarstrand, Kungsholmen, Stockholm",
+  "tagline": "Cocktails och pizza i glaspaviljong vid Riddarfjärden",
+  "description": "Orangeriet ligger i en glasad paviljong på kajen längs Norr Mälarstrand, med utsikt över Riddarfjärden mot Södermalm. Inredningen påminner om ett växthus med palmer, korgmöbler och ljusslingor, och vintertid brinner en öppen spis. Köket hör ihop med grannen Trattorian och är italienskt: pizza från vedugn, pasta som görs för hand och kolgrillat kött och fisk. Här äter man lunch, tar en afterwork eller sitter länge med cocktails. Stället tar inte bordsbokningar och hundar är välkomna. Närmaste tunnelbana är Rådhuset, ungefär fem minuters promenad, och promenaden längs Norr Mälarstrand är fin i sig.",
+  "season": "Året runt; uteserveringen vid kajen är störst under sommarhalvåret",
+  "best_for": "Afterwork i kvällssol vid Riddarfjärden",
+  "good_to_know": [
+   "Ingen bordsbokning – först till kvarn",
+   "Hundar välkomna",
+   "Öppen spis vintertid",
+   "T-bana Rådhuset, ca 5 min promenad"
+  ],
+  "review_summary": "Recensenterna är eniga om läget: nära vattnet, med kvällssol och utsikt över Riddarfjärden. Pizzorna och cocktailsen får ofta beröm, och miljön fungerar för både dejt, afterwork och vänner. Den vanligaste kritiken är att servicen är långsam när det är mycket folk, både vid beställning och när maten ska komma ut. Några tycker att priserna är lite höga i förhållande till portionerna. Betygen hamnar runt medel på både Tripadvisor och Thatsup."
+ },
+ "en": {
+  "name": "Orangeriet",
+  "kind": "Bar & restaurant",
+  "area": "Norr Mälarstrand, Kungsholmen, Stockholm",
+  "tagline": "Cocktails and pizza in a glass pavilion on Riddarfjärden",
+  "description": "Orangeriet is in a glass pavilion on the quay along Norr Mälarstrand, looking out over Riddarfjärden towards Södermalm. The interior is like a greenhouse, with palms, wicker furniture and fairy lights, and in winter there's an open fire. The kitchen is shared with its neighbour Trattorian and is Italian: pizza from a wood-fired oven, handmade pasta and charcoal-grilled meat and fish. You can come for lunch, after-work drinks or a long evening of cocktails. They don't take table bookings and dogs are welcome. The nearest T-bana (metro) station is Rådhuset, about a five-minute walk, and the walk along Norr Mälarstrand is lovely in itself.",
+  "season": "All year; the quayside outdoor seating is at its biggest in the summer months",
+  "best_for": "After-work drinks in the evening sun on Riddarfjärden",
+  "good_to_know": [
+   "No table bookings – first come, first served",
+   "Dogs welcome",
+   "Open fire in winter",
+   "T-bana Rådhuset, about 5 min walk"
+  ],
+  "review_summary": "Reviewers agree on the location: close to the water, with evening sun and views over Riddarfjärden. The pizzas and cocktails are often praised, and the setting works for a date, after-work drinks or a night out with friends. The most common complaint is that service is slow when it's busy, both when ordering and waiting for food. Some think prices are a bit high for the portions. Ratings are around average on both Tripadvisor and Thatsup.",
+  "_from": "f7c0d4f56146"
+ }
+}

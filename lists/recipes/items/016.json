@@ -1,0 +1,36 @@
+{
+ "id": 16,
+ "n": 3,
+ "chapter": 0,
+ "creator": "kellyscleankitchen",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DX9gZ7rO6l1/",
+ "video_only": false,
+ "original_title": "Green Goddess Salad",
+ "sv": {
+  "title": "Kålsallad med avokadodressing",
+  "servings": "4–6 portioner",
+  "time": "25 minuter",
+  "description": "Sallad av kål, ruccola och gurka vänd i en tjock, mixad dressing på avokado, basilika, dill, salladslök, vitlök och citron. Räcker till fyra till sex portioner.",
+  "keywords": [
+   "kålsallad",
+   "avokado",
+   "basilika",
+   "gurka",
+   "ruccola"
+  ]
+ },
+ "en": {
+  "title": "Cabbage Salad with Avocado Dressing",
+  "servings": "4–6 servings",
+  "time": "25 minutes",
+  "description": "Salad of cabbage, rocket and cucumber tossed in a thick blended dressing of avocado, basil, dill, spring onion, garlic and lemon. Serves four to six.",
+  "keywords": [
+   "cabbage salad",
+   "avocado",
+   "basil",
+   "cucumber",
+   "rocket"
+  ]
+ }
+}

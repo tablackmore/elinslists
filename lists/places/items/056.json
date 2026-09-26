@@ -1,0 +1,54 @@
+{
+ "id": 56,
+ "n": 41,
+ "chapter": 4,
+ "lat": 59.2005,
+ "lon": 18.84922,
+ "km": 46.9,
+ "status": "seasonal",
+ "price": 1,
+ "website": "https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/namdoskargardens-nationalpark/besok-parken/overnatta-i-parken",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Buller%C3%B6%20g%C3%A4sthem%2C%20Buller%C3%B6",
+ "address": "Bullerö, 130 43 Värmdö (nås endast med båt)",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 5.0,
+   "scale": 5,
+   "count": 5
+  }
+ ],
+ "sv": {
+  "name": "Bullerö gästhem och torp",
+  "kind": "Stugor & vandrarhem",
+  "area": "Bullerö, Nämdöskärgårdens nationalpark, Värmdö",
+  "tagline": "Övernatta i ytterskärgårdens nationalpark",
+  "description": "Bullerö ligger i Nämdöskärgårdens nationalpark, i ytterskärgården öster om Stavsnäs, och var en gång konstnären Bruno Liljefors jaktmarker. På ön finns gästhemmet med 16 bäddar i två varsamt renoverade hus: Parstugan från omkring 1720 med eget kök och fem bäddar, och Sjögrenska villan från omkring 1810 med rum för tre till fyra personer och gemensamt kök. Vatten hämtas från pumpen på gården. Det finns vedeldad bastu, servicehus med dusch, grillplatser och en naturstig. På grannöarna Rågskär, Hamnskär och Braka hyrs enkla torp utan el och rinnande vatten. Resan går med SL-buss till Stavsnäs vinterhamn och sedan båt, på högsäsong via Bullerölinjen.",
+  "season": "Gästhemmet bokningsbart 1 maj–2 november; torpen hyrs per helg eller vecka",
+  "best_for": "En helg med bastu och tystnad i ytterskärgården",
+  "good_to_know": [
+   "Boka via boka.bullero.se (By Nordiq), minst en dag i förväg",
+   "Ingen restaurang eller affär, ta med all mat",
+   "Båt från Stavsnäs vinterhamn; utanför högsäsong bara båttaxi eller egen båt",
+   "Torpen saknar el och rinnande vatten"
+  ],
+  "review_summary": "De få omdömen som finns är mycket positiva. Besökare beskriver Bullerö som en riktig skärgårdspärla med vacker natur, intressanta naturstigar och koppling till konstnärerna Liljefors, Zorn och Engström. Gästhemmet beskrivs som rent, ombonat och mysigt med en fin bastu, och värden får beröm. Nackdelarna är praktiska: det är långt ut, kräver båt, standarden är enkel och man måste ha med sig all mat."
+ },
+ "en": {
+  "name": "Bullerö gästhem och torp",
+  "kind": "Cabins & hostel",
+  "area": "Bullerö, Nämdöskärgårdens nationalpark, Värmdö",
+  "tagline": "Stay overnight in an outer-archipelago national park",
+  "description": "Bullerö lies in Nämdöskärgården National Park, in the outer archipelago east of Stavsnäs, and was once the hunting ground of the artist Bruno Liljefors. On the island is the guesthouse with 16 beds in two carefully restored houses: Parstugan from around 1720 with its own kitchen and five beds, and Sjögrenska villan from around 1810 with rooms for three to four people and a shared kitchen. Water is fetched from the pump in the yard. There is a wood-fired sauna, a service building with showers, barbecue spots and a nature trail. On the neighbouring islands of Rågskär, Hamnskär and Braka, simple cottages without electricity or running water are available to rent. The journey is by SL bus to Stavsnäs vinterhamn and then by boat, in high season via the Bullerö line.",
+  "season": "Guesthouse bookable 1 May–2 November; the cottages are rented by the weekend or week",
+  "best_for": "A weekend of sauna and silence in the outer archipelago",
+  "good_to_know": [
+   "Book via boka.bullero.se (By Nordiq), at least a day in advance",
+   "No restaurant or shop, bring all your food",
+   "Boat from Stavsnäs vinterhamn; outside high season only water taxi or your own boat",
+   "The cottages have no electricity or running water"
+  ],
+  "review_summary": "The few reviews there are are very positive. Visitors describe Bullerö as a real archipelago gem with beautiful nature, interesting nature trails and links to the artists Liljefors, Zorn and Engström. The guesthouse is described as clean, homely and cosy with a nice sauna, and the host gets praise. The downsides are practical: it's a long way out, you need a boat, the standard is basic and you have to bring all your own food.",
+  "_from": "9314b12d90d7"
+ }
+}

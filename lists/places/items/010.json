@@ -1,0 +1,54 @@
+{
+ "id": 10,
+ "n": 22,
+ "chapter": 3,
+ "lat": 59.32264,
+ "lon": 18.1906,
+ "km": 7.2,
+ "status": "open",
+ "price": 1,
+ "website": "https://nyckelvikensherrgard.se/cafe-mat/cafe-lunch/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Nyckelvikens%20Herrg%C3%A5rd%20caf%C3%A9%2C%20Nyckelviksv%C3%A4gen%201%2C%20Nacka",
+ "address": "Nyckelviksvägen 1, 131 49 Nacka",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 2.0,
+   "scale": 5,
+   "count": 2
+  }
+ ],
+ "sv": {
+  "name": "Café Nyckelviken",
+  "kind": "Café",
+  "area": "Stora Nyckelviken, Nacka",
+  "tagline": "Herrgårdsfika vid viken i Nyckelvikens naturreservat",
+  "description": "Caféet ligger inne i den gula herrgården Stora Nyckelviken, från 1700-talet, längst in i viken Nyckelviken i naturreservatet med samma namn. Från terrassen ser man ut över vattnet och dammen framför gården, och runt omkring finns hagar, skog och vandringsleder. Här serveras matiga smörgåsar, hembakat fika och enklare lunchrätter. Hundar är välkomna och det är kontantfritt. Passar bäst som fikapaus under en promenad eller cykeltur, snarare än som mål i sig. Buss från Slussen till Jarlaberg eller Bråvallaplan, sedan cirka 15 minuters promenad.",
+  "season": "Året runt med varierande tider; dagligen på sommaren, färre dagar senhöst och vinter",
+  "best_for": "Fikapaus under en promenad i reservatet",
+  "good_to_know": [
+   "Kontantfritt: kort eller Swish",
+   "Hundar välkomna",
+   "Köket stänger en timme före caféet",
+   "Buss till Jarlaberg eller Bråvallaplan, sedan promenad"
+  ],
+  "review_summary": "Miljön, herrgården och naturreservatet får beröm, liksom terrassen mot vattnet. Själva caféet får däremot svaga omdömen: recensenter klagar på att smörgåsarna tar slut långt före stängning, att personalen är osäker på sortimentet, att en gulaschsoppa verkade vara uppvärmd konserv och att priserna är höga för det som erbjuds. Underlaget på Tripadvisor är mycket litet."
+ },
+ "en": {
+  "name": "Café Nyckelviken",
+  "kind": "Cafe",
+  "area": "Stora Nyckelviken, Nacka",
+  "tagline": "Manor house fika by the bay in Nyckelviken nature reserve",
+  "description": "The cafe is inside the yellow 18th-century manor house of Stora Nyckelviken, at the far end of the Nyckelviken bay in the nature reserve of the same name. From the terrace you look out over the water and the pond in front of the house, and all around are meadows, woods and walking trails. They serve hearty sandwiches, home-baked cakes and simple lunch dishes. Dogs are welcome and it's cashless. Best as a fika (coffee and cake) stop on a walk or bike ride rather than a destination in itself. Bus from Slussen to Jarlaberg or Bråvallaplan, then about a 15-minute walk.",
+  "season": "All year with varying hours; daily in summer, fewer days in late autumn and winter",
+  "best_for": "A fika stop on a walk in the reserve",
+  "good_to_know": [
+   "Cashless: card or Swish (Swedish mobile payment)",
+   "Dogs welcome",
+   "The kitchen closes an hour before the cafe",
+   "Bus to Jarlaberg or Bråvallaplan, then walk"
+  ],
+  "review_summary": "The setting, the manor house and the nature reserve get praise, as does the terrace facing the water. The cafe itself gets weak reviews, though: reviewers complain that sandwiches run out long before closing, that staff are unsure of what's on offer, that a goulash soup seemed to be reheated from a tin, and that prices are high for what you get. There are very few reviews on Tripadvisor.",
+  "_from": "374d917c8b4a"
+ }
+}

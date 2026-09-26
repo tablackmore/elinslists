@@ -1,0 +1,56 @@
+{
+ "id": 48,
+ "n": 47,
+ "chapter": 5,
+ "lat": 59.00977,
+ "lon": 17.88338,
+ "km": 37.4,
+ "status": "open",
+ "price": null,
+ "website": "https://korunda.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=K%C3%B6runda%20Hotell%2C%20%C3%96smo",
+ "address": "Körunda 31, 148 91 Ösmo",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 101
+  }
+ ],
+ "sv": {
+  "name": "Körunda Hotell & Konferens",
+  "kind": "Hotell & restaurang",
+  "area": "Körunda, Ösmo, Nynäshamn",
+  "tagline": "Herrgårdshotell vid sjön Muskan med golf och sjöbad",
+  "description": "Körunda är en gammal herrgård vid sjön Muskan på Södertörn, strax utanför Ösmo, som i dag är hotell och konferensanläggning med 51 rum. Runt gården finns skog, en naturstig runt sjön, brygga och bad, och intill ligger Nynäshamns golfklubb med 27 hål. Restaurangen kallar sig 'din lokala kvarterskrog' och serverar frukost, lunch, brunch och middag med säsongsmenyer och mycket ekologiskt och närproducerat. På sommaren äter man på verandorna, bland annat i Tavernan med grillbuffé och pizzaugn med utsikt mot golfbanan. Det är en insjömiljö, inte havet. Man åker pendeltåg till Ösmo (45 min) och sedan taxi i fem minuter, eller bil på omkring 35 minuter från city.",
+  "season": "Året runt. Frukost, veckans lunch, brunch och middag, och på sommaren serveras det ute på verandorna.",
+  "best_for": "Weekend med golf, sjöbad och lugn på landet",
+  "good_to_know": [
+   "Bordsbokning endast per telefon/mejl: 08-520 390 30",
+   "Konferensgrupper dominerar på vardagar",
+   "Sjöbad och bastu vid sjön Muskan",
+   "Golfbana 27 hål intill",
+   "Kontantfritt, Swish fungerar"
+  ],
+  "review_summary": "Personalen får mycket beröm och beskrivs som varm och professionell, och många lyfter fram maten, till exempel trerätters- och femrättersmiddagar med bra vinförslag, samt lugnet och promenaden runt sjön. Kritiken gäller mest hotelldelen: kalla rum på vintern, lyhördhet, inga mörkläggningsgardiner på sommaren och en relaxavdelning som stängde tidigt. Enstaka gäster har också varit mycket missnöjda med en måltid."
+ },
+ "en": {
+  "name": "Körunda Hotell & Konferens",
+  "kind": "Hotel & restaurant",
+  "area": "Körunda, Ösmo, Nynäshamn",
+  "tagline": "Manor house hotel on Lake Muskan with golf and lake swimming",
+  "description": "Körunda is an old manor on Lake Muskan on Södertörn, just outside Ösmo, which is now a hotel and conference centre with 51 rooms. Around the estate there is forest, a nature trail round the lake, a jetty and swimming, and next door is Nynäshamn golf club with 27 holes. The restaurant calls itself 'your local neighbourhood restaurant' and serves breakfast, lunch, brunch and dinner with seasonal menus and lots of organic and local produce. In summer you eat on the verandas, including in Tavernan with a barbecue buffet and pizza oven looking out over the golf course. It's a lakeside setting, not the sea. Take the pendeltåg (commuter train) to Ösmo (45 min) and then a five-minute taxi, or drive for about 35 minutes from the city centre.",
+  "season": "All year. Breakfast, weekly lunch, brunch and dinner, and in summer food is served out on the verandas.",
+  "best_for": "A weekend of golf, lake swimming and countryside calm",
+  "good_to_know": [
+   "Table bookings by phone/email only: 08-520 390 30",
+   "Conference groups dominate on weekdays",
+   "Lake swimming and sauna on Lake Muskan",
+   "27-hole golf course next door",
+   "Cashless, Swish (Swedish mobile payment) works"
+  ],
+  "review_summary": "The staff get a lot of praise and are described as warm and professional, and many highlight the food, for example three- and five-course dinners with good wine pairings, as well as the calm and the walk round the lake. Criticism is mostly about the hotel side: cold rooms in winter, thin walls, no blackout curtains in summer and a relaxation area that closed early. The odd guest has also been very unhappy with a meal.",
+  "_from": "fb5f5b536108"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": 8,
+ "n": 33,
+ "chapter": 4,
+ "lat": 59.22109,
+ "lon": 18.53759,
+ "km": 29.6,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://bistrobjorkvik.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Bistro%20Bj%C3%B6rkvik%2C%20Bj%C3%B6rkviksv%C3%A4gen%2024%2C%20Ingar%C3%B6",
+ "address": "Björkviksvägen 24, 134 66 Ingarö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 120
+  }
+ ],
+ "sv": {
+  "name": "Bistro Björkvik",
+  "kind": "Restaurang",
+  "area": "Björkviks havsbad, Ingarö, Värmdö",
+  "tagline": "Glasveranda vid sandstranden på södra Ingarö",
+  "description": "Bistro Björkvik är den enda restaurangen vid Björkviks havsbad längst ut på Ingarö, cirka 50 meter från den långgrunda sandstranden. Från den stora glasverandan och uteserveringen ser man ut över Nämdöfjärden. Köket blandar svensk husmanskost och skärgårdsklassiker som toast skagen, stekt strömming och fish & chips med rätter från andra håll. Vardagar serveras lunch med salladsbuffé, på helger är det à la carte. Stället är avslappnat och barnvänligt, och hundar är välkomna inne med en egen meny. Buss från Slussen stannar utanför (hållplats Björkviks brygga), det finns gratis parkering och en gästbrygga för båt.",
+  "season": "Påsk–slutet av september; stängt måndagar",
+  "best_for": "Lunch efter ett bad på sandstranden",
+  "good_to_know": [
+   "Dagens lunch tis–fre 155 kr inkl. salladsbuffé",
+   "Middag lördagar till 21, söndagar till 17",
+   "Hundar välkomna inne, egen hundmeny",
+   "Buss till hållplats Björkviks brygga, gästbrygga för båt"
+  ],
+  "review_summary": "Läget vid stranden och utsikten över fjärden är det som gäster uppskattar mest, liksom trevlig och välkomnande personal. Omdömena om maten är blandade: en del tycker att den är god och prisvärd för läget, andra att kvaliteten och presentationen inte motsvarar priset. Enstaka recensioner nämner långsam eller ojämn service vid hög belastning. Ett bra val för en lunch efter badet snarare än för en finare middag."
+ },
+ "en": {
+  "name": "Bistro Björkvik",
+  "kind": "Restaurant",
+  "area": "Björkviks havsbad, Ingarö, Värmdö",
+  "tagline": "Glass veranda by the sandy beach on southern Ingarö",
+  "description": "Bistro Björkvik is the only restaurant at Björkviks havsbad, right out at the end of Ingarö, about 50 metres from the shallow sandy beach. From the big glass veranda and outdoor seating you look out over Nämdöfjärden. The kitchen mixes traditional Swedish home cooking and archipelago classics such as toast skagen (prawn toast), fried Baltic herring and fish & chips with dishes from further afield. On weekdays there's lunch with a salad buffet; at weekends it's à la carte. It's relaxed and child-friendly, and dogs are welcome inside with their own menu. The bus from Slussen stops outside (Björkviks brygga stop), there's free parking and a guest jetty for boats.",
+  "season": "Easter to the end of September; closed Mondays",
+  "best_for": "Lunch after a swim at the sandy beach",
+  "good_to_know": [
+   "Lunch of the day Tue–Fri 155 kr incl. salad buffet",
+   "Dinner Saturdays until 21:00, Sundays until 17:00",
+   "Dogs welcome inside, with their own dog menu",
+   "Bus to the Björkviks brygga stop, guest jetty for boats"
+  ],
+  "review_summary": "The beachside location and the view over the bay are what guests like most, along with pleasant, welcoming staff. Opinions on the food are mixed: some find it good and fair value for the location, others think the quality and presentation don't match the price. The odd review mentions slow or patchy service when it's busy. A good choice for lunch after a swim rather than a smart dinner.",
+  "_from": "ac24144028b0"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": 42,
+ "n": 58,
+ "chapter": 3,
+ "creator": "Jacob King Food",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1585143822907317/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Ärtplättar",
+  "servings": "",
+  "time": "",
+  "description": "Små stekta plättar av mosade gröna ärtor, vitlök, näringsjäst, persilja, mynta och vetemjöl. Serveras med en dipp av yoghurt, citron och örter.",
+  "keywords": [
+   "ärtor",
+   "plättar",
+   "mynta",
+   "näringsjäst",
+   "yoghurt"
+  ]
+ },
+ "en": {
+  "title": "Pea Fritters",
+  "servings": "",
+  "time": "",
+  "description": "Small fried fritters of mashed peas, garlic, nutritional yeast, parsley, mint and flour. Served with a yoghurt, lemon and herb dip.",
+  "keywords": [
+   "peas",
+   "fritters",
+   "mint",
+   "nutritional yeast",
+   "yoghurt"
+  ]
+ }
+}

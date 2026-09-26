@@ -1,0 +1,68 @@
+{
+ "id": 29,
+ "n": 1,
+ "chapter": 0,
+ "lat": 59.33078,
+ "lon": 18.08321,
+ "km": 1.1,
+ "status": "seasonal",
+ "price": 3,
+ "website": "https://angbatsbryggan.com",
+ "maps": "https://www.google.com/maps/search/?api=1&query=%C3%85ngb%C3%A5tsbryggan%2C%20Strandv%C3%A4gen%20kajplats%2018%2C%20Stockholm",
+ "address": "Strandvägen, kajplats 18, 114 51 Stockholm",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 1014
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.0,
+   "scale": 5,
+   "count": 350
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.2,
+   "scale": 5,
+   "count": 16
+  }
+ ],
+ "sv": {
+  "name": "Ångbåtsbryggan",
+  "kind": "Restaurang & bar",
+  "area": "Strandvägen, Östermalm, Stockholm",
+  "tagline": "Skaldjur på en pråm bland ångbåtarna vid Strandvägen",
+  "description": "Ångbåtsbryggan är en restaurang byggd på en pråm från andra världskriget som ligger förtöjd vid Strandvägen, omgiven av historiska ångfartyg. Matsalen är träpanelad och har vattenutsikt från alla bord, och under vår, sommar och tidig höst är den yttre pontonen öppen för drinkar och sol. Utsikten sträcker sig mot Skeppsholmen, Blasieholmen och Gröna Lund. Köket satsar på skaldjur och klassiker som ångbåtsbiff och gös, och det finns lunch på vardagar. Hit går man för ett glas bubbel på pontonen eller en lite finare middag. Spårvagn 7 går längs Strandvägen och T-bana Kungsträdgården ligger några hundra meter bort.",
+  "season": "Restaurang och ponton vår till slutet av september; oktober–november främst slutna sällskap; julbord slutet av november–december",
+  "best_for": "Bubbel och skaldjur en sommarkväll",
+  "good_to_know": [
+   "Boka bord via hemsidan",
+   "Lunch vardagar, 189 kr",
+   "Pontonen öppen vår till tidig höst",
+   "Stängt söndag–måndag",
+   "Spårvagn 7 längs Strandvägen"
+  ],
+  "review_summary": "Miljön och utsikten får genomgående beröm: det känns speciellt att äta på vattnet mitt i stan, och sommarkvällarna på pontonen lyfts fram. Många gillar skaldjuren och de små rätterna, och personalen beskrivs ofta som trevlig. Kritiken handlar om höga priser i förhållande till maten, ojämn kvalitet med torra rätter vid enstaka besök, och service som ibland upplevs stressande. Google-betyget är klart högre än Thatsups."
+ },
+ "en": {
+  "name": "Ångbåtsbryggan",
+  "kind": "Restaurant & bar",
+  "area": "Strandvägen, Östermalm, Stockholm",
+  "tagline": "Seafood on a barge among the steamboats on Strandvägen",
+  "description": "Ångbåtsbryggan is a restaurant built on a Second World War barge moored on Strandvägen, surrounded by historic steamships. The dining room is wood-panelled with a water view from every table, and in spring, summer and early autumn the outer pontoon is open for drinks and sun. The view stretches towards Skeppsholmen, Blasieholmen and Gröna Lund. The kitchen focuses on seafood and classics such as ångbåtsbiff (steamboat beef) and pike-perch, and there is lunch on weekdays. Come for a glass of bubbly on the pontoon or a slightly smarter dinner. Tram 7 runs along Strandvägen and Kungsträdgården T-bana (metro) is a few hundred metres away.",
+  "season": "Restaurant and pontoon from spring to the end of September; October–November mainly private parties; julbord (Christmas buffet) late November–December",
+  "best_for": "Bubbly and seafood on a summer evening",
+  "good_to_know": [
+   "Book a table via the website",
+   "Weekday lunch, 189 kr",
+   "Pontoon open spring to early autumn",
+   "Closed Sunday–Monday",
+   "Tram 7 along Strandvägen"
+  ],
+  "review_summary": "The setting and the view are consistently praised: eating on the water in the middle of town feels special, and summer evenings on the pontoon get a lot of mentions. Many like the seafood and small plates, and the staff are often described as pleasant. The criticism is about high prices relative to the food, uneven quality with dry dishes on the odd visit, and service that can feel rushed. The Google rating is clearly higher than on Thatsup (a Swedish review site).",
+  "_from": "e257ab9ac4cb"
+ }
+}

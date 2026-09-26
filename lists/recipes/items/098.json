@@ -1,0 +1,36 @@
+{
+ "id": 98,
+ "n": 77,
+ "chapter": 3,
+ "creator": "George Mirosevich",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/619287557586826/",
+ "video_only": false,
+ "original_title": "AVOCADO + CHILLI EGG TACOS",
+ "sv": {
+  "title": "Ägg & avokado tacos i salladsblad",
+  "servings": "",
+  "time": "",
+  "description": "Kokta ägg och avokado mosas grovt med gurka, rödlök, kimchi och citron. Röran serveras i blad av romansallad med färsk chili, utan ugn eller spis.",
+  "keywords": [
+   "ägg",
+   "avokado",
+   "kimchi",
+   "romansallad",
+   "gurka"
+  ]
+ },
+ "en": {
+  "title": "Egg and Avocado Lettuce Tacos",
+  "servings": "",
+  "time": "",
+  "description": "Boiled eggs and avocado are roughly mashed with cucumber, red onion, kimchi and lemon, then served in romaine lettuce leaves with fresh chilli.",
+  "keywords": [
+   "eggs",
+   "avocado",
+   "kimchi",
+   "romaine lettuce",
+   "cucumber"
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Green favourites · Elin's lists</title>
+<meta name="description" content="Vegetarian recipes we want to cook, with a short description and a link to each creator.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400;1,6..72,500&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="icon" href="../assets/icon.svg" type="image/svg+xml">
+</head>
+<body>
+<header class="top" data-home="../"></header>
+<main class="rec">
+  <div class="rec__head">
+    <h1 id="title"></h1>
+    <p class="sub" id="sub"></p>
+  </div>
+  <div class="rec__tools">
+    <input class="search" id="q" type="search" data-i18n-ph="search_recipes" aria-label="Search">
+    <div class="chips" id="chips" role="group"></div>
+    <div class="toggles"><label><input type="checkbox" id="f-new"> <span data-i18n="not_cooked"></span></label></div>
+  </div>
+  <div id="out"></div>
+</main>
+<footer class="foot" data-i18n="footer"></footer>
+<script src="../assets/config.js"></script>
+<script src="../assets/site.js"></script>
+<script src="recipes.js"></script>
+</body>
+</html>

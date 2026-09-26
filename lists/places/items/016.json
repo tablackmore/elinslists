@@ -1,0 +1,66 @@
+{
+ "id": 16,
+ "n": 36,
+ "chapter": 4,
+ "lat": 59.29785,
+ "lon": 18.65016,
+ "km": 33.4,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.bullandokrog.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Bulland%C3%B6%20Krog%2C%20Bulland%C3%B6%20Marina%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Bullandövägen 30, Bullandö Marina, 139 56 Värmdö",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.5,
+   "scale": 5,
+   "count": null
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 219
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 17
+  }
+ ],
+ "sv": {
+  "name": "Bullandö Krog",
+  "kind": "Restaurang",
+  "area": "Bullandö marina, Värmdö",
+  "tagline": "Stor skärgårdskrog med terrass över Bullandö marina",
+  "description": "Bullandö Krog ligger mitt i Bullandö marina på östra Värmdö, en av ostkustens största småbåtshamnar, mellan inner- och mellanskärgården. Från panoramafönstren och den stora terrassen ser man ut över hamnen och fjärden. Krogen har cirka 250 platser och drop-in är alltid välkommet. Menyn ändras dagligen efter råvaror och säsong, med fisk och skaldjur, stekt abborre, torskrygg, råbiff och en egen skärgårdsgryta; på högsäsong finns också en klassikermeny. Onsdagar blir det jazz eller visor på bryggan och lördagskvällar livemusik. Man tar sig hit med bil, buss från Slussen eller egen båt.",
+  "season": "April till jul; stängt måndagar, bara lunch tis–tor",
+  "best_for": "Middag på terrassen en sommarkväll med livemusik",
+  "good_to_know": [
+   "Drop-in, ingen bokning behövs",
+   "Middag bara fre–sön; tis–tor endast lunch",
+   "Livemusik onsdagar och lördagar på högsäsong",
+   "Gästhamn i marinan för båtgäster"
+  ],
+  "review_summary": "Gäster lyfter nästan alltid fram det vackra läget i marinan, den stora uteserveringen och vänlig, effektiv personal även när det är fullt. Många stamgäster kommer tillbaka år efter år. Maten får blandade omdömen: vissa tycker att den håller hög nivå, andra att den bara är okej för en skärgårdskrog, och några nyare recensioner nämner kall mat eller missar i köket. Priserna ligger på mellannivå, med billigare dagens lunch."
+ },
+ "en": {
+  "name": "Bullandö Krog",
+  "kind": "Restaurant",
+  "area": "Bullandö marina, Värmdö",
+  "tagline": "Big archipelago restaurant with a terrace over Bullandö marina",
+  "description": "Bullandö Krog is in the middle of Bullandö marina on eastern Värmdö, one of the largest small-boat harbours on the east coast, between the inner and middle archipelago. From the panoramic windows and the big terrace you look out over the harbour and the bay. The restaurant has about 250 seats and drop-ins are always welcome. The menu changes daily with the produce and the season, with fish and seafood, fried perch, cod loin, steak tartare and their own archipelago fish stew; in high season there's also a classics menu. On Wednesdays there's jazz or folk songs on the jetty and on Saturday evenings live music. You get here by car, bus from Slussen or your own boat.",
+  "season": "April to Christmas; closed Mondays, lunch only Tue–Thu",
+  "best_for": "Dinner on the terrace on a summer evening with live music",
+  "good_to_know": [
+   "Drop-in, no booking needed",
+   "Dinner only Fri–Sun; lunch only Tue–Thu",
+   "Live music on Wednesdays and Saturdays in high season",
+   "Guest harbour in the marina for boat visitors"
+  ],
+  "review_summary": "Guests almost always highlight the lovely setting in the marina, the big outdoor terrace and friendly, efficient staff even when it's full. Many regulars come back year after year. The food gets mixed reviews: some think it's of a high standard, others that it's just OK for an archipelago restaurant, and a few recent reviews mention cold food or mistakes in the kitchen. Prices are mid-range, with a cheaper lunch of the day.",
+  "_from": "0687cd6a271f"
+ }
+}

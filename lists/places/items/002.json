@@ -1,0 +1,60 @@
+{
+ "id": 2,
+ "n": 23,
+ "chapter": 3,
+ "lat": 59.3031,
+ "lon": 18.21357,
+ "km": 9.1,
+ "status": "seasonal",
+ "price": 3,
+ "website": "https://www.ollekajsa.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Olle%20%26%20Kajsa%2C%20Strandpromenaden%2061%2C%20Saltsj%C3%B6-Duvn%C3%A4s",
+ "address": "Strandpromenaden 61, 131 50 Saltsjö-Duvnäs",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 5.0,
+   "scale": 5,
+   "count": 9
+  },
+  {
+   "site": "ViaMichelin (via sökresultat)",
+   "rating": 9.6,
+   "scale": 10,
+   "count": 81
+  }
+ ],
+ "sv": {
+  "name": "Olle & Kajsa",
+  "kind": "Restaurang & café",
+  "area": "Saltsjö-Duvnäs, Nacka",
+  "tagline": "Kockkrog i konstnärshemmet vid Duvnäsvikens strandpromenad",
+  "description": "Olle & Kajsa ligger i det gamla garaget och trädgården vid Olle och Kajsa Nymans konstnärshem i Övre Duvnäs, precis vid strandpromenaden längs Duvnäsviken. Krogen drivs sedan 2023 av kockarna Claes Ljustander och Christoffer Cassel och lagar medelhavsinspirerad mat med nordiskt handlag: allt från lunchrätter och smörgåsar till middag, bakverk och desserter. Uteserveringen i trädgården är hjärtat på sommaren, och konstnärshemmet med galleri ligger vägg i vägg. Hundar är välkomna. Passar för en lugn lunch eller middag i grönska. Saltsjöbanan till Saltsjö-Duvnäs station, därifrån en kort promenad; strandpromenaden går också att cykla längs.",
+  "season": "Sommarsäsong; hösten 2026 ons–sön till 4 oktober, därefter enstaka temahelger och julbord i december",
+  "best_for": "Lång lunch i trädgården en sommardag",
+  "good_to_know": [
+   "Boka bord via ollekajsa.se eller 08-716 86 96",
+   "Hundar välkomna",
+   "Olle Nymans ateljéer och konstnärshem ligger intill",
+   "Saltsjöbanan till Saltsjö-Duvnäs, kort promenad"
+  ],
+  "review_summary": "Få men mycket positiva omdömen. Recensenterna berömmer maten, som beskrivs som omsorgsfullt tillagad med fina detaljer, liksom den vackra trädgårdsmiljön och en vänlig, uppmärksam personal. Pavlovan och barnens köttbullar med mos nämns särskilt, liksom julbordet. Inga tydliga återkommande klagomål hittades, men underlaget är litet och krogen är relativt ny, så betygen säger mindre än för etablerade ställen."
+ },
+ "en": {
+  "name": "Olle & Kajsa",
+  "kind": "Restaurant & cafe",
+  "area": "Saltsjö-Duvnäs, Nacka",
+  "tagline": "Chef-run restaurant at an artists' home on the Duvnäsviken waterfront path",
+  "description": "Olle & Kajsa is in the old garage and garden of Olle and Kajsa Nyman's artists' home in Övre Duvnäs, right by the waterfront path along Duvnäsviken. Since 2023 it has been run by chefs Claes Ljustander and Christoffer Cassel, cooking Mediterranean-inspired food with a Nordic touch: everything from lunch dishes and sandwiches to dinner, pastries and desserts. The garden terrace is the heart of the place in summer, and the artists' home with its gallery is right next door. Dogs are welcome. Good for a quiet lunch or dinner among the greenery. Take the Saltsjöbanan (local train) to Saltsjö-Duvnäs station, then it's a short walk; you can also cycle along the waterfront path.",
+  "season": "Summer season; autumn 2026 Wed–Sun until 4 October, then the odd themed weekend and a julbord (Christmas buffet) in December",
+  "best_for": "A long lunch in the garden on a summer's day",
+  "good_to_know": [
+   "Book a table via ollekajsa.se or on 08-716 86 96",
+   "Dogs welcome",
+   "Olle Nyman's studios and artists' home are next door",
+   "Saltsjöbanan to Saltsjö-Duvnäs, then a short walk"
+  ],
+  "review_summary": "Few reviews, but very positive ones. Reviewers praise the food, described as carefully cooked with nice touches, as well as the lovely garden setting and friendly, attentive staff. The pavlova and the children's meatballs and mash get special mentions, as does the Christmas buffet. We found no clear recurring complaints, but there isn't much to go on and the restaurant is fairly new, so the ratings tell you less than for established places.",
+  "_from": "0677f550c436"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": 14,
+ "n": 38,
+ "chapter": 4,
+ "lat": 59.30567,
+ "lon": 18.68676,
+ "km": 35.4,
+ "status": "seasonal",
+ "price": 3,
+ "website": "https://www.motorverkstan.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Motorverkstan%20Bistro%20%26%20Bar%2C%20Djur%C3%B6%20G%C3%A5rdsv%C3%A4g%2023%2C%20Djurhamn",
+ "address": "Djurö Gårdsväg 23, 139 73 Djurhamn",
+ "scores": [
+  {
+   "site": "Google",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 218
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 4.3,
+   "scale": 5,
+   "count": 85
+  },
+  {
+   "site": "Thatsup",
+   "rating": 3.9,
+   "scale": 5,
+   "count": 7
+  }
+ ],
+ "sv": {
+  "name": "Motorverkstan Bistro & Bar",
+  "kind": "Restaurang & bar",
+  "area": "Djurhamn, Djurö, Värmdö",
+  "tagline": "Bryggkrog i gammalt båtvarv vid Djurhamn",
+  "description": "Motorverkstan ligger i ett gammalt båtvarv i Djurhamn på Djurö, strax efter bron, med en stor brygga och uteservering under tältak ut mot vattnet. Inredningen är 'shabby chic' med öppen spis, och på sommaren fylls bryggan av både båtfolk och bilburna gäster. Menyn är klassisk skärgård: sill, gubbröra, toast skagen, rökta räkor, ostron, fish & chips, hummer och burgare. Stämningen är avslappnad men priserna är i övre skärgårdsklass. Passar för en lång sommarlunch eller middag med utsikt. Buss från Slussen går till Djurö, och båtgäster kan lägga till vid restaurangens egna bryggplatser.",
+  "season": "Midsommar till skolstart, öppet alla dagar",
+  "best_for": "Lång sommarlunch på bryggan med skaldjur",
+  "good_to_know": [
+   "Bara öppet midsommar–skolstart; bokning öppnar 1 juni",
+   "Drop-in välkommet, små sällskap bokas ofta inte",
+   "Egna gästplatser för båt upp till ca 9 m",
+   "Ta med en tröja, det blåser på bryggan"
+  ],
+  "review_summary": "Miljön på bryggan och vid vattnet får nästan bara beröm, och många nämner vänlig personal, generösa portioner och att hundar får godis. Maten beskrivs oftast som god, med skaldjur och förrätter som favoriter. Den vanligaste kritiken gäller priset, som flera tycker är högt för området, och att kvaliteten ibland inte håller. Enstaka gäster upplevde ouppmärksam service och missade bordsönskemål en välbesökt kväll."
+ },
+ "en": {
+  "name": "Motorverkstan Bistro & Bar",
+  "kind": "Restaurant & bar",
+  "area": "Djurhamn, Djurö, Värmdö",
+  "tagline": "Waterside restaurant in an old boatyard at Djurhamn",
+  "description": "Motorverkstan is in an old boatyard in Djurhamn on Djurö, just past the bridge, with a big jetty and outdoor seating under a canvas roof facing the water. The decor is 'shabby chic' with an open fire, and in summer the jetty fills up with both boat people and those who've come by car. The menu is classic archipelago: pickled herring, gubbröra (egg and anchovy salad), toast skagen (prawn toast), smoked prawns, oysters, fish & chips, lobster and burgers. The atmosphere is relaxed but prices are at the upper end for the archipelago. Good for a long summer lunch or dinner with a view. The bus from Slussen goes to Djurö, and boat guests can moor at the restaurant's own berths.",
+  "season": "Midsummer to the start of the school year, open every day",
+  "best_for": "A long summer lunch of seafood on the jetty",
+  "good_to_know": [
+   "Only open Midsummer to the start of the school year; bookings open 1 June",
+   "Drop-in welcome; small groups often can't book",
+   "Own guest berths for boats up to about 9 m",
+   "Bring a jumper, it's windy on the jetty"
+  ],
+  "review_summary": "The setting on the jetty by the water gets almost nothing but praise, and many mention friendly staff, generous portions and treats for dogs. The food is mostly described as good, with seafood and starters the favourites. The most common complaint is the price, which several think is high for the area, and that the quality sometimes doesn't hold up. The odd guest found the service inattentive, with table requests missed on a busy evening.",
+  "_from": "ad6abaa71dc4"
+ }
+}

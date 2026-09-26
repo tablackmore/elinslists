@@ -1,0 +1,36 @@
+{
+ "id": 103,
+ "n": 50,
+ "chapter": 2,
+ "creator": "Bosh",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/701838238850240/",
+ "video_only": false,
+ "original_title": "Creamy Tom Kha Noodle Soup",
+ "sv": {
+  "title": "Thai tom kha nudlar",
+  "servings": "",
+  "time": "",
+  "description": "Thailändsk nudelsoppa där en pasta av citrongräs, ingefära och kaffirlimeblad fräses och kokas med kokosmjölk, buljong och shiitake. Serveras över glasnudlar med koriander.",
+  "keywords": [
+   "nudlar",
+   "kokosmjölk",
+   "citrongräs",
+   "shiitake",
+   "soppa"
+  ]
+ },
+ "en": {
+  "title": "Thai Tom Kha Noodles",
+  "servings": "",
+  "time": "",
+  "description": "A Thai noodle soup in which a paste of lemongrass, ginger and makrut lime leaves is fried, then simmered with coconut milk, stock and shiitake. Served over glass noodles with coriander.",
+  "keywords": [
+   "noodles",
+   "coconut milk",
+   "lemongrass",
+   "shiitake",
+   "soup"
+  ]
+ }
+}

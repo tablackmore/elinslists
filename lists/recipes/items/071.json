@@ -1,0 +1,38 @@
+{
+ "id": 71,
+ "n": 36,
+ "chapter": 1,
+ "creator": "",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/543701882101732/",
+ "video_only": false,
+ "original_title": "Pasta e Ceci",
+ "sv": {
+  "title": "Lök och kikärtspasta",
+  "servings": "",
+  "time": "",
+  "description": "Pasta med en slät sås av kikärtor som sjudits med lök, vitlök och rosmarin och sedan mixats. Parmesan och citron rörs ner, och rätten toppas med persilja.",
+  "keywords": [
+   "pasta",
+   "kikärtor",
+   "lök",
+   "vitlök",
+   "parmesan",
+   "rosmarin"
+  ]
+ },
+ "en": {
+  "title": "Onion and Chickpea Pasta",
+  "servings": "",
+  "time": "",
+  "description": "Pasta in a smooth sauce of chickpeas simmered with onion, garlic and rosemary, then blended. Parmesan and lemon are stirred in and it is finished with parsley.",
+  "keywords": [
+   "pasta",
+   "chickpeas",
+   "onion",
+   "garlic",
+   "parmesan",
+   "rosemary"
+  ]
+ }
+}

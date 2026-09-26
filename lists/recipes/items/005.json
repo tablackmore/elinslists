@@ -1,0 +1,36 @@
+{
+ "id": 5,
+ "n": 82,
+ "chapter": 4,
+ "creator": "madhungry",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DbYbVjjuuti/",
+ "video_only": false,
+ "original_title": "Rose's Vinaigrette",
+ "sv": {
+  "title": "Vinegrett",
+  "servings": "",
+  "time": "",
+  "description": "Klassisk vinägrett på schalottenlök, dijonsenap, citron, rödvinsvinäger och olivolja. Allt skakas ihop i en burk och resten förvaras i kylen.",
+  "keywords": [
+   "vinägrett",
+   "dressing",
+   "dijonsenap",
+   "rödvinsvinäger",
+   "olivolja"
+  ]
+ },
+ "en": {
+  "title": "Vinaigrette",
+  "servings": "",
+  "time": "",
+  "description": "Classic vinaigrette of shallot, Dijon mustard, lemon, red wine vinegar and olive oil. Everything is shaken together in a jar and the rest keeps in the fridge.",
+  "keywords": [
+   "vinaigrette",
+   "dressing",
+   "dijon mustard",
+   "red wine vinegar",
+   "olive oil"
+  ]
+ }
+}

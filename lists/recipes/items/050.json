@@ -1,0 +1,36 @@
+{
+ "id": 50,
+ "n": 99,
+ "chapter": 7,
+ "creator": "Paddy Watts Training",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1544123156767735/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Chokladmousse keto",
+  "servings": "",
+  "time": "",
+  "description": "Chokladmousse som mixas av kokta ägg, kakao, mjölk, honung och vanilj och sedan får stelna i kylen i ett par timmar. Ingen ugn behövs.",
+  "keywords": [
+   "chokladmousse",
+   "kakao",
+   "ägg",
+   "honung",
+   "dessert"
+  ]
+ },
+ "en": {
+  "title": "Keto Chocolate Mousse",
+  "servings": "",
+  "time": "",
+  "description": "Chocolate mousse blended from boiled eggs, cocoa, milk, honey and vanilla, then chilled for a couple of hours to set. No baking needed.",
+  "keywords": [
+   "chocolate mousse",
+   "cocoa",
+   "eggs",
+   "honey",
+   "dessert"
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "id": 51,
+ "n": 35,
+ "chapter": 4,
+ "lat": 59.25526,
+ "lon": 18.61472,
+ "km": 32.4,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://bistromalma.se/",
+ "maps": "https://maps.app.goo.gl/nsVPeDCtD94GWUrA6",
+ "address": "Smedstigen 2, 139 60 Värmdö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.2,
+   "scale": 5,
+   "count": 18
+  },
+  {
+   "site": "Thatsup",
+   "rating": 4.0,
+   "scale": 5,
+   "count": 3
+  }
+ ],
+ "sv": {
+  "name": "Bistro Malma Kvarn",
+  "kind": "Skärgårdskrog",
+  "area": "Malma Kvarn, Värmdö",
+  "tagline": "Familjär bryggkrog i Kryssarklubbens gästhamn",
+  "description": "Bistro Malma Kvarn ligger på en brygga i Svenska Kryssarklubbens gästhamn vid Malma Kvarn på Värmdölandet, bland segelbåtar och tallar. Krogen drivs av familjen Nystrand, med bakgrund på bland annat Rolfs Kök och Café Colette. Menyn blandar skärgårdsklassiker med franska och medelhavsinspirerade rätter, och man kan lika gärna komma för en kall öl i solen som för en hel middag. Menyn ändras under sommaren och läggs ut på Instagram. Hit kommer man med bil, med egen båt till gästhamnen eller med SL-buss till hållplatsen Malma kvarn, som ligger alldeles intill.",
+  "season": "Sommar, från kring midsommar (2025 öppnade de 19 juni); onsdag–söndag 15–22.30. Nu stängt för säsongen.",
+  "best_for": "Sommarmiddag i en lugn gästhamn",
+  "good_to_know": [
+   "Öppet ons–sön från kl. 15 under sommaren",
+   "Boka bord via bistromalma.se",
+   "Gästhamn (rabatt för Kryssarklubbens medlemmar); hamnkapten 08-571 430 74",
+   "Busshållplats Malma kvarn intill"
+  ],
+  "review_summary": "De flesta recensenterna tycker om läget i den lilla hamnen, den familjära stämningen och den vänliga personalen, och många kallar stället en pärla. Maten får oftast gott betyg för tillagning och råvaror. Det finns också kritik: små portioner för priset, en stek som serverades rå och där klagomålet hanterades illa, samt synpunkter på ordningen på gården. Betygen bygger på ganska få recensioner."
+ },
+ "en": {
+  "name": "Bistro Malma Kvarn",
+  "kind": "Archipelago restaurant",
+  "area": "Malma Kvarn, Värmdö",
+  "tagline": "Family-run jetty restaurant in the Kryssarklubben guest harbour",
+  "description": "Bistro Malma Kvarn is on a jetty in the Svenska Kryssarklubben (Swedish Cruising Club) guest harbour at Malma Kvarn on the Värmdö mainland, among sailing boats and pine trees. It is run by the Nystrand family, whose background includes Rolfs Kök and Café Colette. The menu mixes archipelago classics with French and Mediterranean-inspired dishes, and you can just as well come for a cold beer in the sun as for a full dinner. The menu changes over the summer and is posted on Instagram. Get here by car, by your own boat to the guest harbour, or by SL bus to the Malma kvarn stop, which is right next to it.",
+  "season": "Summer, from around Midsummer (in 2025 they opened on 19 June); Wednesday–Sunday 15–22.30. Now closed for the season.",
+  "best_for": "A summer dinner in a quiet guest harbour",
+  "good_to_know": [
+   "Open Wed–Sun from 15 in summer",
+   "Book a table via bistromalma.se",
+   "Guest harbour (discount for Kryssarklubben members); harbour master 08-571 430 74",
+   "Malma kvarn bus stop next door"
+  ],
+  "review_summary": "Most reviewers like the location in the little harbour, the family feel and the friendly staff, and many call the place a gem. The food usually scores well for cooking and ingredients. There is also criticism: small portions for the price, a steak served raw with the complaint badly handled, and comments about how the grounds are run. The ratings are based on fairly few reviews.",
+  "_from": "a79595e0a8cb"
+ }
+}

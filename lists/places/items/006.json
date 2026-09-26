@@ -1,0 +1,60 @@
+{
+ "id": 6,
+ "n": 21,
+ "chapter": 3,
+ "lat": 59.31805,
+ "lon": 18.16027,
+ "km": 5.6,
+ "status": "open",
+ "price": 3,
+ "website": "https://restaurangj.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Restaurang%20J%2C%20Augustendalsv%C3%A4gen%2052%2C%20Nacka%20Strand",
+ "address": "Augustendalsvägen 52, 131 52 Nacka Strand",
+ "scores": [
+  {
+   "site": "Google (via Restaurant Guru)",
+   "rating": 4.1,
+   "scale": 5,
+   "count": 1741
+  },
+  {
+   "site": "Tripadvisor",
+   "rating": 3.6,
+   "scale": 5,
+   "count": 479
+  }
+ ],
+ "sv": {
+  "name": "Restaurang J",
+  "kind": "Restaurang",
+  "area": "Nacka Strand, Nacka",
+  "tagline": "Marin brasserie vid kajen med kvällssol mot Djurgården",
+  "description": "Restaurang J har legat vid vattnet i Nacka Strand sedan 1996, intill Hotel J. Utsikten går över Saltsjön mot Blockhusudden på Djurgården och Lidingös södra strand, och på kvällen kan man se solen gå ned över farleden. Köket är en skandinavisk brasserie med tonvikt på fisk och skaldjur, till exempel toast Skagen och ostron, men också köttbullar. Inomhus finns öppen spis och stora fönster; sommartid öppnar verandan, terrassen och en sommarbar på kajen. Pendelbåt 80 från Nybroplan eller Strömma-båten från Nybrokajen lägger till vid Nacka Strand, cirka 15 minuter.",
+  "season": "",
+  "best_for": "Middag i solnedgången med båtresa dit",
+  "good_to_know": [
+   "Öppet alla dagar",
+   "Pendelbåt 80 eller båt från Nybrokajen till Nacka Strand",
+   "Terrass och sommarbar på kajen under sommaren",
+   "Boka bord vid fint väder"
+  ],
+  "review_summary": "Läget och utsikten är det alla nämner först, och många beskriver personalen som vänlig och serveringen som bra. Fisk- och skaldjursrätter får mest beröm. Samtidigt drar många ned betyget för ojämn mat (torra rätter, pommes som smakar fryst), höga priser för portionerna och bristfälligt bemötande vid entrén eller från hovmästaren. Google-betyget är klart högre än Tripadvisors."
+ },
+ "en": {
+  "name": "Restaurang J",
+  "kind": "Restaurant",
+  "area": "Nacka Strand, Nacka",
+  "tagline": "Nautical brasserie on the quay with evening sun towards Djurgården",
+  "description": "Restaurang J has been on the water at Nacka Strand since 1996, next to Hotel J. The view stretches across Saltsjön to Blockhusudden on Djurgården and the southern shore of Lidingö, and in the evening you can watch the sun go down over the shipping lane. The kitchen is a Scandinavian brasserie with a focus on fish and seafood, such as toast Skagen (prawn toast) and oysters, but also meatballs. Inside there's an open fire and big windows; in summer the veranda, the terrace and a summer bar on the quay open up. Commuter boat 80 from Nybroplan or the Strömma boat from Nybrokajen stops at Nacka Strand, about 15 minutes.",
+  "season": "",
+  "best_for": "Dinner at sunset with a boat trip there",
+  "good_to_know": [
+   "Open every day",
+   "Commuter boat 80 or boat from Nybrokajen to Nacka Strand",
+   "Terrace and summer bar on the quay in summer",
+   "Book a table when the weather's nice"
+  ],
+  "review_summary": "The location and view are what everyone mentions first, and many describe the staff as friendly and the service as good. Fish and seafood dishes get the most praise. At the same time, many mark it down for uneven food (dry dishes, chips that taste frozen), high prices for the portions, and a poor welcome at the door or from the maître d'. The Google rating is clearly higher than Tripadvisor's.",
+  "_from": "aa4ab9cf1d52"
+ }
+}

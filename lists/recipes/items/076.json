@@ -1,0 +1,38 @@
+{
+ "id": 76,
+ "n": 70,
+ "chapter": 3,
+ "creator": "Notorious Foodie",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1923436365086262/",
+ "video_only": false,
+ "original_title": "Spanakopita",
+ "sv": {
+  "title": "Grekisk fetaost och filodegspaj",
+  "servings": "",
+  "time": "",
+  "description": "Grekisk paj med filodeg och en fyllning av fetaost, spenat, purjolök, salladslök, dill och persilja. Toppas med skrynklad filodeg och sesamfrön och gräddas i ugn.",
+  "keywords": [
+   "fetaost",
+   "filodeg",
+   "spenat",
+   "purjolök",
+   "paj",
+   "dill"
+  ]
+ },
+ "en": {
+  "title": "Greek Feta and Filo Pie",
+  "servings": "",
+  "time": "",
+  "description": "A Greek filo pie filled with feta, spinach, leek, spring onion, dill and parsley. Topped with crumpled filo and sesame seeds and baked in the oven.",
+  "keywords": [
+   "feta",
+   "filo",
+   "spinach",
+   "leek",
+   "pie",
+   "dill"
+  ]
+ }
+}

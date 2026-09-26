@@ -1,0 +1,54 @@
+{
+ "id": 20,
+ "n": 30,
+ "chapter": 4,
+ "lat": 59.40048,
+ "lon": 18.441,
+ "km": 22.6,
+ "status": "seasonal",
+ "price": 2,
+ "website": "https://www.fredriksborghotel.se/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Fredriksborg%20Hotell%20%26%20Restaurang%2C%20Fredriksborgsv%C3%A4gen%2019%2C%20V%C3%A4rmd%C3%B6",
+ "address": "Fredriksborgsvägen 17, 139 90 Värmdö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 4.0,
+   "scale": 5,
+   "count": 94
+  }
+ ],
+ "sv": {
+  "name": "Fredriksborg Hotell & Restaurang",
+  "kind": "Hotell & restaurang",
+  "area": "Oxdjupet, Värmdö",
+  "tagline": "Hotell i fästning från 1735 högt över Oxdjupet",
+  "description": "Fredriksborg ligger på en platå 30 meter över Oxdjupet, det smala sundet mellan Värmdö och Rindö där alla kryssningsfartyg passerar in mot Stockholm. Hotellet har 15 rum i två officersbyggnader från 1700-talet intill Fredriksborgs fästning, med kakelugnar och trägolv kvar. Man äter i Stenkasernen, i det uppvärmda orangeriet eller ute på terrassen. Lunchmenyn är enkel och prisvärd, med räkmacka, stekt strömming och västerbottenpaj, medan kvällsmenyn bjuder på flankstek, veckans fisk och burgare. Guidning i fästningen ingår för gäster. Buss 439 från Slussen till Björnhamra, Vaxholmsbåt till Rindö eller egen båt till gästbryggan.",
+  "season": "Dagligen 22 maj–30 augusti; september fre–sön, oktober–november fre–lör; julbord 27 nov–20 dec",
+  "best_for": "Middag med solnedgång och kryssningsfartyg nedanför",
+  "good_to_know": [
+   "Stängt för allmänheten vissa dagar p.g.a. bröllop, se abonnerade datum",
+   "Lunch och fika 12–16 utan bokning, boka till middag",
+   "Gratis guidning i fästningen kl. 17 för gäster, maj–sep",
+   "Egen gästbrygga och fri parkering; grusväg med 30 km/h"
+  ],
+  "review_summary": "Gästerna berömmer den vackra och lugna miljön, utsikten över fartygstrafiken, historiska byggnader och god mat både till middag och frukost. Samtidigt är omdömena ovanligt splittrade: flera recensioner på Tripadvisor beskriver otrevligt bemötande från ledningen och att man känt sig ovälkommen när man ställt frågor. Upplevelsen verkar alltså variera mycket beroende på bemötandet. Passar bäst för den som vill ha lugn och historia snarare än hotellservice i toppklass."
+ },
+ "en": {
+  "name": "Fredriksborg Hotell & Restaurang",
+  "kind": "Hotel & restaurant",
+  "area": "Oxdjupet, Värmdö",
+  "tagline": "Hotel in a 1735 fortress high above Oxdjupet",
+  "description": "Fredriksborg sits on a plateau 30 metres above Oxdjupet, the narrow sound between Värmdö and Rindö that every cruise ship passes through on its way into Stockholm. The hotel has 15 rooms in two 18th-century officers' buildings next to Fredriksborg fortress, with the tiled stoves and wooden floors still in place. You eat in the Stenkasernen (stone barracks), in the heated orangery or out on the terrace. The lunch menu is simple and good value, with prawn sandwiches, fried Baltic herring and Västerbotten cheese quiche, while the evening menu offers flank steak, fish of the week and burgers. A guided tour of the fortress is included for guests. Bus 439 from Slussen to Björnhamra, Vaxholm boat to Rindö, or your own boat to the guest jetty.",
+  "season": "Daily 22 May–30 August; September Fri–Sun, October–November Fri–Sat; julbord (Christmas buffet) 27 Nov–20 Dec",
+  "best_for": "Dinner with a sunset and cruise ships below",
+  "good_to_know": [
+   "Closed to the public on some days because of weddings; check the private-booking dates",
+   "Lunch and fika 12–16 without booking; book for dinner",
+   "Free guided tour of the fortress at 17:00 for guests, May–Sep",
+   "Own guest jetty and free parking; gravel road with a 30 km/h limit"
+  ],
+  "review_summary": "Guests praise the beautiful, peaceful setting, the view of the shipping traffic, the historic buildings and good food at both dinner and breakfast. At the same time, reviews are unusually divided: several on Tripadvisor describe rude treatment from the management and feeling unwelcome when asking questions. So the experience seems to vary a lot depending on how you're treated. Best for those who want peace and history rather than top-class hotel service.",
+  "_from": "4329e9a04a8a"
+ }
+}

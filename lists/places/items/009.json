@@ -1,0 +1,54 @@
+{
+ "id": 9,
+ "n": 24,
+ "chapter": 3,
+ "lat": 59.36667,
+ "lon": 18.24704,
+ "km": 11.0,
+ "status": "open",
+ "price": 1,
+ "website": "https://elfviksgard.nu/",
+ "maps": "https://www.google.com/maps/search/?api=1&query=Elfviks%20G%C3%A5rdsbistro%2C%20Elfviks%20Uddv%C3%A4g%2012%2C%20Liding%C3%B6",
+ "address": "Elfviks Uddväg 12, 181 90 Lidingö",
+ "scores": [
+  {
+   "site": "Tripadvisor",
+   "rating": 3.0,
+   "scale": 5,
+   "count": 6
+  }
+ ],
+ "sv": {
+  "name": "Elfviks Gårdsbistro",
+  "kind": "Gårdscafé",
+  "area": "Elfvik, Lidingö",
+  "tagline": "Ekologiskt gårdsfika på Lidingös nordöstra udde",
+  "description": "Elfviks gård ligger på Lidingös nordöstra spets, där skärgården börjar, i ett naturreservat med hagar, skog och stränder runt udden. På gården finns får, grisar, höns, kaniner och hästar, och i gårdsbistron serveras fika, surdegsmackor och husmanslunch med så ekologiska råvaror som möjligt; det finns också bageri, gårdsbutik med ost, ägg och lammskinn samt ett galleri. Det här är mer landet än bryggkant: själva vattnet når man via korta promenader i reservatet. Passar barnfamiljer och den som vill kombinera fika med en vandring på Elfviksleden. Buss 204 från Ropsten går ända till Elfvik.",
+  "season": "Ons–sön 11–16",
+  "best_for": "Utflykt med barn och promenad i Elfviksreservatet",
+  "good_to_know": [
+   "Buss 204 från Ropsten till Elfvik",
+   "Djur att titta på, bra för barn",
+   "Gårdsbutik med ost, ägg och lammskinn",
+   "Vattnet nås via promenad i naturreservatet"
+  ],
+  "review_summary": "Omdömena är få och spretiga. Besökare uppskattar den genuina gårdsmiljön, djuren och naturen runt omkring, som gör stället till ett trevligt utflyktsmål. På Tripadvisor är kritiken däremot hård: några tycker att maten och bakverken är smaklösa och dyra i förhållande till kvaliteten, och en recensent föreslår att man hellre tar med egen picknick. Underlaget är litet, så gör gärna en egen bedömning."
+ },
+ "en": {
+  "name": "Elfviks Gårdsbistro",
+  "kind": "Farm cafe",
+  "area": "Elfvik, Lidingö",
+  "tagline": "Organic farm fika on Lidingö's north-eastern headland",
+  "description": "Elfvik farm is on the north-eastern tip of Lidingö, where the archipelago begins, in a nature reserve with meadows, woods and shores around the headland. The farm has sheep, pigs, hens, rabbits and horses, and the farm bistro serves fika (coffee and cake), sourdough sandwiches and traditional Swedish lunches using as much organic produce as possible; there's also a bakery, a farm shop with cheese, eggs and sheepskins, and a gallery. This is more countryside than waterfront: you reach the water itself by short walks in the reserve. Good for families with children and anyone who wants to combine fika with a hike on the Elfviksleden trail. Bus 204 from Ropsten goes all the way to Elfvik.",
+  "season": "Wed–Sun 11–16",
+  "best_for": "A day out with children and a walk in the Elfvik reserve",
+  "good_to_know": [
+   "Bus 204 from Ropsten to Elfvik",
+   "Animals to look at, good for children",
+   "Farm shop with cheese, eggs and sheepskins",
+   "The water is reached by a walk through the nature reserve"
+  ],
+  "review_summary": "Reviews are few and all over the place. Visitors like the genuine farm setting, the animals and the countryside around it, which make it a nice place for a day out. On Tripadvisor, though, the criticism is harsh: some find the food and baking bland and expensive for the quality, and one reviewer suggests bringing your own picnic instead. There's not much to go on, so it's worth judging for yourself.",
+  "_from": "cc3a60bd000b"
+ }
+}
