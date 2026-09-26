@@ -7,6 +7,7 @@
   // one quiet colour per chapter for the card's top edge (same hue family as the site accent)
   const HUES = ["#5b8a5a", "#b07a2e", "#a2553f", "#6d6a9a", "#3f7f8f", "#8a6d4f", "#9a7d3a", "#a4587a"];
   const rating = (r) => Ratings.get(`recipes:${r.id}`) || {}; // saved under the permanent id, not the shown number
+  const open = new Set(); // recipe ids whose "Har vi lagat den?" box (date + notes) is open
 
   $("#chips").addEventListener("click", (e) => {
     const b = e.target.closest(".chip"); if (!b) return;
@@ -37,7 +38,12 @@
         ${r.link ? `<a class="btn" href="${esc(r.link)}" target="_blank" rel="noopener">${esc(t("open_recipe"))} ↗</a>` : "<span></span>"}
         <span class="card__stars" role="radiogroup" aria-label="${esc(t("cooked_it"))}">${[1, 2, 3, 4, 5].map((i) =>
           `<button class="${i <= (v.stars || 0) ? "on" : ""}" data-id="${r.id}" data-s="${i}" role="radio" aria-checked="${i === v.stars}" aria-label="${esc(t("rate", { n: i }))}">★</button>`).join("")}</span>
-      </div></article>`;
+      </div>
+      <div class="card__notes">
+        <button class="linkbtn" data-notes="${r.id}" aria-expanded="${open.has(r.id)}">${esc(t("notes"))}${v.note ? " ✎" : ""}${v.date ? ` · ${esc(v.date)}` : ""}</button>
+        <span class="status" data-status="${r.id}"></span>
+      </div>
+      ${open.has(r.id) ? `<div class="card__rating" data-box="${r.id}"></div>` : ""}</article>`;
   }
 
   function render() {
@@ -46,13 +52,19 @@
       const rs = shown.filter((r) => r.chapter === ci); if (!rs.length) return "";
       return `<h2 class="label rec__chapter">${esc(L10N(c).title)} · ${rs.length}</h2><div class="cards">${rs.map(card).join("")}</div>`;
     }).join("") || `<p class="empty">${esc(t("no_match"))}</p>`;
+    // open boxes are rebuilt from the saved rating after every render
+    document.querySelectorAll("[data-box]").forEach((el) =>
+      el.replaceWith(ratingBox(`recipes:${el.dataset.box}`, t("cooked_it"), t("notes_ph_recipe"))));
   }
   // tap a star to rate "have we made it?"; tap the same star again to clear
   $("#out").addEventListener("click", async (e) => {
+    const nb = e.target.closest("[data-notes]");
+    if (nb) { const id = +nb.dataset.notes; open.has(id) ? open.delete(id) : open.add(id); render(); return; }
     const b = e.target.closest(".card__stars button"); if (!b) return;
     const key = `recipes:${b.dataset.id}`, old = Ratings.get(key) || {};
     const stars = +b.dataset.s === old.stars ? 0 : +b.dataset.s;
-    try { await Ratings.set(key, { ...old, stars, date: old.date || new Date().toISOString().slice(0, 10) }); } catch (err) { /* stays as it was */ }
+    try { await Ratings.set(key, { ...old, stars, date: old.date || new Date().toISOString().slice(0, 10) }); }
+    catch (err) { const st = document.querySelector(`[data-status="${b.dataset.id}"]`); if (st) st.textContent = t("save_failed"); }
   });
   Ratings.listeners.push(render);
 

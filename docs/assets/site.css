@@ -157,7 +157,7 @@ html:has(body.mappage) { height: 100%; }
 .rec__head h1 { font-size: clamp(34px, 5vw, 50px); line-height: 1.05; margin: 0 0 8px; font-weight: 600; }
 .rec__tools { display: grid; gap: 4px; margin: 18px 0 8px; max-width: 760px; }
 .rec__chapter { margin: 30px 0 10px; }
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 16px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 16px; align-items: start; }
 .card { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); padding: 16px 18px 14px; display: flex; flex-direction: column; gap: 8px;
   border-top: 4px solid var(--chapter, var(--accent)); }
 .card h3 { font-size: 21px; line-height: 1.15; margin: 0; font-weight: 600; }
@@ -167,6 +167,10 @@ html:has(body.mappage) { height: 100%; }
 .card__by { color: var(--ink); }
 .card__foot { margin-top: auto; padding-top: 8px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
 .card__stars { display: flex; }
+.card__notes { display: flex; gap: 10px; align-items: baseline; }
+.linkbtn { background: none; border: 0; padding: 0; font-family: var(--sans); font-size: 13px; font-weight: 600; color: var(--accent); cursor: pointer; }
+.card__rating, .card .rating { margin-top: 4px; }
+.card .rating .star { font-size: 24px; }
 .card__stars button { background: none; border: 0; font-size: 22px; line-height: 1; color: var(--rule); cursor: pointer; padding: 1px; }
 .card__stars button.on { color: var(--star); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
