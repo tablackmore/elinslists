@@ -35,7 +35,7 @@ as $$
   select exists (select 1 from public.members m where lower(m.email) = lower(auth.jwt() ->> 'email'));
 $$;
 revoke all on function public.is_member() from public;
-grant execute on function public.is_member() to anon, authenticated;
+grant execute on function public.is_member() to authenticated;  -- only reveals the caller's own membership
 
 alter table public.ratings enable row level security;
 alter table public.members enable row level security;   -- no policies: not readable or writable from the site
@@ -44,10 +44,10 @@ drop policy if exists "members read ratings"   on public.ratings;
 drop policy if exists "members add ratings"    on public.ratings;
 drop policy if exists "members change ratings" on public.ratings;
 drop policy if exists "members remove ratings" on public.ratings;
-create policy "members read ratings"   on public.ratings for select to authenticated using (public.is_member());
-create policy "members add ratings"    on public.ratings for insert to authenticated with check (public.is_member());
-create policy "members change ratings" on public.ratings for update to authenticated using (public.is_member()) with check (public.is_member());
-create policy "members remove ratings" on public.ratings for delete to authenticated using (public.is_member());
+create policy "members read ratings"   on public.ratings for select to authenticated using ((select public.is_member()));
+create policy "members add ratings"    on public.ratings for insert to authenticated with check ((select public.is_member()));
+create policy "members change ratings" on public.ratings for update to authenticated using ((select public.is_member())) with check ((select public.is_member()));
+create policy "members remove ratings" on public.ratings for delete to authenticated using ((select public.is_member()));
 
 -- keep updated_by honest on every change
 create or replace function public.ratings_stamp() returns trigger language plpgsql set search_path = '' as $$
