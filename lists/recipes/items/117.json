@@ -1,0 +1,36 @@
+{
+ "id": 117,
+ "n": 97,
+ "chapter": 3,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1700271391663238/",
+ "video_only": false,
+ "original_title": "Parmigiana di Melanzane",
+ "sv": {
+  "title": "Italiensk aubergine lasagne",
+  "servings": "2",
+  "time": "",
+  "description": "Parmigiana i lager av grillad aubergine, hemgjord tomatsås med basilika, mozzarella och parmesan som gratineras i ugnen. Auberginen friteras inte. Låt vila en stund innan servering.",
+  "keywords": [
+   "aubergine",
+   "parmigiana",
+   "mozzarella",
+   "parmesan",
+   "tomatsås"
+  ]
+ },
+ "en": {
+  "title": "Italian Aubergine Lasagne",
+  "servings": "2",
+  "time": "",
+  "description": "Parmigiana layered with griddled aubergine, homemade basil tomato sauce, mozzarella and Parmesan, then baked in the oven. The aubergine is not deep-fried. Leave it to rest before serving.",
+  "keywords": [
+   "aubergine",
+   "parmigiana",
+   "mozzarella",
+   "parmesan",
+   "tomato sauce"
+  ]
+ }
+}

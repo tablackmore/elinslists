@@ -1,0 +1,36 @@
+{
+ "id": 120,
+ "n": 26,
+ "chapter": 0,
+ "creator": "Detroit 75 Kitchen",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1648692439921524/",
+ "video_only": false,
+ "original_title": "Tabbouleh (my grandmother's recipe)",
+ "sv": {
+  "title": "Tabboule",
+  "servings": "",
+  "time": "",
+  "description": "Sallad på mycket finhackad persilja, tomat, lök, salladslök och bulgur, smaksatt med citron, olivolja, torkad mynta och granatäppelsirap. Allt hackas för hand och vänds ihop.",
+  "keywords": [
+   "tabbouleh",
+   "persilja",
+   "bulgur",
+   "tomat",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Tabbouleh",
+  "servings": "",
+  "time": "",
+  "description": "Salad of very finely chopped parsley, tomato, onion, spring onion and bulgur wheat, dressed with lemon, olive oil, dried mint and pomegranate molasses. Everything is chopped by hand and folded together.",
+  "keywords": [
+   "tabbouleh",
+   "parsley",
+   "bulgur",
+   "tomato",
+   "salad"
+  ]
+ }
+}

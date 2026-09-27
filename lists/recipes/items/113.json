@@ -1,0 +1,36 @@
+{
+ "id": 113,
+ "n": 48,
+ "chapter": 1,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/3045456112305286/",
+ "video_only": false,
+ "original_title": "Butternut Squash and Pancetta Risotto",
+ "sv": {
+  "title": "Butternut risotto",
+  "servings": "2",
+  "time": "",
+  "description": "Risotto med champinjoner och butternutpumpa som dels rostas i ugnen och mixas till en len sås, dels serveras i tärningar ovanpå. Avrundas med Grana Padano, smör och krispig salvia.",
+  "keywords": [
+   "risotto",
+   "butternutpumpa",
+   "svamp",
+   "salvia",
+   "grana padano"
+  ]
+ },
+ "en": {
+  "title": "Butternut Squash Risotto",
+  "servings": "2",
+  "time": "",
+  "description": "Risotto with mushrooms and butternut squash, part of which is oven-roasted and blended into a smooth sauce and part served diced on top. Finished with Grana Padano, butter and crisp sage.",
+  "keywords": [
+   "risotto",
+   "butternut squash",
+   "mushrooms",
+   "sage",
+   "grana padano"
+  ]
+ }
+}

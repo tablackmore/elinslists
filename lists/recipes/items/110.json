@@ -1,0 +1,36 @@
+{
+ "id": 110,
+ "n": 47,
+ "chapter": 1,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1206545274693256/",
+ "video_only": false,
+ "original_title": "Minestra di broccoli alla Romana",
+ "sv": {
+  "title": "Pasta med broccoli utan anjovis",
+  "servings": "4",
+  "time": "",
+  "description": "Romersk broccolisoppa med morot, selleri, lök och tomater, där bruten spaghetti kokas direkt i soppan. Soltorkade tomater, vitlök och chili ger smak. Serveras med pecorino.",
+  "keywords": [
+   "broccoli",
+   "spaghetti",
+   "soppa",
+   "tomater",
+   "pecorino"
+  ]
+ },
+ "en": {
+  "title": "Broccoli Pasta without Anchovies",
+  "servings": "4",
+  "time": "",
+  "description": "Roman broccoli soup with carrot, celery, onion and tomatoes, with broken spaghetti cooked straight in the pot. Sun-dried tomatoes, garlic and chilli add flavour. Served with pecorino.",
+  "keywords": [
+   "broccoli",
+   "spaghetti",
+   "soup",
+   "tomatoes",
+   "pecorino"
+  ]
+ }
+}

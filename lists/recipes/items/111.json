@@ -1,0 +1,36 @@
+{
+ "id": 111,
+ "n": 23,
+ "chapter": 0,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/2176595003256160/",
+ "video_only": false,
+ "original_title": "Zucchine, Menta e Pecorino",
+ "sv": {
+  "title": "Italiensk zucchini-salad med citron",
+  "servings": "2",
+  "time": "Under 10 minuter",
+  "description": "Rå zucchini i tunna band som vänds i en marinad av citron, olivolja och mynta och toppas med hyvlad pecorino. Ingen tillagning behövs och den är klar på under tio minuter.",
+  "keywords": [
+   "zucchini",
+   "sallad",
+   "citron",
+   "mynta",
+   "pecorino"
+  ]
+ },
+ "en": {
+  "title": "Italian Courgette Salad with Lemon",
+  "servings": "2",
+  "time": "Under 10 minutes",
+  "description": "Raw courgette shaved into thin ribbons, tossed in a lemon, olive oil and mint marinade and topped with shaved pecorino. No cooking needed and ready in under ten minutes.",
+  "keywords": [
+   "courgette",
+   "salad",
+   "lemon",
+   "mint",
+   "pecorino"
+  ]
+ }
+}

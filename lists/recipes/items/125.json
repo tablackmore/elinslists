@@ -1,0 +1,36 @@
+{
+ "id": 125,
+ "n": 50,
+ "chapter": 1,
+ "creator": "Comidas Caseras",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1915040392523535/",
+ "video_only": false,
+ "original_title": "",
+ "sv": {
+  "title": "Tomatsås med creeme cheese för pasta",
+  "servings": "",
+  "time": "Cirka 50 minuter",
+  "description": "Hela tomater och vitlök kokas mjuka under lock, skalas och mosas till en sås med oregano och paprika. Färskost rörs ner och såsen vänds med pasta och parmesan.",
+  "keywords": [
+   "tomatsås",
+   "pasta",
+   "färskost",
+   "tomater",
+   "parmesan"
+  ]
+ },
+ "en": {
+  "title": "Tomato Sauce with Cream Cheese for Pasta",
+  "servings": "",
+  "time": "About 50 minutes",
+  "description": "Whole tomatoes and garlic are simmered until soft under a lid, then peeled and mashed into a sauce with oregano and paprika. Cream cheese is stirred in and the sauce tossed with pasta and Parmesan.",
+  "keywords": [
+   "tomato sauce",
+   "pasta",
+   "cream cheese",
+   "tomatoes",
+   "parmesan"
+  ]
+ }
+}

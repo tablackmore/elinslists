@@ -1,0 +1,36 @@
+{
+ "id": 112,
+ "n": 24,
+ "chapter": 0,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1240623894933225/",
+ "video_only": false,
+ "original_title": "Patate Apparecchiate",
+ "sv": {
+  "title": "Italiensk potatis & kapris-sallad",
+  "servings": "2",
+  "time": "",
+  "description": "Siciliansk sötsur potatissallad: potatistärningar steks krispiga med lök och blandas med kapris, gröna oliver, oregano och vitvinsvinäger med socker. Serveras varm eller rumstempererad.",
+  "keywords": [
+   "potatis",
+   "kapris",
+   "oliver",
+   "lök",
+   "sallad"
+  ]
+ },
+ "en": {
+  "title": "Italian Potato & Caper Salad",
+  "servings": "2",
+  "time": "",
+  "description": "Sicilian sweet and sour potato salad: diced potatoes are fried until crisp with onion, then mixed with capers, green olives, oregano and sweetened white wine vinegar. Served warm or at room temperature.",
+  "keywords": [
+   "potatoes",
+   "capers",
+   "olives",
+   "onion",
+   "salad"
+  ]
+ }
+}

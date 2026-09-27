@@ -1,0 +1,36 @@
+{
+ "id": 114,
+ "n": 49,
+ "chapter": 1,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1556992085663011/",
+ "video_only": false,
+ "original_title": "Mushroom Risotto",
+ "sv": {
+  "title": "Svamprisotto",
+  "servings": "2",
+  "time": "30 minuter",
+  "description": "Svamprisotto på blandad färsk svamp, kokt i en enkel buljong av torkad karljohan, soltorkade tomater och lagerblad. Avslutas med smör, Grana Padano och persilja. Klar på cirka 30 minuter.",
+  "keywords": [
+   "risotto",
+   "svamp",
+   "karljohan",
+   "grana padano",
+   "ris"
+  ]
+ },
+ "en": {
+  "title": "Mushroom Risotto",
+  "servings": "2",
+  "time": "30 minutes",
+  "description": "Mushroom risotto made with mixed fresh mushrooms and cooked in a simple stock of dried porcini, sun-dried tomatoes and bay leaf. Finished with butter, Grana Padano and parsley. Ready in about 30 minutes.",
+  "keywords": [
+   "risotto",
+   "mushrooms",
+   "porcini",
+   "grana padano",
+   "rice"
+  ]
+ }
+}

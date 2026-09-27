@@ -1,0 +1,36 @@
+{
+ "id": 124,
+ "n": 65,
+ "chapter": 2,
+ "creator": "whatinthechef",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1652835292750392/",
+ "video_only": false,
+ "original_title": "Coconut Daal",
+ "sv": {
+  "title": "Dal",
+  "servings": "",
+  "time": "Cirka 35 minuter",
+  "description": "Krämig dal på linser från burk, krossade tomater och kokosmjölk, kryddad med spiskummin, gurkmeja, garam masala, ingefära och grön chili. Sjuder i cirka 20 minuter och serveras med naan.",
+  "keywords": [
+   "dal",
+   "linser",
+   "kokosmjölk",
+   "tomater",
+   "curry"
+  ]
+ },
+ "en": {
+  "title": "Dal",
+  "servings": "",
+  "time": "About 35 minutes",
+  "description": "Creamy dal made with tinned lentils, chopped tomatoes and coconut milk, spiced with cumin, turmeric, garam masala, ginger and green chilli. Simmered for about 20 minutes and served with naan.",
+  "keywords": [
+   "dal",
+   "lentils",
+   "coconut milk",
+   "tomatoes",
+   "curry"
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": 115,
+ "n": 61,
+ "chapter": 2,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1763094437983188/",
+ "video_only": false,
+ "original_title": "Live to 100 Minestrone",
+ "sv": {
+  "title": "Minestrone",
+  "servings": "4",
+  "time": "",
+  "description": "Sardinsk minestrone med morot, selleri, lök, tomat, potatis och savojkål, som sjuder länge innan borlottibönor och kikärtor tillsätts. Kan kompletteras med fregula och serveras med pecorino.",
+  "keywords": [
+   "minestrone",
+   "soppa",
+   "bönor",
+   "kikärtor",
+   "grönsaker"
+  ]
+ },
+ "en": {
+  "title": "Minestrone",
+  "servings": "4",
+  "time": "",
+  "description": "Sardinian minestrone with carrot, celery, onion, tomato, potato and savoy cabbage, simmered slowly before borlotti beans and chickpeas go in. Fregola can be added, and it is served with pecorino.",
+  "keywords": [
+   "minestrone",
+   "soup",
+   "beans",
+   "chickpeas",
+   "vegetables"
+  ]
+ }
+}

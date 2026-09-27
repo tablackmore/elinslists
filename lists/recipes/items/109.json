@@ -1,0 +1,36 @@
+{
+ "id": 109,
+ "n": 46,
+ "chapter": 1,
+ "creator": "Francesco Mattana",
+ "platform": "Facebook",
+ "link": "https://www.facebook.com/reel/1792387171440735/",
+ "video_only": false,
+ "original_title": "Fettuccine Alfredo",
+ "sv": {
+  "title": "Pasta al fredo",
+  "servings": "2",
+  "time": "",
+  "description": "Färsk fettuccine som vänds med smör, riven Grana Padano och lite pastavatten tills det blir en krämig sås. Bara tre ingredienser, ingen grädde, och klar på några minuter.",
+  "keywords": [
+   "fettuccine",
+   "pasta",
+   "smör",
+   "grana padano",
+   "parmesan"
+  ]
+ },
+ "en": {
+  "title": "Pasta Alfredo",
+  "servings": "2",
+  "time": "",
+  "description": "Fresh fettuccine tossed with butter, grated Grana Padano and a splash of pasta water until creamy. Only three ingredients, no cream, and ready in a few minutes.",
+  "keywords": [
+   "fettuccine",
+   "pasta",
+   "butter",
+   "grana padano",
+   "parmesan"
+  ]
+ }
+}

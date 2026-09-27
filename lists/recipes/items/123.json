@@ -1,0 +1,36 @@
+{
+ "id": 123,
+ "n": 98,
+ "chapter": 3,
+ "creator": "cocolarkincooks",
+ "platform": "Instagram",
+ "link": "https://www.instagram.com/reel/DdPpX9qPFDA/",
+ "video_only": false,
+ "original_title": "Cauliflower au Poivre",
+ "sv": {
+  "title": "Ungdbakad blomkål med god sås",
+  "servings": "",
+  "time": "Cirka 1 timme 10 minuter",
+  "description": "En hel blomkål rostas i ugnen och öses under tiden med en gräddsås med grovkrossad svartpeppar, konjak, lök, örter och svampbuljong. Serveras som huvudrätt med såsen runt om.",
+  "keywords": [
+   "blomkål",
+   "gräddsås",
+   "svartpeppar",
+   "konjak",
+   "ugnsrostad"
+  ]
+ },
+ "en": {
+  "title": "Oven-Roasted Cauliflower with a Delicious Sauce",
+  "servings": "",
+  "time": "About 1 hour 10 minutes",
+  "description": "A whole cauliflower roasted in the oven and basted with a cream sauce of cracked black pepper, brandy, onion, herbs and mushroom stock. Served as a main course with the sauce around it.",
+  "keywords": [
+   "cauliflower",
+   "cream sauce",
+   "black pepper",
+   "brandy",
+   "roasted"
+  ]
+ }
+}
